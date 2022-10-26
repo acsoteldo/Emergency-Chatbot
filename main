@@ -1,0 +1,22 @@
+// keywords ← [‘natural’, ‘disaster’, hazard, emergency, flood, drought, hurricane, tornado, water, help, safe, weather, wind’, ‘hazards’, ‘earthquake’, ‘hail’, ‘heat wave’, ‘storm’, ‘typhoon’, ‘tsunami’, ‘volcano’, ‘wildfire’, ‘media’, ‘crises’, ‘relief’]
+//Say 'How may I help you?'
+//if(users says “hello”){
+// respond: “how are you?”
+//}
+ 
+//if(users says [keyword]{
+// look up [keyword] on web 
+// respond: a list of sources
+//}
+ 
+//if (user says “where****”){
+// respond: google map location
+//}
+ 
+//if (user says “when***”){
+// respond: output time
+//}
+ 
+//if (user says [good] {
+// respond: “How can I make your day better?”
+//}

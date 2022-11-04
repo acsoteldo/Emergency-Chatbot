@@ -1,4 +1,4 @@
-# Chatbot
+# Emergency Chatbot
 
 The main topic for my research is a chatbot capable of holding a conversation regarding natural disasters. I plan on creating a simple rule-based chatbot. However, I also plan to explore Natural Language Processing (NLP) and learn how to train the model to answer simple questions related to specific keywords in order to better understand the logic behind chatbots.
 

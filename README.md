@@ -14,3 +14,14 @@ There’s been an increase in the need for disaster management tools and many of
 ### Technologies used
 * Python
 * HTML
+
+### Services included
+* Shelter OR electricity
+* Water
+* Food
+* Hygiene products
+* Emergency/medical assistance
+* Educational resources
+* Mental health
+* Pet
+* Connect with person

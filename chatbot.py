@@ -16,7 +16,7 @@ def closeMatches(word,patterns):
         sw=get_close_matches(word, patterns, n=1)[0]
         write_to_text.write(chatbot + ": Do you mean "+ str(sw) +" ?[Yes/No]" + " \n ")
         print("Do you mean "+ str(sw) +" ?[Yes/No]")
-        C_input = Check_isEmpty(chatbot + ": Do you mean "+ str(sw) +" ?[Yes/No]", input("Customer: "))
+        C_input = Check_isEmpty("Do you mean "+ str(sw) +" ?[Yes/No]", input("Customer: "))
         write_to_text.write("Customer: " + C_input + " \n ")
         if(C_input.lower()=="n" or C_input.lower()=="no"):
             return ""
@@ -31,7 +31,7 @@ write_to_text=open("CH_"+timestampStr+".txt","w+")
 write_to_text.write("Time: "+ timestampStr + " \n ")
 
 # Keywords
-Feelings=['anxious', 'worried', 'confused', 'helpless', 'hopeless', 'guilty', 'overwhelmed', 'disoriented', 'isolated']
+Feelings=['anxious', 'worried', 'confused', 'helpless', 'hopeless', 'guilty', 'overwhelmed', 'disoriented', 'isolated', 'mental health']
 Need_help=['shelter', 'electricity', 'water', 'food', 'hygiene products', 'medical assistance', 'emergency', 'educational resources', 'pet']
 Players=['survivors', 'friends', 'loved ones', 'first responders', 'recovery workers', 'community members']
 Natural_Disaster=['tornadoes', 'hurricanes', 'severe/tropical storms', 'floods', 'wildfire', 'earthquake', 'drought', 'infectious disease outbreak']
@@ -102,52 +102,33 @@ def Issue(C_input):
         elif("pet" in C_input.lower() or "dog" in C_input.lower() or "cat" in C_input.lower()):
             write_to_text.write(chatbot + ": Do you have a pet?[Y/N] "+ " \n ")
             print("Do you have a pet?[Y/N] ")
-            C_input =Check_isEmpty(chatbot + ": Do you have a pet?[Y/N] ", input("Customer: "))
+            C_input =Check_isEmpty("Do you have a pet?[Y/N] ", input("Customer: "))
             write_to_text.write("Customer: " + C_input + " \n ")
             write_to_text.write(chatbot + ": Here's some resources: "+ " \n ")
             print("Here's some resources: ")
             # add resources
             break
-
-        if(Response_dept):
-            write_to_text.write(chatbot + ": Redirecting to relevant emergency response department: "+ " \n ")
-            print("Redirecting to relevant emergency response department: ")
-            # be careful
-            break
-
-        elif(Feelings):
-            message = [
-                "\nAre you safe?[Y/N] \n",
-                "\nAre you able to sleep?[Y/N] \n",
-                "\nAre you ok?[Y/N] \n"]
-            write_to_text.write(chatbot + ": " f"{random.choice(message)}"+ " \n ")
-            print(f"{random.choice(message)}")
-            C_input =Check_isEmpty(chatbot + ": " f"{random.choice(message)}", input("Customer: "))
-            write_to_text.write("Customer: " + C_input + " \n ")
-            write_to_text.write(chatbot + ": Here's some coping tips: "+ " \n ")
-            print("Here's some coping tips: ")
-            # add resources
-            break 
-
+        
+        # Following 911 question protocol
         elif("medical assistance" in C_input.lower() or "emergency" in C_input.lower()):
             write_to_text.write(chatbot + ": What is the location of the emergency? "+ " \n ")
             print("What is the location of the emergency? ")
-            C_input =Check_isEmpty(chatbot + ": What is the location of the emergency? ", input("Customer: "))
+            C_input =Check_isEmpty("What is the location of the emergency? ", input("Customer: "))
             write_to_text.write("Customer: " + C_input + " \n ")
             if("don't know" in C_input.lower() or "unsure" in C_input.lower()):
                 write_to_text.write(chatbot + ": Any landmarks, parks, businesses nearby? "+ " \n ")
                 print("Any landmarks, parks, businesses nearby? ")
-                C_input =Check_isEmpty(chatbot + ": Any landmarks, parks, businesses nearby? ", input("Customer: "))
+                C_input =Check_isEmpty("Any landmarks, parks, businesses nearby? ", input("Customer: "))
                 write_to_text.write("Customer: " + C_input + " \n ")
             
             write_to_text.write(chatbot + ": Please provide a reliable phone number. "+ " \n ")
             print("Please provide a reliable phone number. ")
-            C_input =Check_isEmpty(chatbot + ": Please provide a reliable phone number. ", input("Customer: "))
+            C_input =Check_isEmpty("Please provide a reliable phone number. ", input("Customer: "))
             write_to_text.write("Customer: " + C_input + " \n ")
 
             write_to_text.write(chatbot + ": What’s the problem? "+ " \n ")
             print("What’s the problem? ")
-            C_input =Check_isEmpty(chatbot + ": What’s the problem? ", input("Customer: "))
+            C_input =Check_isEmpty("What’s the problem? ", input("Customer: "))
             write_to_text.write("Customer: " + C_input + " \n ")
             if(Natural_Disaster or Human_Caused_Disaster):
                 write_to_text.write(chatbot + ": The emergency response is on the way.")
@@ -155,24 +136,48 @@ def Issue(C_input):
 
             write_to_text.write(chatbot + ": Are there other people involved? "+ " \n ")
             print("Are there other people involved? ")
-            C_input =Check_isEmpty(chatbot + ": Are there other people involved? ", input("Customer: "))
+            C_input =Check_isEmpty("Are there other people involved? ", input("Customer: "))
             write_to_text.write("Customer: " + C_input + " \n ")
 
             write_to_text.write(chatbot + ": What kind of clothes are YOU wearing? "+ " \n ")
             print("What kind of clothes are YOU wearing? ")
-            C_input =Check_isEmpty(chatbot + ": What kind of clothes are YOU wearing? ", input("Customer: "))
+            C_input =Check_isEmpty("What kind of clothes are YOU wearing? ", input("Customer: "))
             write_to_text.write("Customer: " + C_input + " \n ")
 
             write_to_text.write(chatbot + ": Are you inside or outside? "+ " \n ")
             print("Are you inside or outside? ")
-            C_input =Check_isEmpty(chatbot + ": Are you inside or outside? ", input("Customer: "))
+            C_input =Check_isEmpty("Are you inside or outside? ", input("Customer: "))
             write_to_text.write("Customer: " + C_input + " \n ")
+            write_to_text.write(chatbot + ": Please stay on the line. The emergency response is almost there.")
+            print("Please stay on the line. The emergency response is almost there.")
             break
+
+        elif C_input.lower() in Response_dept:
+            write_to_text.write(chatbot + ": Redirecting to relevant emergency response department: "+ " \n ")
+            print("Redirecting to relevant emergency response department: ")
+            # be careful
+            break
+
+        elif C_input.lower() in Feelings:
+            message = [
+                "\nAre you safe?[Y/N] \n",
+                "\nAre you able to sleep?[Y/N] \n",
+                "\nAre you ok?[Y/N] \n"]
+            write_to_text.write(chatbot + ": " f"{random.choice(message)}"+ " \n ")
+            print(f"{random.choice(message)}")
+            C_input =Check_isEmpty(f"{random.choice(message)}", input("Customer: "))
+            write_to_text.write("Customer: " + C_input + " \n ")
+            write_to_text.write(chatbot + ": Here's some coping tips: "+ " \n ")
+            print("Here's some coping tips: ")
+            # add resources 
+            break 
 
         else:
             write_to_text.write(chatbot + ": Sorry! Invalid input."+ " \n ")
             print("Sorry! Invalid input.")
             break
+        
+    return
     
 # Start of Program
 write_to_text.write(chatbot + ": Hi! I'm Ávila. I'm here to assist you during natural disasters." + " \n ")
@@ -184,14 +189,14 @@ write_to_text.write("Customer: " + name + " \n ")
 
 write_to_text.write(chatbot + ": Hi, " + name + ". How can I help you today? " + " \n ")
 print("Hi, " + name + ". How can I help you today?")
-C_input = Check_isEmpty(chatbot + ": Hi, " + name + ". How can I help you today? ", input("Customer: "))
+C_input = Check_isEmpty("Hi, " + name + ". How can I help you today? ", input("Customer: "))
 write_to_text.write("Customer: " + C_input + " \n ")
 Issue(C_input)
 
 # End
 write_to_text.write(chatbot + ": Is there anything else I can assist you with?[Y/N] "+ " \n ")
 print("Is there anything else I can assist you with?[Y/N] ")
-C_input =Check_isEmpty(chatbot + ": Is there anything else I can assist you with?[Y/N] ", input("Customer: "))
+C_input =Check_isEmpty("Is there anything else I can assist you with?[Y/N] ", input("Customer: "))
 write_to_text.write("Customer: " + C_input + " \n ")
 if("n" in C_input.lower() or "no" in C_input.lower()):
     write_to_text.write(chatbot + ": Glad I could help. Take care and stay safe ❤️")
@@ -201,6 +206,6 @@ if("n" in C_input.lower() or "no" in C_input.lower()):
 elif("y" in C_input.lower() or "yes" in C_input.lower()):
     write_to_text.write(chatbot + ": What else can I assist you with? "+ " \n ")
     print("What else can I assist you with? ")
-    C_input =Check_isEmpty(chatbot + ": What else can I assist you with? ", input("Customer: "))
+    C_input =Check_isEmpty("What else can I assist you with? ", input("Customer: "))
     write_to_text.write("Customer: " + C_input + " \n ")
     Issue(C_input)

@@ -8,6 +8,8 @@ Challenges: not flexible
 Created in response to the floods in several states of Venezuela in October 2022 and the devastating floods in Pakistan in the summer of 2022.
 There’s been an increase in the need for disaster management tools and many of the places that are vulnerable to disasters lack access to resources. Chatbots act as a link between a user and usually a customer service representative or, in the case of my research topic, first responders. I am interested in the implementation of chatbots in different areas and the interaction with users. Due to time constraints, I will mainly focus on the efficiency of the chatbot in answering simple questions and make changes as deemed necessary.
 
+<img width="1043" alt="home-screenshot" src="https://user-images.githubusercontent.com/76544489/200204794-0d75c9c9-ac04-4ab0-9d19-b76e2ef411bd.png">
+
 ### Demo video
 [upload]
 

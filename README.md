@@ -16,7 +16,7 @@ There’s been an increase in the need for disaster management tools and many of
 ### Technologies used
 * Python
 * HTML
-* Flask
+* Django
 
 ### Services included
 * Shelter OR electricity

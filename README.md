@@ -1,5 +1,7 @@
 # Emergency Chatbot
 
+__For future reference, please note this is a simulation.__
+
 Implemented in Python, this is a messaging application that performs live chat functions in response to real-time user interactions during natural disasters. This is a simple rule-based chatbot.
 Might expand to other languages for a more inclusive and complete program through incorporating a natural language processing (NLP) tool that detects the language of a given text.
 

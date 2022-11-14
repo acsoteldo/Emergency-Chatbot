@@ -20,7 +20,7 @@ There’s been an increase in the need for disaster management tools and many of
 * HTML
 * Django
 
-### Services included
+### Supported tasks include
 * Shelter OR electricity
 * Water
 * Food

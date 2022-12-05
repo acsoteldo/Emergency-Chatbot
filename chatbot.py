@@ -194,18 +194,19 @@ write_to_text.write("User: " + userInput + " \n ")
 Issue(userInput)
 
 # End
-write_to_text.write(chatbot + ": Is there anything else I can assist you with?[Y/N] "+ " \n ")
-print("Is there anything else I can assist you with?[Y/N] ")
-userInput =Check_isEmpty("Is there anything else I can assist you with?[Y/N] ", input("User: "))
-write_to_text.write("User: " + userInput + " \n ")
-if("n" in userInput.lower() or "no" in userInput.lower()):
-    write_to_text.write(chatbot + ": Glad I could help. Take care and stay safe ❤️")
-    print("Glad I could help. Take care and stay safe ❤️")
-    write_to_text.close()
-    sys.exit()
-elif("y" in userInput.lower() or "yes" in userInput.lower()):
-    write_to_text.write(chatbot + ": What else can I assist you with? "+ " \n ")
-    print("What else can I assist you with? ")
-    userInput =Check_isEmpty("What else can I assist you with? ", input("User: "))
+while True:
+    write_to_text.write(chatbot + ": Is there anything else I can assist you with?[Y/N] "+ " \n ")
+    print("Is there anything else I can assist you with?[Y/N] ")
+    userInput =Check_isEmpty("Is there anything else I can assist you with?[Y/N] ", input("User: "))
     write_to_text.write("User: " + userInput + " \n ")
-    Issue(userInput)
+    if("n" in userInput.lower() or "no" in userInput.lower()):
+        write_to_text.write(chatbot + ": Glad I could help. Take care and stay safe ❤️")
+        print("Glad I could help. Take care and stay safe ❤️")
+        write_to_text.close()
+        sys.exit()
+    elif("y" in userInput.lower() or "yes" in userInput.lower()):
+        write_to_text.write(chatbot + ": What else can I assist you with? "+ " \n ")
+        print("What else can I assist you with? ")
+        userInput =Check_isEmpty("What else can I assist you with? ", input("User: "))
+        write_to_text.write("User: " + userInput + " \n ")
+        Issue(userInput)

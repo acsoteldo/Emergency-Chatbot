@@ -13,7 +13,9 @@ There’s been an increase in the need for disaster management tools and many of
 <img width="1043" alt="home-screenshot" src="https://user-images.githubusercontent.com/76544489/200204794-0d75c9c9-ac04-4ab0-9d19-b76e2ef411bd.png">
 
 ### Demo video
-[upload]
+https://user-images.githubusercontent.com/76544489/205655200-820dcf9b-dd2b-41b9-ad94-3646f190b370.mov
+
+[upload demo2]
 
 ### Technologies used
 * Python

@@ -18,8 +18,10 @@ https://user-images.githubusercontent.com/76544489/205655200-820dcf9b-dd2b-41b9-
 
 ### Technologies used
 * Python
+* Javascript
 * HTML
-* Django
+* CSS
+* Flask
 
 ### Supported tasks include
 * Shelter OR electricity

@@ -60,8 +60,9 @@ The primary objective of this analysis is to build a rigorous, data-driven under
 Research on humanitarian resource allocation consistently finds that funding is driven by donor political priorities and media visibility as much as by measurable need. The literature identifies three groups of factors that influence aid allocations: needs in recipient countries, donor interests, and agenda-setting driven by media coverage [^8]. Recent work applies multi-criteria decision analysis (MCDA) using INFORM Severity data to prioritize funding across fragile countries, finding systematic misalignment, with countries like DRC and Myanmar under-assessed for need while Ukraine and Syria receive disproportionate support. The IFRC's World Disasters Report documents that climate and disaster risk funding does not consistently prioritize the highest-risk countries. Many highly vulnerable nations receive little adaptation support despite acute exposure [^9]. For the Caribbean specifically, finance is identified as the binding constraint on climate adaptation, closely interacting with governance and capacity limitations that create compounding barriers for the most vulnerable SIDS [^10]. This project builds on these findings by applying linear programming optimization to the Caribbean and Central America, producing country-level funding gap estimates grounded in INFORM, FTS, EM-DAT, and UNHCR data.
 
 ## Key Insights
-* Haiti is the most severely underfunded country in the region, receiving ~$580M less than its need-weighted optimal allocation over the study period
-* Northern Triangle and R4V corridor countries (Honduras, Panama, Costa Rica) show systematic over-funding relative to need due to migration-driven donor attention
+* Despite the highest composite need score in the region across all six years, Haiti received $1.02B against a model-optimal $1.60B. The gap of $581M represents 21% of the entire regional budget left undeployed where it was most needed.
+* Honduras, Panama, and Costa Rica together received $575M more than their need scores justify. Donor priorities around migration management systematically displaced acute humanitarian investment.
+* As a US territory, Puerto Rico is excluded from UNHCR and OCHA coverage. The model estimates $32.6M in unmet need over six years. US territorial status creates a structural blind spot in global humanitarian architecture.
 * The LP model identifies a reallocation of ~$1.2B that would reduce the regional funding gap by 38% without increasing total expenditure
 
 ### Demo
@@ -75,6 +76,17 @@ https://user-images.githubusercontent.com/76544489/205655200-820dcf9b-dd2b-41b9-
 * Engage humanitarian practitioners and donor organizations to validate the optimization outputs against field-level knowledge, and surface any structural constraints the model does not currently capture.
 * Extend the analysis to sub-national levels for the highest-need countries, particularly Haiti, where country-level aggregation masks significant internal disparities in risk and resource access.
 * Publish the dataset, model, and methodology as an open resource for researchers, NGOs, and policy analysts working on climate-humanitarian linkages in the Caribbean and Central America.
+
+## Data Notes & Limitations
+* Study Window (2019–2024): Chosen to align with consistent FTS reporting and R4V displacement data. 2025 is excluded. All four source datasets publish on an annual lag and current-year figures remain incomplete until mid-to-late the following year.
+* OCHA FTS: Voluntary reporting means smaller NGOs and bilateral transfers are frequently missing. Committed and paid figures are used interchangeably by some reporters, introducing noise in the actual vs. optimal gap calculations.
+* UNHCR Displacement: Ten countries (BHS, BLZ, BRB, CUB, HTI, JAM, NIC, PRI, SLV, SUR) use annual totals divided by 12, a flat monthly baseline with no within-year variation. Panama's Darien Gap transit population is largely absent from UNHCR statistics, likely underestimating its operational burden. R4V figures may undercount irregular flows through the same corridor.
+* INFORM Risk Index: Forward-filled from 2021 through 2024. Does not reflect post-2021 structural changes. A meaningful gap for Haiti after the Moise assassination and the Bahamas post-Dorian.
+* EM-DAT: Records without a start month are assigned to June by convention. Monthly shock precision is reduced but the annual signal is preserved. Smaller events below reporting thresholds are undercounted.
+* NOAA IBTrACS: Used for peak wind scores and landfall counts. Inland wind decay is not modeled. Storm impact may be understated for Haiti and Guatemala.
+* Puerto Rico: Excluded from UNHCR and FTS as a US territory. Federal disaster spending doesn't appear in international humanitarian tracking. FEMA disaster declarations are used as a proxy. Estimated $32.6M in unmet need over six years.
+* Mexico: Excluded by design. A transit and destination country with lower INFORM scores and FTS flows skewed toward development rather than emergency response. Corridor pressure is captured upstream through Colombia and Venezuela.
+* LP Model: The need score is a weighted combination of proxy variables. Weights reflect analytical judgment, not empirically validated parameters. The optimal allocation is what the data implies, not a prescription for donor behavior.
 
 ## Contact
 For any inquiries or feedback, please contact acsoteldo01@gmail.com.

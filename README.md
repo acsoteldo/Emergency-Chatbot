@@ -65,6 +65,44 @@ Research on humanitarian resource allocation consistently finds that funding is 
 * As a US territory, Puerto Rico is excluded from UNHCR and OCHA coverage. The model estimates $32.6M in unmet need over six years. US territorial status creates a structural blind spot in global humanitarian architecture.
 * The LP model identifies a reallocation of ~$1.2B that would reduce the regional funding gap by 38% without increasing total expenditure
 
+## Ávila — Chatbot
+Rule-based NLP chatbot with 24 intents across 4 languages (English, Spanish, French, Haitian Creole). All responses are powered by live API calls to the FastAPI backend (no hardcoded answers).
+
+### Intents include:
+| Intent | Type | API Endpoint |
+| --- | --- | --- |
+| `allocation` | Data | `GET /allocation/summary` |
+| `top_funders` | Data | `GET /orgs?iso3=` |
+| `sectors` | Data | `GET /sectors?iso3=` |
+| `deadliest` | Data | `GET /disasters/most-common?iso3=` |
+| `natural_disaster` | Data | `GET /disasters?iso3=&year=` |
+| `recurrence_risk` | Data | `GET /recurrence-risk` |
+| `displacement_out` | Data | `GET /displacement/outflows?iso3=` |
+| `displacement_in` | Data | `GET /displacement/inflows?iso3=` |
+| `trend` | Data | `GET /allocation?iso3=&year=` |
+| `compare` | Data | `GET /allocation/summary` × 2 |
+| `health` | Data | `GET /sectors/orgs?iso3=&sector=Health` |
+| `food` | Data | `GET /sectors/orgs?iso3=&sector=Food+Security` |
+| `water` | Data | `GET /sectors/orgs?iso3=&sector=WASH` |
+| `shelter` | Data | `GET /sectors/orgs?iso3=&sector=Emergency+Shelter` |
+| `hygiene` | Data | `GET /sectors/orgs?iso3=&sector=WASH` |
+| `education` | Data | `GET /sectors/orgs?iso3=&sector=Education` |
+| `feelings` | Support | — |
+| `isolated` | Support | — |
+| `crisis` | Support | — |
+| `emergency` | Support | — |
+| `pet` | Support | — |
+| `meta_languages` | Meta | — |
+| `meta_countries` | Meta | — |
+| `meta_sources` | Meta | — |
+
+### Other features:
+* Rate limiting to prevent API abuse
+* Guardrails for out-of-scope queries
+* Country and year detection from natural language
+* Multilingual intent routing (same intents across all 4 languages)
+* Follow-up prompt suggestions after each response
+
 ### Demo
 
 ### Demo (2022, good ol'times)

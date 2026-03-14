@@ -97,11 +97,11 @@ Rule-based NLP chatbot with 24 intents across 4 languages (English, Spanish, Fre
 | `meta_sources` | Meta | — |
 
 ### Other features:
-* Rate limiting to prevent API abuse
-* Guardrails for out-of-scope queries
-* Country and year detection from natural language
-* Multilingual intent routing (same intents across all 4 languages)
-* Follow-up prompt suggestions after each response
+* Automatic language detection
+* Tracks country, language, and step across turns without a backend session
+* Single message fires multiple intents sequentially and returns combined responses
+* High-priority intents skip triage entirely, reducing latency for direct queries
+* Detects distress language and routes to support responses before any data intent fires
 
 ### Demo
 

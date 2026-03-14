@@ -68,7 +68,7 @@ Research on humanitarian resource allocation consistently finds that funding is 
 * The LP model identifies a reallocation of ~$1.2B that would reduce the regional funding gap by 38% without increasing total expenditure
 
 ## Ávila Chatbot
-Rule-based NLP chatbot with 24 intents across 4 languages (English, Spanish, French, Haitian Creole). All responses are powered by live API calls to the FastAPI backend (no hardcoded answers).
+Rule-based NLP chatbot with 24 intents across 4 languages (English, Spanish, French, Haitian Creole). Data responses are powered by live API calls to the FastAPI backend (no hardcoded answers).
 
 ### Intents include:
 | Intent | Type | API Endpoint |

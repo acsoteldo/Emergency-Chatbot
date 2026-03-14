@@ -105,7 +105,8 @@ Rule-based NLP chatbot with 24 intents across 4 languages (English, Spanish, Fre
 * High-priority intents skip triage entirely, reducing latency for direct queries
 * Detects distress language and routes to support responses before any data intent fires
 
-
+<img width="2844" height="1552" alt="Image" src="https://github.com/user-attachments/assets/0a459ad4-8ff2-46e2-b9ce-8e378db14dc8" />
+<img width="2844" height="1550" alt="Image" src="https://github.com/user-attachments/assets/0b7c6428-b9e2-4b6d-8350-d9b40e7eb9cf" />
 
 ### Demo
 

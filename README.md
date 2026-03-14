@@ -7,8 +7,8 @@ AI-powered dashboard and chatbot for analyzing humanitarian funding gaps, climat
 3. notebooks/: Jupyter notebooks
 4. visualizations/: Tableau visualizations and dashboard
 5. scripts/: Python pipeline (data cleaning through LP optimization)
-6. frontend/ — dashboard with embedded chatbot
-7. api/ — FastAPI backend serving allocation, sector, displacement, and risk endpoints
+6. frontend/: Dashboard with embedded chatbot
+7. api/: FastAPI backend serving allocation, sector, displacement, and risk endpoints
 
 ### Tools:
 Python, FastAPI, pandas, scipy (HiGHS solver), Chart.js, Leaflet.js, HTML/CSS/JS

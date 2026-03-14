@@ -1,5 +1,5 @@
 # Resource Allocation Optimization Under Climate Stress Scenarios
-Data-driven dashboard with an NLP chatbot for analyzing humanitarian funding gaps, climate risk, and optimal resource allocation for the Caribbean & Central America (2019–2024).
+Data-driven dashboard and NLP chatbot for humanitarian funding gaps and climate risk optimization across the Caribbean & Central America (2019–2024).
 
 ## Getting Started: 
 1. Report and presentation

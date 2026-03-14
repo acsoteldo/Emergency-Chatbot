@@ -65,7 +65,7 @@ Research on humanitarian resource allocation consistently finds that funding is 
 * As a US territory, Puerto Rico is excluded from UNHCR and OCHA coverage. The model estimates $32.6M in unmet need over six years. US territorial status creates a structural blind spot in global humanitarian architecture.
 * The LP model identifies a reallocation of ~$1.2B that would reduce the regional funding gap by 38% without increasing total expenditure
 
-## Ávila — Chatbot
+## Ávila Chatbot
 Rule-based NLP chatbot with 24 intents across 4 languages (English, Spanish, French, Haitian Creole). All responses are powered by live API calls to the FastAPI backend (no hardcoded answers).
 
 ### Intents include:

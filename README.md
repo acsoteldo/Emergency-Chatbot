@@ -3,8 +3,8 @@ AI-powered dashboard and chatbot for analyzing humanitarian funding gaps, climat
 
 ## Getting Started: 
 1. Report and presentation
-2. data/: Contains cleaned datasets used for the analysis and model development
-3. notebooks/: Python pipeline (data cleaning through LP optimization
+2. data/: Contains cleaned datasets used for the analysis and model development (LP optimization)
+3. notebooks/: Python pipeline for data cleaning
 5. frontend/: Dashboard with embedded chatbot
 6. api/: FastAPI backend serving allocation, sector, displacement, and risk endpoints
 7. assets/: chatbot and datasets logos

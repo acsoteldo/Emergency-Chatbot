@@ -64,8 +64,6 @@ Research on humanitarian resource allocation consistently finds that funding is 
 * Northern Triangle and R4V corridor countries (Honduras, Panama, Costa Rica) show systematic over-funding relative to need due to migration-driven donor attention
 * The LP model identifies a reallocation of ~$1.2B that would reduce the regional funding gap by 38% without increasing total expenditure
 
-### Dashboard
-
 ### Demo
 
 ### Demo (2022, good ol'times)

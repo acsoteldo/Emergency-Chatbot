@@ -1,0 +1,1555 @@
+Year,"Country of Asylum","Country of Origin","Country of Asylum ISO","Country of Origin ISO",Refugees,Asylum-seekers,IDPs,"Other people in need of international protection","Stateless persons","Host community","Others of concern"
+2019,Barbados,"Trinidad and Tobago",BRB,TTO,0,5,0,0,0,0,0
+2019,Barbados,"Venezuela (Bolivarian Republic of)",BRB,VEN,0,5,0,0,0,0,0
+2020,Barbados,"Venezuela (Bolivarian Republic of)",BRB,VEN,0,5,0,0,0,0,0
+2021,Barbados,Guyana,BRB,GUY,0,5,0,0,0,0,0
+2021,Barbados,"Venezuela (Bolivarian Republic of)",BRB,VEN,0,5,0,0,0,0,0
+2024,Barbados,Jamaica,BRB,JAM,5,8,0,0,0,0,0
+2023,Barbados,Guyana,BRB,GUY,5,0,0,0,0,0,0
+2023,Barbados,Jamaica,BRB,JAM,0,5,0,0,0,0,0
+2023,Barbados,"Venezuela (Bolivarian Republic of)",BRB,VEN,0,5,0,0,0,0,0
+2019,Bahamas,Colombia,BHS,COL,5,0,0,0,0,0,0
+2019,Bahamas,Cuba,BHS,CUB,5,5,0,0,0,0,0
+2019,Bahamas,"South Africa",BHS,ZAF,0,8,0,0,0,0,0
+2020,Bahamas,Cambodia,BHS,KHM,0,5,0,0,0,0,0
+2020,Bahamas,Colombia,BHS,COL,5,0,0,0,0,0,0
+2020,Bahamas,Cuba,BHS,CUB,5,0,0,0,0,0,0
+2020,Bahamas,Jamaica,BHS,JAM,5,0,0,0,0,0,0
+2020,Bahamas,"South Africa",BHS,ZAF,0,8,0,0,0,0,0
+2021,Bahamas,Cameroon,BHS,CMR,5,0,0,0,0,0,0
+2021,Bahamas,Cuba,BHS,CUB,0,5,0,0,0,0,0
+2021,Bahamas,Jamaica,BHS,JAM,5,0,0,0,0,0,0
+2021,Bahamas,"South Africa",BHS,ZAF,0,8,0,0,0,0,0
+2024,Bahamas,Cameroon,BHS,CMR,5,0,0,0,0,0,0
+2024,Bahamas,Cuba,BHS,CUB,5,7,0,0,0,0,723
+2024,Bahamas,Jamaica,BHS,JAM,0,8,0,0,0,0,0
+2024,Bahamas,"South Africa",BHS,ZAF,0,5,0,0,0,0,0
+2023,Bahamas,Cambodia,BHS,KHM,0,5,0,0,0,0,0
+2023,Bahamas,Cuba,BHS,CUB,0,11,0,0,0,0,723
+2023,Bahamas,Haiti,BHS,HTI,0,5,0,0,0,0,0
+2023,Bahamas,"South Africa",BHS,ZAF,0,5,0,0,0,0,0
+2023,Bahamas,Uganda,BHS,UGA,0,5,0,0,0,0,0
+2022,Bahamas,Cambodia,BHS,KHM,0,5,0,0,0,0,0
+2022,Bahamas,Cameroon,BHS,CMR,5,0,0,0,0,0,0
+2022,Bahamas,Cuba,BHS,CUB,0,11,0,0,0,0,723
+2022,Bahamas,Haiti,BHS,HTI,0,5,0,0,0,0,0
+2022,Bahamas,Jamaica,BHS,JAM,5,0,0,0,0,0,0
+2022,Bahamas,"South Africa",BHS,ZAF,0,5,0,0,0,0,0
+2022,Bahamas,Uganda,BHS,UGA,0,5,0,0,0,0,0
+2019,Belize,Cuba,BLZ,CUB,0,5,0,0,0,0,0
+2019,Belize,Guatemala,BLZ,GTM,0,422,0,0,0,0,0
+2019,Belize,Honduras,BLZ,HND,5,448,0,0,0,0,0
+2019,Belize,Nicaragua,BLZ,NIC,0,5,0,0,0,0,0
+2019,Belize,Peru,BLZ,PER,0,5,0,0,0,0,0
+2019,Belize,"El Salvador",BLZ,SLV,24,1259,0,0,0,0,0
+2019,Belize,"Unknown ",BLZ,UNK,0,0,0,0,0,0,3390
+2020,Belize,Cuba,BLZ,CUB,0,5,0,0,0,0,0
+2020,Belize,Guatemala,BLZ,GTM,0,434,0,0,0,0,0
+2020,Belize,Honduras,BLZ,HND,5,485,0,0,0,0,0
+2020,Belize,Nicaragua,BLZ,NIC,0,11,0,0,0,0,0
+2020,Belize,Peru,BLZ,PER,0,5,0,0,0,0,0
+2020,Belize,"El Salvador",BLZ,SLV,24,1309,0,0,0,0,0
+2020,Belize,"Unknown ",BLZ,UNK,0,0,0,0,0,0,3390
+2021,Belize,Cuba,BLZ,CUB,0,5,0,0,0,0,0
+2021,Belize,Guatemala,BLZ,GTM,0,416,0,0,0,0,0
+2021,Belize,Honduras,BLZ,HND,11,433,0,0,0,0,0
+2021,Belize,Nicaragua,BLZ,NIC,5,0,0,0,0,0,0
+2021,Belize,Peru,BLZ,PER,0,5,0,0,0,0,0
+2021,Belize,"El Salvador",BLZ,SLV,70,1156,0,0,0,0,0
+2021,Belize,"Unknown ",BLZ,UNK,0,0,0,0,0,0,3452
+2024,Belize,Cuba,BLZ,CUB,0,5,0,0,0,0,0
+2024,Belize,Guatemala,BLZ,GTM,19,418,0,0,0,0,0
+2024,Belize,Haiti,BLZ,HTI,0,9,0,0,0,0,0
+2024,Belize,Honduras,BLZ,HND,95,438,0,0,0,0,0
+2024,Belize,Nicaragua,BLZ,NIC,16,6,0,0,0,0,0
+2024,Belize,"El Salvador",BLZ,SLV,156,1125,0,0,0,0,0
+2023,Belize,Cuba,BLZ,CUB,0,5,0,0,0,0,0
+2023,Belize,Guatemala,BLZ,GTM,6,409,0,0,0,0,0
+2023,Belize,Haiti,BLZ,HTI,0,9,0,0,0,0,0
+2023,Belize,Honduras,BLZ,HND,56,414,0,0,0,0,0
+2023,Belize,Nicaragua,BLZ,NIC,12,5,0,0,0,0,0
+2023,Belize,"El Salvador",BLZ,SLV,140,1131,0,0,0,0,0
+2023,Belize,"Unknown ",BLZ,UNK,0,0,0,0,0,0,9452
+2022,Belize,Cuba,BLZ,CUB,0,5,0,0,0,0,0
+2022,Belize,Guatemala,BLZ,GTM,0,410,0,0,0,0,0
+2022,Belize,Honduras,BLZ,HND,26,425,0,0,0,0,0
+2022,Belize,Nicaragua,BLZ,NIC,7,0,0,0,0,0,0
+2022,Belize,Peru,BLZ,PER,0,5,0,0,0,0,0
+2022,Belize,"El Salvador",BLZ,SLV,112,1137,0,0,0,0,0
+2022,Belize,"Unknown ",BLZ,UNK,0,0,0,0,0,0,9452
+2019,Colombia,Afghanistan,COL,AFG,9,0,0,0,0,0,0
+2019,Colombia,"Bolivia (Plurinational State of)",COL,BOL,5,0,0,0,0,0,0
+2019,Colombia,Cameroon,COL,CMR,0,6,0,0,0,0,0
+2019,Colombia,Colombia,COL,COL,0,0,7976412,0,0,0,400000
+2019,Colombia,Cuba,COL,CUB,73,85,0,0,0,0,0
+2019,Colombia,Ecuador,COL,ECU,8,0,0,0,0,0,0
+2019,Colombia,Eritrea,COL,ERI,5,0,0,0,0,0,0
+2019,Colombia,Ethiopia,COL,ETH,17,0,0,0,0,0,0
+2019,Colombia,"State of Palestine",COL,PSE,0,5,0,0,0,0,0
+2019,Colombia,Ghana,COL,GHA,0,5,0,0,0,0,0
+2019,Colombia,Honduras,COL,HND,5,0,0,0,0,0,0
+2019,Colombia,Hungary,COL,HUN,5,0,0,0,0,0,0
+2019,Colombia,Iraq,COL,IRQ,9,5,0,0,0,0,0
+2019,Colombia,Nicaragua,COL,NIC,14,0,0,0,0,0,0
+2019,Colombia,Nigeria,COL,NGA,0,5,0,0,0,0,0
+2019,Colombia,Romania,COL,ROU,7,0,0,0,0,0,0
+2019,Colombia,"El Salvador",COL,SLV,11,0,0,0,0,0,0
+2019,Colombia,"Sierra Leone",COL,SLE,5,0,0,0,0,0,0
+2019,Colombia,Somalia,COL,SOM,11,0,0,0,0,0,0
+2019,Colombia,"Serbia and Kosovo: S/RES/1244 (1999)",COL,SRB,7,0,0,0,0,0,0
+2019,Colombia,Stateless,COL,XXA,0,0,0,0,11,0,0
+2019,Colombia,"Syrian Arab Rep.",COL,SYR,8,8,0,0,0,0,0
+2019,Colombia,Türkiye,COL,TUR,5,31,0,0,0,0,0
+2019,Colombia,"Unknown ",COL,UNK,5,113,0,0,0,0,0
+2019,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,425,8824,0,1771237,0,0,0
+2019,Colombia,Yemen,COL,YEM,0,7,0,0,0,0,0
+2020,Colombia,Afghanistan,COL,AFG,9,0,0,0,0,0,0
+2020,Colombia,"Bolivia (Plurinational State of)",COL,BOL,5,0,0,0,0,0,0
+2020,Colombia,Cameroon,COL,CMR,0,6,0,0,0,0,0
+2020,Colombia,Colombia,COL,COL,0,0,8252788,0,0,741889,500000
+2020,Colombia,Cuba,COL,CUB,77,137,0,0,0,0,0
+2020,Colombia,Ecuador,COL,ECU,7,5,0,0,0,0,0
+2020,Colombia,Eritrea,COL,ERI,5,0,0,0,0,0,0
+2020,Colombia,Ethiopia,COL,ETH,7,0,0,0,0,0,0
+2020,Colombia,"State of Palestine",COL,PSE,0,5,0,0,0,0,0
+2020,Colombia,Ghana,COL,GHA,0,5,0,0,0,0,0
+2020,Colombia,Honduras,COL,HND,5,0,0,0,0,0,0
+2020,Colombia,Hungary,COL,HUN,5,0,0,0,0,0,0
+2020,Colombia,Iraq,COL,IRQ,7,5,0,0,0,0,0
+2020,Colombia,Nicaragua,COL,NIC,9,0,0,0,0,0,0
+2020,Colombia,Nigeria,COL,NGA,0,5,0,0,0,0,0
+2020,Colombia,"El Salvador",COL,SLV,11,0,0,0,0,0,0
+2020,Colombia,"Sierra Leone",COL,SLE,5,0,0,0,0,0,0
+2020,Colombia,Somalia,COL,SOM,11,0,0,0,0,0,0
+2020,Colombia,"Serbia and Kosovo: S/RES/1244 (1999)",COL,SRB,5,0,0,0,0,0,0
+2020,Colombia,Stateless,COL,XXA,0,0,0,0,11,0,0
+2020,Colombia,"Syrian Arab Rep.",COL,SYR,8,8,0,0,0,0,0
+2020,Colombia,Türkiye,COL,TUR,5,34,0,0,0,0,0
+2020,Colombia,"Unknown ",COL,UNK,5,129,0,0,0,0,0
+2020,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,771,19587,0,1729537,0,0,0
+2020,Colombia,Yemen,COL,YEM,0,7,0,0,0,0,0
+2021,Colombia,Afghanistan,COL,AFG,9,0,0,0,0,0,0
+2021,Colombia,"Bolivia (Plurinational State of)",COL,BOL,5,0,0,0,0,0,0
+2021,Colombia,Colombia,COL,COL,0,0,6766002,0,0,741889,500000
+2021,Colombia,Cuba,COL,CUB,88,98,0,0,0,0,0
+2021,Colombia,Ecuador,COL,ECU,5,7,0,0,0,0,0
+2021,Colombia,Eritrea,COL,ERI,5,0,0,0,0,0,0
+2021,Colombia,Ethiopia,COL,ETH,7,0,0,0,0,0,0
+2021,Colombia,Ghana,COL,GHA,5,0,0,0,0,0,0
+2021,Colombia,Haiti,COL,HTI,0,5,0,0,0,0,0
+2021,Colombia,Honduras,COL,HND,5,0,0,0,0,0,0
+2021,Colombia,Hungary,COL,HUN,5,0,0,0,0,0,0
+2021,Colombia,Iraq,COL,IRQ,8,0,0,0,0,0,0
+2021,Colombia,Liberia,COL,LBR,5,0,0,0,0,0,0
+2021,Colombia,Nicaragua,COL,NIC,10,0,0,0,0,0,0
+2021,Colombia,"El Salvador",COL,SLV,7,5,0,0,0,0,0
+2021,Colombia,"Sierra Leone",COL,SLE,5,0,0,0,0,0,0
+2021,Colombia,Somalia,COL,SOM,11,0,0,0,0,0,0
+2021,Colombia,"Serbia and Kosovo: S/RES/1244 (1999)",COL,SRB,5,0,0,0,0,0,0
+2021,Colombia,Stateless,COL,XXA,0,0,0,0,11,0,0
+2021,Colombia,"Syrian Arab Rep.",COL,SYR,11,7,0,0,0,0,0
+2021,Colombia,Türkiye,COL,TUR,6,8,0,0,0,0,0
+2021,Colombia,"Unknown ",COL,UNK,5,0,0,0,0,0,0
+2021,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,1297,28785,0,1842390,0,0,0
+2021,Colombia,Yemen,COL,YEM,0,5,0,0,0,0,0
+2024,Colombia,Afghanistan,COL,AFG,7,0,0,0,0,0,0
+2024,Colombia,Bangladesh,COL,BGD,0,0,0,0,0,0,18
+2024,Colombia,"Bolivia (Plurinational State of)",COL,BOL,5,0,0,0,0,0,0
+2024,Colombia,Colombia,COL,COL,0,0,7031498,0,0,807700,43
+2024,Colombia,Cuba,COL,CUB,96,525,0,0,0,0,13
+2024,Colombia,Ecuador,COL,ECU,5,134,0,0,0,0,87
+2024,Colombia,Eritrea,COL,ERI,5,0,0,0,0,0,0
+2024,Colombia,Ethiopia,COL,ETH,7,0,0,0,0,0,0
+2024,Colombia,Ghana,COL,GHA,5,0,0,0,0,0,11
+2024,Colombia,Haiti,COL,HTI,0,0,0,0,0,0,12
+2024,Colombia,Honduras,COL,HND,5,0,0,0,0,0,0
+2024,Colombia,Hungary,COL,HUN,5,0,0,0,0,0,0
+2024,Colombia,India,COL,IND,0,0,0,0,0,0,33
+2024,Colombia,"Iran (Islamic Rep. of)",COL,IRN,0,0,0,0,0,0,22
+2024,Colombia,Iraq,COL,IRQ,8,0,0,0,0,0,0
+2024,Colombia,Liberia,COL,LBR,5,0,0,0,0,0,0
+2024,Colombia,Nepal,COL,NPL,0,0,0,0,0,0,32
+2024,Colombia,Nicaragua,COL,NIC,10,0,0,0,0,0,0
+2024,Colombia,Peru,COL,PER,0,25,0,0,0,0,0
+2024,Colombia,"Russian Federation",COL,RUS,11,38,0,0,0,0,0
+2024,Colombia,"El Salvador",COL,SLV,7,0,0,0,0,0,0
+2024,Colombia,"Sierra Leone",COL,SLE,5,0,0,0,0,0,0
+2024,Colombia,Somalia,COL,SOM,11,0,0,0,0,0,0
+2024,Colombia,"Serbia and Kosovo: S/RES/1244 (1999)",COL,SRB,5,0,0,0,0,0,0
+2024,Colombia,Stateless,COL,XXA,0,0,0,0,5,0,0
+2024,Colombia,"Syrian Arab Rep.",COL,SYR,13,0,0,0,0,0,0
+2024,Colombia,Türkiye,COL,TUR,7,0,0,0,0,0,0
+2024,Colombia,"Unknown ",COL,UNK,5,264,0,0,0,0,58
+2024,Colombia,Ukraine,COL,UKR,9,25,0,0,0,0,0
+2024,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,1070,28294,0,2779604,0,0,0
+2023,Colombia,Afghanistan,COL,AFG,7,0,0,0,0,0,63
+2023,Colombia,Argentina,COL,ARG,0,5,0,0,0,0,0
+2023,Colombia,"Bolivia (Plurinational State of)",COL,BOL,5,5,0,0,0,0,0
+2023,Colombia,China,COL,CHN,0,0,0,0,0,0,43
+2023,Colombia,Chile,COL,CHL,0,5,0,0,0,0,0
+2023,Colombia,Colombia,COL,COL,0,0,6918373,0,0,885300,516000
+2023,Colombia,Cuba,COL,CUB,111,230,0,0,0,0,0
+2023,Colombia,"Dominican Rep.",COL,DOM,0,5,0,0,0,0,0
+2023,Colombia,Ecuador,COL,ECU,5,46,0,0,0,0,207
+2023,Colombia,Eritrea,COL,ERI,5,0,0,0,0,0,0
+2023,Colombia,Ethiopia,COL,ETH,7,0,0,0,0,0,0
+2023,Colombia,Ghana,COL,GHA,5,0,0,0,0,0,20
+2023,Colombia,Guatemala,COL,GTM,0,5,0,0,0,0,0
+2023,Colombia,Haiti,COL,HTI,0,11,0,0,0,0,183
+2023,Colombia,Honduras,COL,HND,5,0,0,0,0,0,0
+2023,Colombia,Hungary,COL,HUN,5,0,0,0,0,0,0
+2023,Colombia,Iraq,COL,IRQ,8,0,0,0,0,0,0
+2023,Colombia,Liberia,COL,LBR,5,0,0,0,0,0,0
+2023,Colombia,Nicaragua,COL,NIC,10,0,0,0,0,0,0
+2023,Colombia,Peru,COL,PER,0,12,0,0,0,0,0
+2023,Colombia,"Russian Federation",COL,RUS,9,35,0,0,0,0,0
+2023,Colombia,"El Salvador",COL,SLV,7,0,0,0,0,0,0
+2023,Colombia,"Sierra Leone",COL,SLE,5,0,0,0,0,0,0
+2023,Colombia,Somalia,COL,SOM,11,0,0,0,0,0,0
+2023,Colombia,"Serbia and Kosovo: S/RES/1244 (1999)",COL,SRB,5,0,0,0,0,0,0
+2023,Colombia,"Syrian Arab Rep.",COL,SYR,13,5,0,0,0,0,0
+2023,Colombia,Türkiye,COL,TUR,7,5,0,0,0,0,0
+2023,Colombia,"Unknown ",COL,UNK,5,0,0,0,0,0,98
+2023,Colombia,Ukraine,COL,UKR,8,24,0,0,0,0,0
+2023,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,1134,23449,0,2851160,0,0,0
+2022,Colombia,Afghanistan,COL,AFG,9,0,0,0,0,0,0
+2022,Colombia,"Bolivia (Plurinational State of)",COL,BOL,5,0,0,0,0,0,0
+2022,Colombia,China,COL,CHN,0,0,0,0,0,0,150
+2022,Colombia,Colombia,COL,COL,0,0,6834492,0,0,1102358,516000
+2022,Colombia,Cuba,COL,CUB,87,233,0,0,0,0,0
+2022,Colombia,"Dominican Rep.",COL,DOM,0,5,0,0,0,0,0
+2022,Colombia,Ecuador,COL,ECU,5,23,0,0,0,0,0
+2022,Colombia,Eritrea,COL,ERI,5,0,0,0,0,0,0
+2022,Colombia,Ethiopia,COL,ETH,7,0,0,0,0,0,0
+2022,Colombia,Ghana,COL,GHA,5,0,0,0,0,0,0
+2022,Colombia,Haiti,COL,HTI,0,7,0,0,0,0,1918
+2022,Colombia,Honduras,COL,HND,5,0,0,0,0,0,0
+2022,Colombia,Hungary,COL,HUN,5,0,0,0,0,0,0
+2022,Colombia,India,COL,IND,0,0,0,0,0,0,240
+2022,Colombia,Iraq,COL,IRQ,8,0,0,0,0,0,0
+2022,Colombia,Liberia,COL,LBR,5,0,0,0,0,0,0
+2022,Colombia,Nepal,COL,NPL,0,0,0,0,0,0,162
+2022,Colombia,Nicaragua,COL,NIC,10,0,0,0,0,0,0
+2022,Colombia,Peru,COL,PER,0,10,0,0,0,0,3299
+2022,Colombia,"Russian Federation",COL,RUS,9,20,0,0,0,0,0
+2022,Colombia,"El Salvador",COL,SLV,7,0,0,0,0,0,0
+2022,Colombia,"Sierra Leone",COL,SLE,5,0,0,0,0,0,0
+2022,Colombia,Somalia,COL,SOM,11,0,0,0,0,0,0
+2022,Colombia,"Serbia and Kosovo: S/RES/1244 (1999)",COL,SRB,5,0,0,0,0,0,0
+2022,Colombia,Stateless,COL,XXA,0,0,0,0,11,0,0
+2022,Colombia,"Syrian Arab Rep.",COL,SYR,13,5,0,0,0,0,0
+2022,Colombia,Türkiye,COL,TUR,7,0,0,0,0,0,0
+2022,Colombia,"Unknown ",COL,UNK,5,6,0,0,0,0,754
+2022,Colombia,Ukraine,COL,UKR,8,21,0,0,0,0,0
+2022,Colombia,"Venezuela (Bolivarian Republic of)",COL,VEN,1381,22345,0,2453862,0,0,0
+2019,"Costa Rica",Angola,CRI,AGO,0,51,0,0,0,0,0
+2019,"Costa Rica",Argentina,CRI,ARG,0,17,0,0,0,0,0
+2019,"Costa Rica",Burundi,CRI,BDI,5,0,0,0,0,0,0
+2019,"Costa Rica",Bangladesh,CRI,BGD,0,16,0,0,0,0,0
+2019,"Costa Rica","Burkina Faso",CRI,BFA,0,5,0,0,0,0,0
+2019,"Costa Rica","Bolivia (Plurinational State of)",CRI,BOL,0,5,0,0,0,0,0
+2019,"Costa Rica",Brazil,CRI,BRA,0,12,0,0,0,0,0
+2019,"Costa Rica",China,CRI,CHN,0,152,0,0,0,0,0
+2019,"Costa Rica",Chile,CRI,CHL,0,12,0,0,0,0,0
+2019,"Costa Rica",Cameroon,CRI,CMR,0,21,0,0,0,0,0
+2019,"Costa Rica",Congo,CRI,COG,0,57,0,0,0,0,0
+2019,"Costa Rica","Dem. Rep. of the Congo",CRI,COD,12,41,0,0,0,0,0
+2019,"Costa Rica",Colombia,CRI,COL,2325,1338,0,0,0,0,0
+2019,"Costa Rica",Cuba,CRI,CUB,380,1933,0,0,0,0,0
+2019,"Costa Rica","Dominican Rep.",CRI,DOM,0,64,0,0,0,0,0
+2019,"Costa Rica",Ecuador,CRI,ECU,0,17,0,0,0,0,0
+2019,"Costa Rica",Eritrea,CRI,ERI,0,7,0,0,0,0,0
+2019,"Costa Rica",Ethiopia,CRI,ETH,5,0,0,0,0,0,0
+2019,"Costa Rica",Gambia,CRI,GMB,0,5,0,0,0,0,0
+2019,"Costa Rica",Germany,CRI,DEU,0,5,0,0,0,0,0
+2019,"Costa Rica",Ghana,CRI,GHA,0,63,0,0,0,0,0
+2019,"Costa Rica",Guatemala,CRI,GTM,24,35,0,0,0,0,35
+2019,"Costa Rica",Haiti,CRI,HTI,12,111,0,0,0,0,0
+2019,"Costa Rica",Honduras,CRI,HND,189,715,0,0,0,0,18
+2019,"Costa Rica","Cote d'Ivoire",CRI,CIV,0,5,0,0,0,0,0
+2019,"Costa Rica",Indonesia,CRI,IDN,5,0,0,0,0,0,0
+2019,"Costa Rica","Iran (Islamic Rep. of)",CRI,IRN,5,0,0,0,0,0,0
+2019,"Costa Rica",Iraq,CRI,IRQ,5,0,0,0,0,0,0
+2019,"Costa Rica",Israel,CRI,ISR,0,5,0,0,0,0,0
+2019,"Costa Rica",Italy,CRI,ITA,0,6,0,0,0,0,0
+2019,"Costa Rica",Jamaica,CRI,JAM,0,8,0,0,0,0,0
+2019,"Costa Rica",Mexico,CRI,MEX,8,23,0,0,0,0,0
+2019,"Costa Rica",Nepal,CRI,NPL,0,105,0,0,0,0,0
+2019,"Costa Rica",Niger,CRI,NER,0,5,0,0,0,0,0
+2019,"Costa Rica",Nicaragua,CRI,NIC,1402,43481,0,0,0,0,0
+2019,"Costa Rica",Nigeria,CRI,NGA,17,0,0,0,0,0,0
+2019,"Costa Rica",Pakistan,CRI,PAK,5,11,0,0,0,0,0
+2019,"Costa Rica",Panama,CRI,PAN,5,13,0,0,0,0,0
+2019,"Costa Rica",Peru,CRI,PER,13,0,0,0,0,0,0
+2019,"Costa Rica","Russian Federation",CRI,RUS,25,0,0,0,0,0,0
+2019,"Costa Rica","El Salvador",CRI,SLV,1155,854,0,0,0,0,16
+2019,"Costa Rica",Senegal,CRI,SEN,0,5,0,0,0,0,0
+2019,"Costa Rica",Somalia,CRI,SOM,7,7,0,0,0,0,0
+2019,"Costa Rica",Spain,CRI,ESP,0,10,0,0,0,0,0
+2019,"Costa Rica",Stateless,CRI,XXA,0,0,0,0,231,0,0
+2019,"Costa Rica","Syrian Arab Rep.",CRI,SYR,5,24,0,0,0,0,0
+2019,"Costa Rica",Türkiye,CRI,TUR,0,5,0,0,0,0,0
+2019,"Costa Rica","Unknown ",CRI,UNK,0,31060,0,0,0,0,0
+2019,"Costa Rica",Ukraine,CRI,UKR,13,0,0,0,0,0,0
+2019,"Costa Rica","United States of America",CRI,USA,5,31,0,0,0,0,0
+2019,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,577,6809,0,20828,0,0,0
+2019,"Costa Rica",Zimbabwe,CRI,ZWE,0,5,0,0,0,0,0
+2020,"Costa Rica",Angola,CRI,AGO,0,52,0,0,0,0,0
+2020,"Costa Rica",Argentina,CRI,ARG,0,8,0,0,0,0,0
+2020,"Costa Rica",Burundi,CRI,BDI,9,0,0,0,0,0,0
+2020,"Costa Rica",Bangladesh,CRI,BGD,0,16,0,0,0,0,0
+2020,"Costa Rica","Burkina Faso",CRI,BFA,0,5,0,0,0,0,0
+2020,"Costa Rica","Bolivia (Plurinational State of)",CRI,BOL,0,5,0,0,0,0,0
+2020,"Costa Rica",Brazil,CRI,BRA,0,13,0,0,0,0,0
+2020,"Costa Rica",China,CRI,CHN,0,205,0,0,0,0,0
+2020,"Costa Rica",Chile,CRI,CHL,0,16,0,0,0,0,0
+2020,"Costa Rica",Cameroon,CRI,CMR,0,22,0,0,0,0,0
+2020,"Costa Rica",Congo,CRI,COG,0,57,0,0,0,0,0
+2020,"Costa Rica","Dem. Rep. of the Congo",CRI,COD,12,42,0,0,0,0,0
+2020,"Costa Rica",Colombia,CRI,COL,2322,1042,0,0,0,0,0
+2020,"Costa Rica",Cuba,CRI,CUB,417,3206,0,0,0,0,0
+2020,"Costa Rica","Dominican Rep.",CRI,DOM,0,71,0,0,0,0,0
+2020,"Costa Rica",Ecuador,CRI,ECU,0,16,0,0,0,0,0
+2020,"Costa Rica",Eritrea,CRI,ERI,0,7,0,0,0,0,0
+2020,"Costa Rica",Ethiopia,CRI,ETH,5,0,0,0,0,0,0
+2020,"Costa Rica",Gambia,CRI,GMB,0,5,0,0,0,0,0
+2020,"Costa Rica",Germany,CRI,DEU,0,5,0,0,0,0,0
+2020,"Costa Rica",Ghana,CRI,GHA,0,57,0,0,0,0,0
+2020,"Costa Rica",Guatemala,CRI,GTM,25,36,0,0,0,0,0
+2020,"Costa Rica",Haiti,CRI,HTI,12,128,0,0,0,0,0
+2020,"Costa Rica",Honduras,CRI,HND,205,702,0,0,0,0,0
+2020,"Costa Rica","Cote d'Ivoire",CRI,CIV,0,5,0,0,0,0,0
+2020,"Costa Rica",India,CRI,IND,0,5,0,0,0,0,0
+2020,"Costa Rica",Indonesia,CRI,IDN,5,0,0,0,0,0,0
+2020,"Costa Rica","Iran (Islamic Rep. of)",CRI,IRN,5,0,0,0,0,0,0
+2020,"Costa Rica",Iraq,CRI,IRQ,5,0,0,0,0,0,0
+2020,"Costa Rica",Israel,CRI,ISR,0,5,0,0,0,0,0
+2020,"Costa Rica",Italy,CRI,ITA,0,5,0,0,0,0,0
+2020,"Costa Rica",Jamaica,CRI,JAM,0,13,0,0,0,0,0
+2020,"Costa Rica",Lebanon,CRI,LBN,0,5,0,0,0,0,0
+2020,"Costa Rica",Mexico,CRI,MEX,13,11,0,0,0,0,0
+2020,"Costa Rica",Nepal,CRI,NPL,0,102,0,0,0,0,0
+2020,"Costa Rica",Niger,CRI,NER,0,5,0,0,0,0,0
+2020,"Costa Rica",Nicaragua,CRI,NIC,3811,38700,0,0,0,0,0
+2020,"Costa Rica",Nigeria,CRI,NGA,17,0,0,0,0,0,0
+2020,"Costa Rica",Pakistan,CRI,PAK,5,11,0,0,0,0,0
+2020,"Costa Rica",Panama,CRI,PAN,5,17,0,0,0,0,0
+2020,"Costa Rica",Peru,CRI,PER,13,7,0,0,0,0,0
+2020,"Costa Rica","Russian Federation",CRI,RUS,27,0,0,0,0,0,0
+2020,"Costa Rica","El Salvador",CRI,SLV,1384,141,0,0,0,0,0
+2020,"Costa Rica",Senegal,CRI,SEN,0,5,0,0,0,0,0
+2020,"Costa Rica",Somalia,CRI,SOM,7,7,0,0,0,0,0
+2020,"Costa Rica",Spain,CRI,ESP,0,6,0,0,0,0,0
+2020,"Costa Rica",Stateless,CRI,XXA,0,0,0,0,199,0,0
+2020,"Costa Rica","Syrian Arab Rep.",CRI,SYR,5,21,0,0,0,0,0
+2020,"Costa Rica","Unknown ",CRI,UNK,0,39500,0,0,0,0,0
+2020,"Costa Rica",Ukraine,CRI,UKR,13,0,0,0,0,0,0
+2020,"Costa Rica","United States of America",CRI,USA,5,30,0,0,0,0,0
+2020,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,1266,5422,0,22401,0,0,0
+2020,"Costa Rica",Zimbabwe,CRI,ZWE,0,5,0,0,0,0,0
+2021,"Costa Rica",Angola,CRI,AGO,0,62,0,0,0,0,0
+2021,"Costa Rica",Argentina,CRI,ARG,0,37,0,0,0,0,0
+2021,"Costa Rica",Burundi,CRI,BDI,9,0,0,0,0,0,0
+2021,"Costa Rica",Bangladesh,CRI,BGD,0,16,0,0,0,0,0
+2021,"Costa Rica","Burkina Faso",CRI,BFA,0,5,0,0,0,0,0
+2021,"Costa Rica",Belarus,CRI,BLR,0,5,0,0,0,0,0
+2021,"Costa Rica","Bolivia (Plurinational State of)",CRI,BOL,0,13,0,0,0,0,0
+2021,"Costa Rica",Brazil,CRI,BRA,0,165,0,0,0,0,0
+2021,"Costa Rica",China,CRI,CHN,0,309,0,0,0,0,0
+2021,"Costa Rica",Chile,CRI,CHL,0,55,0,0,0,0,0
+2021,"Costa Rica",Cameroon,CRI,CMR,0,22,0,0,0,0,0
+2021,"Costa Rica",Congo,CRI,COG,0,57,0,0,0,0,0
+2021,"Costa Rica","Dem. Rep. of the Congo",CRI,COD,12,65,0,0,0,0,0
+2021,"Costa Rica",Colombia,CRI,COL,2317,1535,0,0,0,0,0
+2021,"Costa Rica","Costa Rica",CRI,CRI,0,0,0,0,0,1863,0
+2021,"Costa Rica",Cuba,CRI,CUB,463,2795,0,0,0,0,0
+2021,"Costa Rica","Dominican Rep.",CRI,DOM,0,105,0,0,0,0,0
+2021,"Costa Rica",Ecuador,CRI,ECU,0,58,0,0,0,0,0
+2021,"Costa Rica",Eritrea,CRI,ERI,0,7,0,0,0,0,0
+2021,"Costa Rica",Ethiopia,CRI,ETH,5,0,0,0,0,0,0
+2021,"Costa Rica","French Guiana",CRI,GUF,0,5,0,0,0,0,0
+2021,"Costa Rica",Gambia,CRI,GMB,0,5,0,0,0,0,0
+2021,"Costa Rica",Germany,CRI,DEU,0,19,0,0,0,0,0
+2021,"Costa Rica",Ghana,CRI,GHA,0,58,0,0,0,0,0
+2021,"Costa Rica",Greece,CRI,GRC,0,5,0,0,0,0,0
+2021,"Costa Rica",Guatemala,CRI,GTM,25,108,0,0,0,0,0
+2021,"Costa Rica",Guyana,CRI,GUY,0,9,0,0,0,0,0
+2021,"Costa Rica",Haiti,CRI,HTI,12,910,0,0,0,0,0
+2021,"Costa Rica",Honduras,CRI,HND,207,966,0,0,0,0,10
+2021,"Costa Rica","Cote d'Ivoire",CRI,CIV,0,6,0,0,0,0,0
+2021,"Costa Rica",India,CRI,IND,0,6,0,0,0,0,0
+2021,"Costa Rica",Indonesia,CRI,IDN,5,0,0,0,0,0,0
+2021,"Costa Rica","Iran (Islamic Rep. of)",CRI,IRN,5,0,0,0,0,0,0
+2021,"Costa Rica",Iraq,CRI,IRQ,5,0,0,0,0,0,0
+2021,"Costa Rica",Israel,CRI,ISR,0,6,0,0,0,0,0
+2021,"Costa Rica",Italy,CRI,ITA,0,6,0,0,0,0,0
+2021,"Costa Rica",Jamaica,CRI,JAM,0,32,0,0,0,0,0
+2021,"Costa Rica",Lebanon,CRI,LBN,0,5,0,0,0,0,0
+2021,"Costa Rica",Latvia,CRI,LVA,0,5,0,0,0,0,0
+2021,"Costa Rica",Mexico,CRI,MEX,13,53,0,0,0,0,0
+2021,"Costa Rica",Nepal,CRI,NPL,0,102,0,0,0,0,0
+2021,"Costa Rica",Niger,CRI,NER,0,5,0,0,0,0,0
+2021,"Costa Rica",Nicaragua,CRI,NIC,4027,137274,0,0,0,0,0
+2021,"Costa Rica",Nigeria,CRI,NGA,17,5,0,0,0,0,0
+2021,"Costa Rica",Pakistan,CRI,PAK,5,11,0,0,0,0,0
+2021,"Costa Rica",Panama,CRI,PAN,6,56,0,0,0,0,0
+2021,"Costa Rica",Peru,CRI,PER,13,53,0,0,0,0,0
+2021,"Costa Rica",Poland,CRI,POL,0,5,0,0,0,0,0
+2021,"Costa Rica",Romania,CRI,ROU,0,5,0,0,0,0,0
+2021,"Costa Rica","South Africa",CRI,ZAF,0,6,0,0,0,0,0
+2021,"Costa Rica","Russian Federation",CRI,RUS,27,24,0,0,0,0,0
+2021,"Costa Rica","El Salvador",CRI,SLV,1529,53,0,0,0,0,0
+2021,"Costa Rica",Senegal,CRI,SEN,0,5,0,0,0,0,0
+2021,"Costa Rica",Somalia,CRI,SOM,7,7,0,0,0,0,0
+2021,"Costa Rica",Spain,CRI,ESP,0,9,0,0,0,0,0
+2021,"Costa Rica",Stateless,CRI,XXA,0,0,0,0,168,0,0
+2021,"Costa Rica","Syrian Arab Rep.",CRI,SYR,5,25,0,0,0,0,0
+2021,"Costa Rica",Türkiye,CRI,TUR,0,5,0,0,0,0,0
+2021,"Costa Rica",Ukraine,CRI,UKR,13,5,0,0,0,0,0
+2021,"Costa Rica",Uruguay,CRI,URY,0,5,0,0,0,0,0
+2021,"Costa Rica","United States of America",CRI,USA,5,39,0,0,0,0,0
+2021,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,1492,7288,0,21766,0,0,0
+2021,"Costa Rica",Zimbabwe,CRI,ZWE,0,5,0,0,0,0,0
+2024,"Costa Rica",Angola,CRI,AGO,0,47,0,0,0,0,0
+2024,"Costa Rica",Argentina,CRI,ARG,0,82,0,0,0,0,0
+2024,"Costa Rica",Australia,CRI,AUS,0,5,0,0,0,0,0
+2024,"Costa Rica",Bangladesh,CRI,BGD,0,6,0,0,0,0,0
+2024,"Costa Rica",Belarus,CRI,BLR,5,5,0,0,0,0,0
+2024,"Costa Rica","Bolivia (Plurinational State of)",CRI,BOL,8,27,0,0,0,0,0
+2024,"Costa Rica",Brazil,CRI,BRA,0,155,0,0,0,0,0
+2024,"Costa Rica",Bulgaria,CRI,BGR,7,5,0,0,0,0,0
+2024,"Costa Rica",Belize,CRI,BLZ,0,5,0,0,0,0,0
+2024,"Costa Rica",Canada,CRI,CAN,0,8,0,0,0,0,0
+2024,"Costa Rica",China,CRI,CHN,0,587,0,0,0,0,0
+2024,"Costa Rica",Chile,CRI,CHL,0,62,0,0,0,0,0
+2024,"Costa Rica",Cameroon,CRI,CMR,5,18,0,0,0,0,0
+2024,"Costa Rica",Congo,CRI,COG,5,22,0,0,0,0,0
+2024,"Costa Rica","Dem. Rep. of the Congo",CRI,COD,11,51,0,0,0,0,0
+2024,"Costa Rica",Comoros,CRI,COM,5,0,0,0,0,0,0
+2024,"Costa Rica",Colombia,CRI,COL,7190,4490,0,0,0,0,0
+2024,"Costa Rica","Costa Rica",CRI,CRI,0,0,0,0,0,3115,0
+2024,"Costa Rica",Cuba,CRI,CUB,1516,6744,0,0,0,0,0
+2024,"Costa Rica","Cabo Verde",CRI,CPV,0,5,0,0,0,0,0
+2024,"Costa Rica",Czechia,CRI,CZE,0,5,0,0,0,0,0
+2024,"Costa Rica","Dominican Rep.",CRI,DOM,5,189,0,0,0,0,0
+2024,"Costa Rica",Ecuador,CRI,ECU,0,187,0,0,0,0,0
+2024,"Costa Rica",Eritrea,CRI,ERI,5,5,0,0,0,0,0
+2024,"Costa Rica","French Guiana",CRI,GUF,0,6,0,0,0,0,0
+2024,"Costa Rica",Gambia,CRI,GMB,0,5,0,0,0,0,0
+2024,"Costa Rica","State of Palestine",CRI,PSE,0,5,0,0,0,0,0
+2024,"Costa Rica","United Kingdom of Great Britain and Northern Ireland",CRI,GBR,0,5,0,0,0,0,0
+2024,"Costa Rica",Georgia,CRI,GEO,8,0,0,0,0,0,0
+2024,"Costa Rica",Germany,CRI,DEU,0,6,0,0,0,0,0
+2024,"Costa Rica",Ghana,CRI,GHA,5,46,0,0,0,0,0
+2024,"Costa Rica",Guatemala,CRI,GTM,49,169,0,0,0,0,0
+2024,"Costa Rica",Guinea,CRI,GIN,0,22,0,0,0,0,0
+2024,"Costa Rica",Guyana,CRI,GUY,0,5,0,0,0,0,0
+2024,"Costa Rica",Haiti,CRI,HTI,30,815,0,0,0,0,0
+2024,"Costa Rica",Honduras,CRI,HND,226,1150,0,0,0,0,22
+2024,"Costa Rica","Cote d'Ivoire",CRI,CIV,0,6,0,0,0,0,0
+2024,"Costa Rica",India,CRI,IND,5,11,0,0,0,0,0
+2024,"Costa Rica","Iran (Islamic Rep. of)",CRI,IRN,6,7,0,0,0,0,0
+2024,"Costa Rica",Iraq,CRI,IRQ,6,0,0,0,0,0,0
+2024,"Costa Rica",Israel,CRI,ISR,10,5,0,0,0,0,0
+2024,"Costa Rica",Italy,CRI,ITA,5,17,0,0,0,0,0
+2024,"Costa Rica",Jamaica,CRI,JAM,0,58,0,0,0,0,0
+2024,"Costa Rica",Jordan,CRI,JOR,0,6,0,0,0,0,0
+2024,"Costa Rica",Kazakhstan,CRI,KAZ,0,6,0,0,0,0,0
+2024,"Costa Rica",Mexico,CRI,MEX,13,108,0,0,0,0,0
+2024,"Costa Rica",Morocco,CRI,MAR,0,5,0,0,0,0,0
+2024,"Costa Rica",Namibia,CRI,NAM,0,14,0,0,0,0,0
+2024,"Costa Rica",Nepal,CRI,NPL,0,89,0,0,0,0,0
+2024,"Costa Rica",Nicaragua,CRI,NIC,15327,190037,0,0,0,0,0
+2024,"Costa Rica",Nigeria,CRI,NGA,14,19,0,0,0,0,0
+2024,"Costa Rica",Pakistan,CRI,PAK,0,5,0,0,0,0,0
+2024,"Costa Rica",Panama,CRI,PAN,15,126,0,0,0,0,0
+2024,"Costa Rica",Paraguay,CRI,PRY,0,5,0,0,0,0,0
+2024,"Costa Rica",Peru,CRI,PER,69,140,0,0,0,0,0
+2024,"Costa Rica",Philippines,CRI,PHL,0,19,0,0,0,0,0
+2024,"Costa Rica",Poland,CRI,POL,0,5,0,0,0,0,0
+2024,"Costa Rica",Portugal,CRI,PRT,0,5,0,0,0,0,0
+2024,"Costa Rica",Romania,CRI,ROU,0,10,0,0,0,0,0
+2024,"Costa Rica","South Africa",CRI,ZAF,0,14,0,0,0,0,0
+2024,"Costa Rica","Russian Federation",CRI,RUS,38,402,0,0,0,0,0
+2024,"Costa Rica","El Salvador",CRI,SLV,1370,1153,0,0,0,0,0
+2024,"Costa Rica",Senegal,CRI,SEN,0,6,0,0,0,0,0
+2024,"Costa Rica",Somalia,CRI,SOM,11,0,0,0,0,0,0
+2024,"Costa Rica",Spain,CRI,ESP,0,8,0,0,0,0,0
+2024,"Costa Rica","Viet Nam",CRI,VNM,0,7,0,0,0,0,0
+2024,"Costa Rica",Stateless,CRI,XXA,8,64,0,0,345,0,0
+2024,"Costa Rica","Syrian Arab Rep.",CRI,SYR,6,39,0,0,0,0,0
+2024,"Costa Rica",Türkiye,CRI,TUR,0,8,0,0,0,0,0
+2024,"Costa Rica","Unknown ",CRI,UNK,12,0,0,0,0,0,17079
+2024,"Costa Rica",Ukraine,CRI,UKR,35,18,0,0,0,0,0
+2024,"Costa Rica",Uruguay,CRI,URY,0,5,0,0,0,0,0
+2024,"Costa Rica","United States of America",CRI,USA,12,42,0,0,0,0,0
+2024,"Costa Rica",Uzbekistan,CRI,UZB,5,0,0,0,0,0,0
+2024,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,5585,10476,0,13283,0,0,0
+2023,"Costa Rica",Angola,CRI,AGO,0,61,0,0,0,0,0
+2023,"Costa Rica",Egypt,CRI,EGY,5,0,0,0,0,0,0
+2023,"Costa Rica",Argentina,CRI,ARG,0,74,0,0,0,0,0
+2023,"Costa Rica",Australia,CRI,AUS,0,6,0,0,0,0,0
+2023,"Costa Rica",Burundi,CRI,BDI,9,0,0,0,0,0,0
+2023,"Costa Rica",Bangladesh,CRI,BGD,0,16,0,0,0,0,0
+2023,"Costa Rica","Burkina Faso",CRI,BFA,0,5,0,0,0,0,0
+2023,"Costa Rica",Belarus,CRI,BLR,0,5,0,0,0,0,0
+2023,"Costa Rica","Bolivia (Plurinational State of)",CRI,BOL,0,22,0,0,0,0,0
+2023,"Costa Rica",Brazil,CRI,BRA,0,170,0,0,0,0,0
+2023,"Costa Rica",Bulgaria,CRI,BGR,0,5,0,0,0,0,0
+2023,"Costa Rica",Belize,CRI,BLZ,0,5,0,0,0,0,0
+2023,"Costa Rica",Canada,CRI,CAN,0,9,0,0,0,0,0
+2023,"Costa Rica",China,CRI,CHN,0,364,0,0,0,0,0
+2023,"Costa Rica",Chile,CRI,CHL,5,65,0,0,0,0,0
+2023,"Costa Rica",Cameroon,CRI,CMR,0,25,0,0,0,0,0
+2023,"Costa Rica",Congo,CRI,COG,0,57,0,0,0,0,0
+2023,"Costa Rica","Dem. Rep. of the Congo",CRI,COD,12,64,0,0,0,0,0
+2023,"Costa Rica",Colombia,CRI,COL,2292,2998,0,0,0,0,0
+2023,"Costa Rica","Costa Rica",CRI,CRI,0,0,0,0,0,3109,0
+2023,"Costa Rica",Cuba,CRI,CUB,962,5893,0,0,0,0,0
+2023,"Costa Rica",Czechia,CRI,CZE,0,5,0,0,0,0,0
+2023,"Costa Rica","Dominican Rep.",CRI,DOM,0,184,0,0,0,0,0
+2023,"Costa Rica",Ecuador,CRI,ECU,0,162,0,0,0,0,0
+2023,"Costa Rica",Eritrea,CRI,ERI,0,7,0,0,0,0,0
+2023,"Costa Rica",Gambia,CRI,GMB,0,5,0,0,0,0,0
+2023,"Costa Rica","United Kingdom of Great Britain and Northern Ireland",CRI,GBR,0,5,0,0,0,0,0
+2023,"Costa Rica",Germany,CRI,DEU,0,8,0,0,0,0,0
+2023,"Costa Rica",Ghana,CRI,GHA,0,60,0,0,0,0,0
+2023,"Costa Rica",Greece,CRI,GRC,0,5,0,0,0,0,0
+2023,"Costa Rica",Guatemala,CRI,GTM,24,153,0,0,0,0,0
+2023,"Costa Rica",Guyana,CRI,GUY,0,11,0,0,0,0,0
+2023,"Costa Rica",Haiti,CRI,HTI,16,871,0,0,0,0,0
+2023,"Costa Rica",Honduras,CRI,HND,252,1172,0,0,0,0,10
+2023,"Costa Rica","Cote d'Ivoire",CRI,CIV,0,7,0,0,0,0,0
+2023,"Costa Rica",India,CRI,IND,0,10,0,0,0,0,0
+2023,"Costa Rica",Indonesia,CRI,IDN,5,0,0,0,0,0,0
+2023,"Costa Rica","Iran (Islamic Rep. of)",CRI,IRN,5,5,0,0,0,0,0
+2023,"Costa Rica",Iraq,CRI,IRQ,5,5,0,0,0,0,0
+2023,"Costa Rica",Israel,CRI,ISR,0,6,0,0,0,0,0
+2023,"Costa Rica",Italy,CRI,ITA,0,18,0,0,0,0,0
+2023,"Costa Rica",Jamaica,CRI,JAM,0,53,0,0,0,0,0
+2023,"Costa Rica",Jordan,CRI,JOR,0,5,0,0,0,0,0
+2023,"Costa Rica",Kazakhstan,CRI,KAZ,0,5,0,0,0,0,0
+2023,"Costa Rica",Lebanon,CRI,LBN,0,5,0,0,0,0,0
+2023,"Costa Rica",Latvia,CRI,LVA,0,5,0,0,0,0,0
+2023,"Costa Rica",Mexico,CRI,MEX,13,92,0,0,0,0,0
+2023,"Costa Rica",Morocco,CRI,MAR,0,5,0,0,0,0,0
+2023,"Costa Rica",Namibia,CRI,NAM,0,5,0,0,0,0,0
+2023,"Costa Rica",Nepal,CRI,NPL,0,113,0,0,0,0,0
+2023,"Costa Rica",Niger,CRI,NER,0,5,0,0,0,0,0
+2023,"Costa Rica",Nicaragua,CRI,NIC,13326,171169,0,0,0,0,0
+2023,"Costa Rica",Nigeria,CRI,NGA,17,7,0,0,0,0,0
+2023,"Costa Rica",Pakistan,CRI,PAK,5,9,0,0,0,0,0
+2023,"Costa Rica",Panama,CRI,PAN,6,105,0,0,0,0,0
+2023,"Costa Rica",Paraguay,CRI,PRY,0,5,0,0,0,0,0
+2023,"Costa Rica",Peru,CRI,PER,13,112,0,0,0,0,0
+2023,"Costa Rica",Philippines,CRI,PHL,0,5,0,0,0,0,0
+2023,"Costa Rica",Poland,CRI,POL,0,10,0,0,0,0,0
+2023,"Costa Rica",Portugal,CRI,PRT,0,5,0,0,0,0,0
+2023,"Costa Rica",Romania,CRI,ROU,0,8,0,0,0,0,0
+2023,"Costa Rica","South Africa",CRI,ZAF,0,11,0,0,0,0,0
+2023,"Costa Rica","Russian Federation",CRI,RUS,27,395,0,0,0,0,0
+2023,"Costa Rica","El Salvador",CRI,SLV,1638,84,0,0,0,0,11
+2023,"Costa Rica",Senegal,CRI,SEN,0,5,0,0,0,0,0
+2023,"Costa Rica",Somalia,CRI,SOM,7,5,0,0,0,0,0
+2023,"Costa Rica",Spain,CRI,ESP,0,9,0,0,0,0,0
+2023,"Costa Rica","Viet Nam",CRI,VNM,0,7,0,0,0,0,0
+2023,"Costa Rica",Stateless,CRI,XXA,0,15,0,0,327,0,0
+2023,"Costa Rica","Syrian Arab Rep.",CRI,SYR,6,35,0,0,0,0,0
+2023,"Costa Rica",Türkiye,CRI,TUR,0,8,0,0,0,0,0
+2023,"Costa Rica","Unknown ",CRI,UNK,0,0,0,0,0,0,32832
+2023,"Costa Rica",Ukraine,CRI,UKR,13,44,0,0,0,0,0
+2023,"Costa Rica",Uruguay,CRI,URY,0,6,0,0,0,0,0
+2023,"Costa Rica","United States of America",CRI,USA,7,44,0,0,0,0,0
+2023,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,4752,8774,0,18448,0,0,0
+2023,"Costa Rica",Zimbabwe,CRI,ZWE,0,5,0,0,0,0,0
+2022,"Costa Rica",Angola,CRI,AGO,0,64,0,0,0,0,0
+2022,"Costa Rica",Egypt,CRI,EGY,5,0,0,0,0,0,0
+2022,"Costa Rica",Argentina,CRI,ARG,0,77,0,0,0,0,0
+2022,"Costa Rica",Australia,CRI,AUS,0,6,0,0,0,0,0
+2022,"Costa Rica",Burundi,CRI,BDI,9,0,0,0,0,0,0
+2022,"Costa Rica",Bangladesh,CRI,BGD,0,16,0,0,0,0,0
+2022,"Costa Rica","Burkina Faso",CRI,BFA,0,5,0,0,0,0,0
+2022,"Costa Rica",Belarus,CRI,BLR,0,5,0,0,0,0,0
+2022,"Costa Rica","Bolivia (Plurinational State of)",CRI,BOL,0,21,0,0,0,0,0
+2022,"Costa Rica",Brazil,CRI,BRA,0,167,0,0,0,0,0
+2022,"Costa Rica",Belize,CRI,BLZ,0,5,0,0,0,0,0
+2022,"Costa Rica",Canada,CRI,CAN,0,7,0,0,0,0,0
+2022,"Costa Rica",China,CRI,CHN,0,373,0,0,0,0,0
+2022,"Costa Rica",Chile,CRI,CHL,0,64,0,0,0,0,0
+2022,"Costa Rica",Cameroon,CRI,CMR,0,22,0,0,0,0,0
+2022,"Costa Rica",Congo,CRI,COG,0,57,0,0,0,0,0
+2022,"Costa Rica","Dem. Rep. of the Congo",CRI,COD,12,65,0,0,0,0,0
+2022,"Costa Rica",Colombia,CRI,COL,2304,2555,0,0,0,0,0
+2022,"Costa Rica","Costa Rica",CRI,CRI,0,0,0,0,0,3051,0
+2022,"Costa Rica",Cuba,CRI,CUB,648,3563,0,0,0,0,0
+2022,"Costa Rica",Czechia,CRI,CZE,0,5,0,0,0,0,0
+2022,"Costa Rica","Dominican Rep.",CRI,DOM,0,175,0,0,0,0,0
+2022,"Costa Rica",Ecuador,CRI,ECU,0,131,0,0,0,0,0
+2022,"Costa Rica",Eritrea,CRI,ERI,0,7,0,0,0,0,0
+2022,"Costa Rica",Ethiopia,CRI,ETH,5,0,0,0,0,0,0
+2022,"Costa Rica","French Guiana",CRI,GUF,0,5,0,0,0,0,0
+2022,"Costa Rica",Gambia,CRI,GMB,0,5,0,0,0,0,0
+2022,"Costa Rica","United Kingdom of Great Britain and Northern Ireland",CRI,GBR,0,5,0,0,0,0,0
+2022,"Costa Rica",Germany,CRI,DEU,0,14,0,0,0,0,0
+2022,"Costa Rica",Ghana,CRI,GHA,0,61,0,0,0,0,0
+2022,"Costa Rica",Greece,CRI,GRC,0,5,0,0,0,0,0
+2022,"Costa Rica",Guatemala,CRI,GTM,24,141,0,0,0,0,8
+2022,"Costa Rica",Guyana,CRI,GUY,0,11,0,0,0,0,0
+2022,"Costa Rica",Haiti,CRI,HTI,13,886,0,0,0,0,0
+2022,"Costa Rica",Honduras,CRI,HND,229,1199,0,0,0,0,19
+2022,"Costa Rica","Cote d'Ivoire",CRI,CIV,0,6,0,0,0,0,0
+2022,"Costa Rica",India,CRI,IND,0,12,0,0,0,0,0
+2022,"Costa Rica",Indonesia,CRI,IDN,5,0,0,0,0,0,0
+2022,"Costa Rica","Iran (Islamic Rep. of)",CRI,IRN,5,5,0,0,0,0,0
+2022,"Costa Rica",Iraq,CRI,IRQ,5,5,0,0,0,0,0
+2022,"Costa Rica",Israel,CRI,ISR,0,6,0,0,0,0,0
+2022,"Costa Rica",Italy,CRI,ITA,0,13,0,0,0,0,0
+2022,"Costa Rica",Jamaica,CRI,JAM,0,53,0,0,0,0,0
+2022,"Costa Rica",Kazakhstan,CRI,KAZ,0,5,0,0,0,0,0
+2022,"Costa Rica",Lebanon,CRI,LBN,0,5,0,0,0,0,0
+2022,"Costa Rica",Latvia,CRI,LVA,0,5,0,0,0,0,0
+2022,"Costa Rica",Mexico,CRI,MEX,13,93,0,0,0,0,0
+2022,"Costa Rica",Namibia,CRI,NAM,0,5,0,0,0,0,0
+2022,"Costa Rica",Nepal,CRI,NPL,0,102,0,0,0,0,0
+2022,"Costa Rica",Niger,CRI,NER,0,5,0,0,0,0,0
+2022,"Costa Rica",Nicaragua,CRI,NIC,7083,217125,0,0,0,0,0
+2022,"Costa Rica",Nigeria,CRI,NGA,17,7,0,0,0,0,0
+2022,"Costa Rica",Pakistan,CRI,PAK,5,12,0,0,0,0,0
+2022,"Costa Rica",Panama,CRI,PAN,6,99,0,0,0,0,0
+2022,"Costa Rica",Paraguay,CRI,PRY,0,5,0,0,0,0,0
+2022,"Costa Rica",Peru,CRI,PER,13,90,0,0,0,0,0
+2022,"Costa Rica",Philippines,CRI,PHL,0,5,0,0,0,0,0
+2022,"Costa Rica",Poland,CRI,POL,0,5,0,0,0,0,0
+2022,"Costa Rica",Romania,CRI,ROU,0,8,0,0,0,0,0
+2022,"Costa Rica","South Africa",CRI,ZAF,0,11,0,0,0,0,0
+2022,"Costa Rica","Russian Federation",CRI,RUS,27,356,0,0,0,0,0
+2022,"Costa Rica","El Salvador",CRI,SLV,1637,188,0,0,0,0,18
+2022,"Costa Rica",Senegal,CRI,SEN,0,5,0,0,0,0,0
+2022,"Costa Rica",Somalia,CRI,SOM,7,7,0,0,0,0,0
+2022,"Costa Rica",Spain,CRI,ESP,0,11,0,0,0,0,0
+2022,"Costa Rica","Viet Nam",CRI,VNM,0,7,0,0,0,0,0
+2022,"Costa Rica",Stateless,CRI,XXA,0,0,0,0,235,0,0
+2022,"Costa Rica","Syrian Arab Rep.",CRI,SYR,6,34,0,0,0,0,0
+2022,"Costa Rica",Türkiye,CRI,TUR,0,8,0,0,0,0,0
+2022,"Costa Rica",Ukraine,CRI,UKR,13,40,0,0,0,0,0
+2022,"Costa Rica",Uruguay,CRI,URY,0,6,0,0,0,0,0
+2022,"Costa Rica","United States of America",CRI,USA,7,45,0,0,0,0,0
+2022,"Costa Rica","Venezuela (Bolivarian Republic of)",CRI,VEN,1990,11519,0,16598,0,0,0
+2022,"Costa Rica",Zimbabwe,CRI,ZWE,0,5,0,0,0,0,0
+2019,Cuba,Afghanistan,CUB,AFG,36,0,0,0,0,0,0
+2019,Cuba,Eritrea,CUB,ERI,14,0,0,0,0,0,0
+2019,Cuba,Ethiopia,CUB,ETH,6,0,0,0,0,0,0
+2019,Cuba,Haiti,CUB,HTI,5,0,0,0,0,0,0
+2019,Cuba,"Iran (Islamic Rep. of)",CUB,IRN,11,16,0,0,0,0,0
+2019,Cuba,Iraq,CUB,IRQ,0,6,0,0,0,0,0
+2019,Cuba,Sudan,CUB,SDN,0,10,0,0,0,0,0
+2019,Cuba,"Syrian Arab Rep.",CUB,SYR,40,0,0,0,0,0,0
+2019,Cuba,"Western Sahara",CUB,ESH,107,0,0,0,0,0,0
+2019,Cuba,Yemen,CUB,YEM,14,0,0,0,0,0,0
+2020,Cuba,Afghanistan,CUB,AFG,28,0,0,0,0,0,0
+2020,Cuba,Eritrea,CUB,ERI,12,0,0,0,0,0,0
+2020,Cuba,Ethiopia,CUB,ETH,6,0,0,0,0,0,0
+2020,Cuba,Haiti,CUB,HTI,5,0,0,0,0,0,0
+2020,Cuba,"Iran (Islamic Rep. of)",CUB,IRN,11,5,0,0,0,0,0
+2020,Cuba,Sudan,CUB,SDN,10,0,0,0,0,0,0
+2020,Cuba,"Syrian Arab Rep.",CUB,SYR,40,5,0,0,0,0,0
+2020,Cuba,"Western Sahara",CUB,ESH,95,0,0,0,0,0,0
+2020,Cuba,Yemen,CUB,YEM,15,0,0,0,0,0,0
+2021,Cuba,Afghanistan,CUB,AFG,17,0,0,0,0,0,0
+2021,Cuba,Cuba,CUB,CUB,0,0,0,0,0,0,7
+2021,Cuba,Eritrea,CUB,ERI,5,0,0,0,0,0,0
+2021,Cuba,Ethiopia,CUB,ETH,6,0,0,0,0,0,0
+2021,Cuba,Haiti,CUB,HTI,5,0,0,0,0,0,0
+2021,Cuba,"Iran (Islamic Rep. of)",CUB,IRN,7,5,0,0,0,0,0
+2021,Cuba,Sudan,CUB,SDN,10,0,0,0,0,0,0
+2021,Cuba,"Syrian Arab Rep.",CUB,SYR,36,9,0,0,0,0,0
+2021,Cuba,"Western Sahara",CUB,ESH,99,0,0,0,0,0,0
+2021,Cuba,Yemen,CUB,YEM,14,0,0,0,0,0,0
+2024,Cuba,Afghanistan,CUB,AFG,8,0,0,0,0,0,0
+2024,Cuba,Angola,CUB,AGO,0,10,0,0,0,0,0
+2024,Cuba,Cuba,CUB,CUB,0,0,0,0,0,0,5
+2024,Cuba,Ethiopia,CUB,ETH,5,0,0,0,0,0,0
+2024,Cuba,Haiti,CUB,HTI,6,0,0,0,0,0,0
+2024,Cuba,"Iran (Islamic Rep. of)",CUB,IRN,5,0,0,0,0,0,0
+2024,Cuba,"Russian Federation",CUB,RUS,5,5,0,0,0,0,0
+2024,Cuba,"South Sudan",CUB,SSD,0,5,0,0,0,0,0
+2024,Cuba,Sudan,CUB,SDN,5,13,0,0,0,0,0
+2024,Cuba,"Syrian Arab Rep.",CUB,SYR,32,8,0,0,0,0,0
+2024,Cuba,"Western Sahara",CUB,ESH,59,0,0,0,0,0,0
+2024,Cuba,Yemen,CUB,YEM,5,0,0,0,0,0,0
+2023,Cuba,Afghanistan,CUB,AFG,9,0,0,0,0,0,0
+2023,Cuba,Angola,CUB,AGO,0,10,0,0,0,0,0
+2023,Cuba,Cuba,CUB,CUB,0,0,0,0,0,0,6
+2023,Cuba,Eritrea,CUB,ERI,5,0,0,0,0,0,0
+2023,Cuba,Ethiopia,CUB,ETH,0,5,0,0,0,0,0
+2023,Cuba,"State of Palestine",CUB,PSE,5,0,0,0,0,0,0
+2023,Cuba,Haiti,CUB,HTI,6,0,0,0,0,0,0
+2023,Cuba,"Iran (Islamic Rep. of)",CUB,IRN,9,0,0,0,0,0,0
+2023,Cuba,"Russian Federation",CUB,RUS,0,5,0,0,0,0,0
+2023,Cuba,Sudan,CUB,SDN,6,0,0,0,0,0,0
+2023,Cuba,"Syrian Arab Rep.",CUB,SYR,29,5,0,0,0,0,0
+2023,Cuba,"Western Sahara",CUB,ESH,61,0,0,0,0,0,0
+2023,Cuba,Yemen,CUB,YEM,6,0,0,0,0,0,0
+2022,Cuba,Afghanistan,CUB,AFG,12,0,0,0,0,0,0
+2022,Cuba,Eritrea,CUB,ERI,5,0,0,0,0,0,0
+2022,Cuba,Haiti,CUB,HTI,5,0,0,0,0,0,0
+2022,Cuba,"Iran (Islamic Rep. of)",CUB,IRN,10,0,0,0,0,0,0
+2022,Cuba,Sudan,CUB,SDN,7,0,0,0,0,0,0
+2022,Cuba,"Syrian Arab Rep.",CUB,SYR,27,8,0,0,0,0,0
+2022,Cuba,"Western Sahara",CUB,ESH,96,0,0,0,0,0,0
+2022,Cuba,Yemen,CUB,YEM,12,0,0,0,0,0,0
+2019,"Dominican Rep.",Afghanistan,DOM,AFG,0,9,0,0,0,0,0
+2019,"Dominican Rep.",Colombia,DOM,COL,0,10,0,0,0,0,0
+2019,"Dominican Rep.",Cuba,DOM,CUB,0,32,0,0,0,0,0
+2019,"Dominican Rep.",Haiti,DOM,HTI,164,244,0,0,0,0,0
+2019,"Dominican Rep.",Honduras,DOM,HND,0,5,0,0,0,0,0
+2019,"Dominican Rep.","Sri Lanka",DOM,LKA,0,5,0,0,0,0,0
+2019,"Dominican Rep.",Nicaragua,DOM,NIC,0,5,0,0,0,0,0
+2019,"Dominican Rep.","United States of America",DOM,USA,0,5,0,0,0,0,0
+2019,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,0,246,0,33816,0,0,0
+2020,"Dominican Rep.",Afghanistan,DOM,AFG,0,8,0,0,0,0,0
+2020,"Dominican Rep.",Colombia,DOM,COL,0,5,0,0,0,0,0
+2020,"Dominican Rep.",Cuba,DOM,CUB,0,49,0,0,0,0,0
+2020,"Dominican Rep.",Haiti,DOM,HTI,162,273,0,0,0,0,0
+2020,"Dominican Rep.",Honduras,DOM,HND,0,5,0,0,0,0,0
+2020,"Dominican Rep.","Sri Lanka",DOM,LKA,0,5,0,0,0,0,0
+2020,"Dominican Rep.",Nicaragua,DOM,NIC,0,5,0,0,0,0,0
+2020,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,0,275,0,114050,0,0,0
+2021,"Dominican Rep.",Afghanistan,DOM,AFG,0,8,0,0,0,0,0
+2021,"Dominican Rep.",Colombia,DOM,COL,0,5,0,0,0,0,0
+2021,"Dominican Rep.",Cuba,DOM,CUB,0,51,0,0,0,0,0
+2021,"Dominican Rep.",Haiti,DOM,HTI,162,285,0,0,0,0,0
+2021,"Dominican Rep.",Honduras,DOM,HND,0,5,0,0,0,0,0
+2021,"Dominican Rep.","Sri Lanka",DOM,LKA,0,5,0,0,0,0,0
+2021,"Dominican Rep.",Nicaragua,DOM,NIC,0,5,0,0,0,0,0
+2021,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,0,278,0,116000,0,0,0
+2024,"Dominican Rep.",Afghanistan,DOM,AFG,0,9,0,0,0,0,0
+2024,"Dominican Rep.",Colombia,DOM,COL,0,20,0,0,0,0,0
+2024,"Dominican Rep.",Cuba,DOM,CUB,8,123,0,0,0,0,0
+2024,"Dominican Rep.",Ecuador,DOM,ECU,0,5,0,0,0,0,0
+2024,"Dominican Rep.",Haiti,DOM,HTI,0,522,0,0,0,0,0
+2024,"Dominican Rep.",Honduras,DOM,HND,0,5,0,0,0,0,0
+2024,"Dominican Rep.","Iran (Islamic Rep. of)",DOM,IRN,0,7,0,0,0,0,0
+2024,"Dominican Rep.",Nicaragua,DOM,NIC,0,5,0,0,0,0,0
+2024,"Dominican Rep.",Nigeria,DOM,NGA,0,18,0,0,0,0,0
+2024,"Dominican Rep.","Russian Federation",DOM,RUS,5,28,0,0,0,0,0
+2024,"Dominican Rep.","Syrian Arab Rep.",DOM,SYR,0,5,0,0,0,0,0
+2024,"Dominican Rep.","Unknown ",DOM,UNK,0,5,0,0,0,0,0
+2024,"Dominican Rep.",Ukraine,DOM,UKR,5,28,0,0,0,0,0
+2024,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,0,206,0,125343,0,0,0
+2023,"Dominican Rep.",Afghanistan,DOM,AFG,7,13,0,0,0,0,0
+2023,"Dominican Rep.",Colombia,DOM,COL,0,24,0,0,0,0,0
+2023,"Dominican Rep.",Cuba,DOM,CUB,31,154,0,0,0,0,0
+2023,"Dominican Rep.",Ecuador,DOM,ECU,0,17,0,0,0,0,0
+2023,"Dominican Rep.",Haiti,DOM,HTI,530,1759,0,0,0,0,0
+2023,"Dominican Rep.",Honduras,DOM,HND,0,10,0,0,0,0,0
+2023,"Dominican Rep.","Iran (Islamic Rep. of)",DOM,IRN,5,0,0,0,0,0,0
+2023,"Dominican Rep.","Sri Lanka",DOM,LKA,0,5,0,0,0,0,0
+2023,"Dominican Rep.",Nicaragua,DOM,NIC,5,6,0,0,0,0,0
+2023,"Dominican Rep.",Nigeria,DOM,NGA,5,10,0,0,0,0,0
+2023,"Dominican Rep.","Russian Federation",DOM,RUS,5,12,0,0,0,0,0
+2023,"Dominican Rep.","Syrian Arab Rep.",DOM,SYR,0,5,0,0,0,0,0
+2023,"Dominican Rep.","Unknown ",DOM,UNK,0,42,0,0,0,0,0
+2023,"Dominican Rep.",Ukraine,DOM,UKR,6,12,0,0,0,0,0
+2023,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,184,2116,0,121841,0,0,0
+2022,"Dominican Rep.",Afghanistan,DOM,AFG,0,8,0,0,0,0,0
+2022,"Dominican Rep.",Colombia,DOM,COL,0,12,0,0,0,0,0
+2022,"Dominican Rep.",Cuba,DOM,CUB,6,115,0,0,0,0,0
+2022,"Dominican Rep.",Ecuador,DOM,ECU,0,5,0,0,0,0,0
+2022,"Dominican Rep.",Haiti,DOM,HTI,344,607,0,0,0,0,0
+2022,"Dominican Rep.",Honduras,DOM,HND,0,5,0,0,0,0,0
+2022,"Dominican Rep.","Sri Lanka",DOM,LKA,0,5,0,0,0,0,0
+2022,"Dominican Rep.",Nicaragua,DOM,NIC,0,6,0,0,0,0,0
+2022,"Dominican Rep.","Russian Federation",DOM,RUS,0,9,0,0,0,0,0
+2022,"Dominican Rep.","Syrian Arab Rep.",DOM,SYR,5,0,0,0,0,0,0
+2022,"Dominican Rep.","Unknown ",DOM,UNK,0,19,0,0,0,0,0
+2022,"Dominican Rep.",Ukraine,DOM,UKR,0,14,0,0,0,0,0
+2022,"Dominican Rep.","Venezuela (Bolivarian Republic of)",DOM,VEN,191,1370,0,113722,0,0,0
+2019,Guatemala,Colombia,GTM,COL,8,8,0,0,0,0,0
+2019,Guatemala,Cuba,GTM,CUB,0,39,0,0,0,0,0
+2019,Guatemala,Honduras,GTM,HND,42,147,0,0,0,0,0
+2019,Guatemala,Mexico,GTM,MEX,0,5,0,0,0,0,0
+2019,Guatemala,Nicaragua,GTM,NIC,100,203,0,0,0,0,0
+2019,Guatemala,"Russian Federation",GTM,RUS,5,0,0,0,0,0,0
+2019,Guatemala,"El Salvador",GTM,SLV,230,175,0,0,0,0,0
+2019,Guatemala,"Unknown ",GTM,UNK,0,0,0,0,0,0,110600
+2019,Guatemala,"United States of America",GTM,USA,0,5,0,0,0,0,0
+2019,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,23,49,0,0,0,0,0
+2020,Guatemala,Colombia,GTM,COL,10,5,0,0,0,0,0
+2020,Guatemala,Cuba,GTM,CUB,7,50,0,0,0,0,0
+2020,Guatemala,Guatemala,GTM,GTM,0,0,0,0,0,0,10859
+2020,Guatemala,Honduras,GTM,HND,67,298,0,0,0,0,94676
+2020,Guatemala,Mexico,GTM,MEX,0,6,0,0,0,0,0
+2020,Guatemala,Nicaragua,GTM,NIC,61,127,0,0,0,0,1545
+2020,Guatemala,"Russian Federation",GTM,RUS,5,0,0,0,0,0,0
+2020,Guatemala,"El Salvador",GTM,SLV,265,222,0,0,0,0,4897
+2020,Guatemala,"Unknown ",GTM,UNK,0,0,0,0,0,0,772
+2020,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,27,76,0,0,0,0,0
+2021,Guatemala,Belize,GTM,BLZ,0,5,0,0,0,0,0
+2021,Guatemala,Colombia,GTM,COL,10,16,0,0,0,0,0
+2021,Guatemala,Cuba,GTM,CUB,8,22,0,0,0,0,0
+2021,Guatemala,Guatemala,GTM,GTM,0,0,0,0,0,406161,101268
+2021,Guatemala,Haiti,GTM,HTI,0,0,0,0,0,0,5076
+2021,Guatemala,Honduras,GTM,HND,72,574,0,0,0,0,15172
+2021,Guatemala,"Sri Lanka",GTM,LKA,0,5,0,0,0,0,0
+2021,Guatemala,Mexico,GTM,MEX,0,11,0,0,0,0,0
+2021,Guatemala,Nicaragua,GTM,NIC,70,221,0,0,0,0,6774
+2021,Guatemala,Panama,GTM,PAN,0,5,0,0,0,0,0
+2021,Guatemala,"Russian Federation",GTM,RUS,5,0,0,0,0,0,0
+2021,Guatemala,"El Salvador",GTM,SLV,278,485,0,0,0,0,18932
+2021,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,36,126,0,1469,0,0,0
+2024,Guatemala,Argentina,GTM,ARG,0,6,0,0,0,0,0
+2024,Guatemala,Brazil,GTM,BRA,0,5,0,0,0,0,0
+2024,Guatemala,Belize,GTM,BLZ,0,5,0,0,0,0,0
+2024,Guatemala,China,GTM,CHN,5,0,0,0,0,0,0
+2024,Guatemala,Chile,GTM,CHL,0,9,0,0,0,0,0
+2024,Guatemala,Cameroon,GTM,CMR,0,12,0,0,0,0,0
+2024,Guatemala,Colombia,GTM,COL,13,164,0,0,0,0,9396
+2024,Guatemala,"Costa Rica",GTM,CRI,0,5,0,0,0,0,0
+2024,Guatemala,Cuba,GTM,CUB,14,145,0,0,0,0,0
+2024,Guatemala,Ecuador,GTM,ECU,0,31,0,0,0,0,2898
+2024,Guatemala,Guatemala,GTM,GTM,0,0,0,0,0,72921,23630
+2024,Guatemala,Haiti,GTM,HTI,0,0,0,0,0,0,597
+2024,Guatemala,Honduras,GTM,HND,319,1016,0,0,0,0,34570
+2024,Guatemala,Mexico,GTM,MEX,8,115,0,0,0,0,0
+2024,Guatemala,Nicaragua,GTM,NIC,226,519,0,0,0,0,1791
+2024,Guatemala,Nigeria,GTM,NGA,0,5,0,0,0,0,0
+2024,Guatemala,Pakistan,GTM,PAK,0,9,0,0,0,0,0
+2024,Guatemala,Peru,GTM,PER,0,32,0,0,0,0,0
+2024,Guatemala,Poland,GTM,POL,0,5,0,0,0,0,0
+2024,Guatemala,"Russian Federation",GTM,RUS,5,0,0,0,0,0,0
+2024,Guatemala,"El Salvador",GTM,SLV,569,567,0,0,0,0,1926
+2024,Guatemala,Sudan,GTM,SDN,0,9,0,0,0,0,0
+2024,Guatemala,"Unknown ",GTM,UNK,0,0,0,0,0,0,4143
+2024,Guatemala,Ukraine,GTM,UKR,5,0,0,0,0,0,0
+2024,Guatemala,"United States of America",GTM,USA,0,9,0,0,0,0,0
+2024,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,142,702,0,0,0,0,96614
+2023,Guatemala,Argentina,GTM,ARG,0,6,0,0,0,0,0
+2023,Guatemala,Brazil,GTM,BRA,0,5,0,0,0,0,1438
+2023,Guatemala,Cameroon,GTM,CMR,0,19,0,0,0,0,0
+2023,Guatemala,Colombia,GTM,COL,10,62,0,0,0,0,0
+2023,Guatemala,Cuba,GTM,CUB,12,99,0,0,0,0,0
+2023,Guatemala,"Dominican Rep.",GTM,DOM,0,5,0,0,0,0,0
+2023,Guatemala,Ecuador,GTM,ECU,0,7,0,0,0,0,9011
+2023,Guatemala,Guatemala,GTM,GTM,0,0,0,0,0,406161,106212
+2023,Guatemala,Haiti,GTM,HTI,0,0,0,0,0,0,7900
+2023,Guatemala,Honduras,GTM,HND,226,677,0,0,0,0,5949
+2023,Guatemala,Mexico,GTM,MEX,5,33,0,0,0,0,0
+2023,Guatemala,Nicaragua,GTM,NIC,167,344,0,0,0,0,4059
+2023,Guatemala,Nigeria,GTM,NGA,0,5,0,0,0,0,0
+2023,Guatemala,Pakistan,GTM,PAK,0,5,0,0,0,0,0
+2023,Guatemala,Poland,GTM,POL,0,5,0,0,0,0,0
+2023,Guatemala,"Russian Federation",GTM,RUS,5,5,0,0,0,0,0
+2023,Guatemala,"El Salvador",GTM,SLV,469,455,0,0,0,0,1766
+2023,Guatemala,Ukraine,GTM,UKR,0,5,0,0,0,0,0
+2023,Guatemala,"United States of America",GTM,USA,0,7,0,0,0,0,0
+2023,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,95,307,0,0,0,0,11691
+2022,Guatemala,Brazil,GTM,BRA,0,6,0,0,0,0,3574
+2022,Guatemala,Congo,GTM,COG,0,5,0,0,0,0,0
+2022,Guatemala,Colombia,GTM,COL,10,27,0,0,0,0,0
+2022,Guatemala,Cuba,GTM,CUB,12,17,0,0,0,0,0
+2022,Guatemala,Ecuador,GTM,ECU,0,5,0,0,0,0,0
+2022,Guatemala,Guatemala,GTM,GTM,0,0,0,0,0,406161,97089
+2022,Guatemala,Haiti,GTM,HTI,0,5,0,0,0,0,3548
+2022,Guatemala,Honduras,GTM,HND,145,539,0,0,0,0,12557
+2022,Guatemala,Mexico,GTM,MEX,0,11,0,0,0,0,0
+2022,Guatemala,Nicaragua,GTM,NIC,104,248,0,0,0,0,13367
+2022,Guatemala,Pakistan,GTM,PAK,0,5,0,0,0,0,0
+2022,Guatemala,"Russian Federation",GTM,RUS,5,0,0,0,0,0,0
+2022,Guatemala,"El Salvador",GTM,SLV,366,475,0,0,0,0,5155
+2022,Guatemala,Ukraine,GTM,UKR,0,5,0,0,0,0,0
+2022,Guatemala,"United States of America",GTM,USA,0,5,0,0,0,0,0
+2022,Guatemala,"Venezuela (Bolivarian Republic of)",GTM,VEN,59,166,0,0,0,0,11610
+2019,Guyana,Cuba,GUY,CUB,9,57,0,0,0,0,0
+2019,Guyana,Pakistan,GUY,PAK,5,0,0,0,0,0,0
+2019,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,22000,0,0,0
+2020,Guyana,Cameroon,GUY,CMR,0,5,0,0,0,0,0
+2020,Guyana,Cuba,GUY,CUB,18,67,0,0,0,0,0
+2020,Guyana,Pakistan,GUY,PAK,5,0,0,0,0,0,0
+2020,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,23307,0,0,0
+2021,Guyana,Cameroon,GUY,CMR,0,5,0,0,0,0,0
+2021,Guyana,Cuba,GUY,CUB,40,78,0,0,0,0,0
+2021,Guyana,Guyana,GUY,GUY,0,0,0,0,0,5892,0
+2021,Guyana,Haiti,GUY,HTI,0,11,0,0,0,0,0
+2021,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,0,0,25800,0,0,0
+2024,Guyana,Afghanistan,GUY,AFG,7,0,0,0,0,0,0
+2024,Guyana,Cuba,GUY,CUB,5,29,0,0,0,0,0
+2024,Guyana,Haiti,GUY,HTI,15,12,0,0,0,0,0
+2024,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,11,0,23400,0,0,0
+2023,Guyana,Afghanistan,GUY,AFG,7,0,0,0,0,0,0
+2023,Guyana,Cuba,GUY,CUB,5,37,0,0,0,0,0
+2023,Guyana,Haiti,GUY,HTI,15,11,0,0,0,0,0
+2023,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,7,0,21668,0,0,0
+2022,Guyana,Afghanistan,GUY,AFG,0,5,0,0,0,0,0
+2022,Guyana,Cambodia,GUY,KHM,0,5,0,0,0,0,0
+2022,Guyana,Cameroon,GUY,CMR,0,5,0,0,0,0,0
+2022,Guyana,Cuba,GUY,CUB,7,128,0,0,0,0,0
+2022,Guyana,Guyana,GUY,GUY,0,0,0,0,0,4200,0
+2022,Guyana,Haiti,GUY,HTI,5,13,0,0,0,0,0
+2022,Guyana,"Venezuela (Bolivarian Republic of)",GUY,VEN,0,7,0,19635,0,0,0
+2019,Haiti,Nigeria,HTI,NGA,0,5,0,0,0,0,0
+2020,Haiti,Nigeria,HTI,NGA,0,5,0,0,0,0,0
+2024,Haiti,"Dem. Rep. of the Congo",HTI,COD,0,0,0,0,0,0,5
+2024,Haiti,Cuba,HTI,CUB,5,0,0,0,0,0,0
+2024,Haiti,Haiti,HTI,HTI,0,0,1037463,0,0,0,0
+2023,Haiti,"Dem. Rep. of the Congo",HTI,COD,0,0,0,0,0,0,5
+2023,Haiti,Haiti,HTI,HTI,0,0,313901,0,0,0,0
+2019,Honduras,Cuba,HND,CUB,0,5,0,0,0,0,0
+2019,Honduras,Honduras,HND,HND,0,0,247090,0,0,0,5776
+2019,Honduras,Nicaragua,HND,NIC,46,99,0,0,0,0,224
+2019,Honduras,"El Salvador",HND,SLV,22,5,0,0,0,0,0
+2019,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,7,0,0,0,0,0,0
+2020,Honduras,Colombia,HND,COL,0,5,0,0,0,0,0
+2020,Honduras,Cuba,HND,CUB,0,5,0,0,0,0,130
+2020,Honduras,Haiti,HND,HTI,0,0,0,0,0,0,130
+2020,Honduras,Honduras,HND,HND,0,0,247090,0,0,0,2340
+2020,Honduras,Nicaragua,HND,NIC,56,92,0,0,0,0,120
+2020,Honduras,"El Salvador",HND,SLV,22,9,0,0,0,0,0
+2020,Honduras,"Unknown ",HND,UNK,0,0,0,0,0,0,220
+2020,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,7,5,0,0,0,0,0
+2021,Honduras,Cuba,HND,CUB,0,0,0,0,0,0,130
+2021,Honduras,Haiti,HND,HTI,0,10,0,0,0,0,130
+2021,Honduras,Honduras,HND,HND,0,0,247090,0,0,0,4653
+2021,Honduras,Mexico,HND,MEX,0,5,0,0,0,0,0
+2021,Honduras,Nicaragua,HND,NIC,113,68,0,0,0,0,120
+2021,Honduras,"El Salvador",HND,SLV,22,0,0,0,0,0,0
+2021,Honduras,"Unknown ",HND,UNK,0,0,0,0,0,0,220
+2021,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,9,16,0,0,0,0,0
+2024,Honduras,Colombia,HND,COL,5,17,0,0,0,0,16665
+2024,Honduras,Cuba,HND,CUB,5,7,0,0,0,0,22504
+2024,Honduras,Ecuador,HND,ECU,0,0,0,0,0,0,11811
+2024,Honduras,Guatemala,HND,GTM,0,5,0,0,0,0,0
+2024,Honduras,Haiti,HND,HTI,0,0,0,0,0,0,19647
+2024,Honduras,Honduras,HND,HND,0,0,247090,0,0,0,36743
+2024,Honduras,Mexico,HND,MEX,0,5,0,0,0,0,0
+2024,Honduras,Nicaragua,HND,NIC,155,44,0,0,0,0,5993
+2024,Honduras,"El Salvador",HND,SLV,27,0,0,0,0,0,0
+2024,Honduras,"Unknown ",HND,UNK,0,0,0,0,0,0,106358
+2024,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,10,61,0,0,0,0,85405
+2023,Honduras,Colombia,HND,COL,5,5,0,0,0,0,3499
+2023,Honduras,Cuba,HND,CUB,0,16,0,0,0,0,22897
+2023,Honduras,Ecuador,HND,ECU,0,0,0,0,0,0,12275
+2023,Honduras,Haiti,HND,HTI,0,0,0,0,0,0,21906
+2023,Honduras,Honduras,HND,HND,0,0,247090,0,0,0,28402
+2023,Honduras,Nicaragua,HND,NIC,142,51,0,0,0,0,249
+2023,Honduras,"El Salvador",HND,SLV,26,5,0,0,0,0,0
+2023,Honduras,"Unknown ",HND,UNK,0,0,0,0,0,0,23379
+2023,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,9,24,0,0,0,0,60962
+2022,Honduras,Colombia,HND,COL,5,0,0,0,0,0,2476
+2022,Honduras,Cuba,HND,CUB,0,9,0,0,0,0,73804
+2022,Honduras,Ecuador,HND,ECU,0,0,0,0,0,0,24525
+2022,Honduras,Haiti,HND,HTI,0,0,0,0,0,0,11517
+2022,Honduras,Honduras,HND,HND,0,0,247090,0,0,0,4119
+2022,Honduras,Nicaragua,HND,NIC,125,56,0,0,0,0,1224
+2022,Honduras,"El Salvador",HND,SLV,26,13,0,0,0,0,0
+2022,Honduras,"Unknown ",HND,UNK,0,0,0,0,0,0,20253
+2022,Honduras,"Venezuela (Bolivarian Republic of)",HND,VEN,9,29,0,0,0,0,55059
+2019,Jamaica,Haiti,JAM,HTI,0,5,0,0,0,0,0
+2019,Jamaica,"Venezuela (Bolivarian Republic of)",JAM,VEN,0,0,0,121,0,0,0
+2020,Jamaica,Haiti,JAM,HTI,27,5,0,0,0,0,0
+2020,Jamaica,"Venezuela (Bolivarian Republic of)",JAM,VEN,0,0,0,67,0,0,0
+2021,Jamaica,Haiti,JAM,HTI,31,5,0,0,0,0,0
+2021,Jamaica,"Venezuela (Bolivarian Republic of)",JAM,VEN,0,0,0,67,0,0,0
+2022,Jamaica,Haiti,JAM,HTI,31,0,0,0,0,0,0
+2022,Jamaica,"Venezuela (Bolivarian Republic of)",JAM,VEN,0,0,0,0,0,0,67
+2019,Nicaragua,Colombia,NIC,COL,6,0,0,0,0,0,0
+2019,Nicaragua,Cuba,NIC,CUB,15,0,0,0,0,0,0
+2019,Nicaragua,Guatemala,NIC,GTM,8,0,0,0,0,0,5
+2019,Nicaragua,Honduras,NIC,HND,74,26,0,0,0,0,56
+2019,Nicaragua,"El Salvador",NIC,SLV,219,100,0,0,0,0,449
+2020,Nicaragua,Colombia,NIC,COL,6,0,0,0,0,0,0
+2020,Nicaragua,Cuba,NIC,CUB,14,0,0,0,0,0,0
+2020,Nicaragua,Guatemala,NIC,GTM,7,0,0,0,0,0,5
+2020,Nicaragua,Honduras,NIC,HND,74,26,0,0,0,0,56
+2020,Nicaragua,"El Salvador",NIC,SLV,210,100,0,0,0,0,497
+2020,Nicaragua,"Unknown ",NIC,UNK,0,0,0,0,0,0,5
+2021,Nicaragua,Colombia,NIC,COL,6,0,0,0,0,0,0
+2021,Nicaragua,Cuba,NIC,CUB,14,0,0,0,0,0,5
+2021,Nicaragua,Guatemala,NIC,GTM,7,0,0,0,0,0,6
+2021,Nicaragua,Honduras,NIC,HND,74,26,0,0,0,0,56
+2021,Nicaragua,"El Salvador",NIC,SLV,212,100,0,0,0,0,516
+2021,Nicaragua,"Unknown ",NIC,UNK,0,0,0,0,0,0,5
+2023,Nicaragua,Colombia,NIC,COL,6,0,0,0,0,0,0
+2023,Nicaragua,Cuba,NIC,CUB,14,0,0,0,0,0,6
+2023,Nicaragua,Guatemala,NIC,GTM,7,0,0,0,0,0,6
+2023,Nicaragua,Honduras,NIC,HND,74,26,0,0,0,0,56
+2023,Nicaragua,Mexico,NIC,MEX,0,0,0,0,0,0,5
+2023,Nicaragua,"El Salvador",NIC,SLV,210,98,0,0,0,0,505
+2023,Nicaragua,"Unknown ",NIC,UNK,0,0,0,0,0,0,5
+2022,Nicaragua,Colombia,NIC,COL,6,0,0,0,0,0,0
+2022,Nicaragua,Cuba,NIC,CUB,14,0,0,0,0,0,6
+2022,Nicaragua,Guatemala,NIC,GTM,7,0,0,0,0,0,6
+2022,Nicaragua,Honduras,NIC,HND,74,26,0,0,0,0,56
+2022,Nicaragua,Mexico,NIC,MEX,0,0,0,0,0,0,5
+2022,Nicaragua,"El Salvador",NIC,SLV,211,98,0,0,0,0,500
+2022,Nicaragua,"Unknown ",NIC,UNK,0,0,0,0,0,0,5
+2019,Panama,Afghanistan,PAN,AFG,5,6,0,0,0,0,0
+2019,Panama,Armenia,PAN,ARM,0,5,0,0,0,0,0
+2019,Panama,Bangladesh,PAN,BGD,0,18,0,0,0,0,0
+2019,Panama,Belarus,PAN,BLR,7,5,0,0,0,0,0
+2019,Panama,Brazil,PAN,BRA,0,6,0,0,0,0,0
+2019,Panama,"Bosnia and Herzegovina",PAN,BIH,5,0,0,0,0,0,0
+2019,Panama,Cameroon,PAN,CMR,9,5,0,0,0,0,0
+2019,Panama,"Dem. Rep. of the Congo",PAN,COD,5,0,0,0,0,0,0
+2019,Panama,Colombia,PAN,COL,1702,1897,0,0,0,0,0
+2019,Panama,"Costa Rica",PAN,CRI,0,5,0,0,0,0,0
+2019,Panama,Cuba,PAN,CUB,120,2662,0,0,0,0,0
+2019,Panama,"Dominican Rep.",PAN,DOM,5,5,0,0,0,0,0
+2019,Panama,Ecuador,PAN,ECU,0,25,0,0,0,0,0
+2019,Panama,Eritrea,PAN,ERI,0,39,0,0,0,0,0
+2019,Panama,Guatemala,PAN,GTM,12,14,0,0,0,0,0
+2019,Panama,Haiti,PAN,HTI,19,0,0,0,0,0,0
+2019,Panama,Honduras,PAN,HND,0,114,0,0,0,0,0
+2019,Panama,Croatia,PAN,HRV,5,0,0,0,0,0,0
+2019,Panama,"Cote d'Ivoire",PAN,CIV,0,5,0,0,0,0,0
+2019,Panama,India,PAN,IND,0,5,0,0,0,0,0
+2019,Panama,"Iran (Islamic Rep. of)",PAN,IRN,5,0,0,0,0,0,0
+2019,Panama,Italy,PAN,ITA,0,5,0,0,0,0,0
+2019,Panama,Jamaica,PAN,JAM,0,8,0,0,0,0,0
+2019,Panama,Kenya,PAN,KEN,0,5,0,0,0,0,0
+2019,Panama,Liberia,PAN,LBR,5,0,0,0,0,0,0
+2019,Panama,"Sri Lanka",PAN,LKA,0,7,0,0,0,0,0
+2019,Panama,Mexico,PAN,MEX,6,0,0,0,0,0,0
+2019,Panama,Nepal,PAN,NPL,0,12,0,0,0,0,0
+2019,Panama,Nicaragua,PAN,NIC,178,7550,0,0,0,0,0
+2019,Panama,Nigeria,PAN,NGA,10,35,0,0,0,0,0
+2019,Panama,Pakistan,PAN,PAK,0,29,0,0,0,0,0
+2019,Panama,Peru,PAN,PER,23,5,0,0,0,0,0
+2019,Panama,"El Salvador",PAN,SLV,344,1357,0,0,0,0,0
+2019,Panama,"Sierra Leone",PAN,SLE,5,0,0,0,0,0,0
+2019,Panama,Somalia,PAN,SOM,0,103,0,0,0,0,0
+2019,Panama,Sudan,PAN,SDN,5,0,0,0,0,0,0
+2019,Panama,"Syrian Arab Rep.",PAN,SYR,0,12,0,0,0,0,0
+2019,Panama,Ukraine,PAN,UKR,0,5,0,0,0,0,0
+2019,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,61,3724,0,115768,0,0,0
+2020,Panama,Afghanistan,PAN,AFG,5,6,0,0,0,0,0
+2020,Panama,Armenia,PAN,ARM,0,5,0,0,0,0,0
+2020,Panama,Bangladesh,PAN,BGD,0,15,0,0,0,0,0
+2020,Panama,Belarus,PAN,BLR,7,0,0,0,0,0,0
+2020,Panama,"Bosnia and Herzegovina",PAN,BIH,5,0,0,0,0,0,0
+2020,Panama,Cameroon,PAN,CMR,9,5,0,0,0,0,0
+2020,Panama,"Dem. Rep. of the Congo",PAN,COD,5,0,0,0,0,0,0
+2020,Panama,Colombia,PAN,COL,1698,1114,0,0,0,0,0
+2020,Panama,"Costa Rica",PAN,CRI,0,5,0,0,0,0,0
+2020,Panama,Cuba,PAN,CUB,120,2162,0,0,0,0,0
+2020,Panama,"Dominican Rep.",PAN,DOM,5,0,0,0,0,0,0
+2020,Panama,Ecuador,PAN,ECU,0,17,0,0,0,0,0
+2020,Panama,Eritrea,PAN,ERI,0,38,0,0,0,0,0
+2020,Panama,Guatemala,PAN,GTM,12,9,0,0,0,0,0
+2020,Panama,Haiti,PAN,HTI,19,0,0,0,0,0,0
+2020,Panama,Honduras,PAN,HND,6,88,0,0,0,0,0
+2020,Panama,Croatia,PAN,HRV,5,0,0,0,0,0,0
+2020,Panama,"Cote d'Ivoire",PAN,CIV,0,5,0,0,0,0,0
+2020,Panama,India,PAN,IND,0,5,0,0,0,0,0
+2020,Panama,"Iran (Islamic Rep. of)",PAN,IRN,5,0,0,0,0,0,0
+2020,Panama,Italy,PAN,ITA,0,5,0,0,0,0,0
+2020,Panama,Jamaica,PAN,JAM,0,5,0,0,0,0,0
+2020,Panama,Liberia,PAN,LBR,5,0,0,0,0,0,0
+2020,Panama,"Sri Lanka",PAN,LKA,0,7,0,0,0,0,0
+2020,Panama,Mexico,PAN,MEX,6,0,0,0,0,0,0
+2020,Panama,Nepal,PAN,NPL,0,14,0,0,0,0,0
+2020,Panama,Nicaragua,PAN,NIC,179,5662,0,0,0,0,0
+2020,Panama,Nigeria,PAN,NGA,10,34,0,0,0,0,0
+2020,Panama,Pakistan,PAN,PAK,0,17,0,0,0,0,0
+2020,Panama,Peru,PAN,PER,23,0,0,0,0,0,0
+2020,Panama,"El Salvador",PAN,SLV,363,972,0,0,0,0,0
+2020,Panama,"Sierra Leone",PAN,SLE,5,0,0,0,0,0,0
+2020,Panama,Somalia,PAN,SOM,0,101,0,0,0,0,0
+2020,Panama,Sudan,PAN,SDN,5,0,0,0,0,0,0
+2020,Panama,Ukraine,PAN,UKR,0,5,0,0,0,0,0
+2020,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,65,2596,0,118937,0,0,0
+2021,Panama,Afghanistan,PAN,AFG,5,6,0,0,0,0,0
+2021,Panama,Armenia,PAN,ARM,0,5,0,0,0,0,0
+2021,Panama,Bangladesh,PAN,BGD,0,15,0,0,0,0,0
+2021,Panama,Belarus,PAN,BLR,7,0,0,0,0,0,0
+2021,Panama,"Bosnia and Herzegovina",PAN,BIH,5,0,0,0,0,0,0
+2021,Panama,Cameroon,PAN,CMR,9,5,0,0,0,0,0
+2021,Panama,"Dem. Rep. of the Congo",PAN,COD,5,0,0,0,0,0,0
+2021,Panama,Colombia,PAN,COL,1683,1062,0,0,0,0,0
+2021,Panama,Cuba,PAN,CUB,120,1554,0,0,0,0,0
+2021,Panama,"Dominican Rep.",PAN,DOM,5,0,0,0,0,0,0
+2021,Panama,Ecuador,PAN,ECU,0,15,0,0,0,0,0
+2021,Panama,Eritrea,PAN,ERI,0,38,0,0,0,0,0
+2021,Panama,Guatemala,PAN,GTM,12,8,0,0,0,0,0
+2021,Panama,Haiti,PAN,HTI,19,0,0,0,0,0,0
+2021,Panama,Honduras,PAN,HND,6,88,0,0,0,0,0
+2021,Panama,Croatia,PAN,HRV,5,0,0,0,0,0,0
+2021,Panama,"Cote d'Ivoire",PAN,CIV,0,5,0,0,0,0,0
+2021,Panama,India,PAN,IND,0,7,0,0,0,0,0
+2021,Panama,"Iran (Islamic Rep. of)",PAN,IRN,5,0,0,0,0,0,0
+2021,Panama,Italy,PAN,ITA,0,5,0,0,0,0,0
+2021,Panama,Jamaica,PAN,JAM,0,5,0,0,0,0,0
+2021,Panama,Liberia,PAN,LBR,5,0,0,0,0,0,0
+2021,Panama,"Sri Lanka",PAN,LKA,0,7,0,0,0,0,0
+2021,Panama,Mexico,PAN,MEX,5,0,0,0,0,0,0
+2021,Panama,Nepal,PAN,NPL,0,14,0,0,0,0,0
+2021,Panama,Nicaragua,PAN,NIC,179,5230,0,0,0,0,0
+2021,Panama,Nigeria,PAN,NGA,10,34,0,0,0,0,0
+2021,Panama,Pakistan,PAN,PAK,0,16,0,0,0,0,0
+2021,Panama,Panama,PAN,PAN,0,0,0,0,0,14521,0
+2021,Panama,Peru,PAN,PER,23,0,0,0,0,0,0
+2021,Panama,"El Salvador",PAN,SLV,363,952,0,0,0,0,0
+2021,Panama,"Sierra Leone",PAN,SLE,5,0,0,0,0,0,0
+2021,Panama,Somalia,PAN,SOM,0,101,0,0,0,0,0
+2021,Panama,Sudan,PAN,SDN,5,0,0,0,0,0,0
+2021,Panama,Ukraine,PAN,UKR,0,5,0,0,0,0,0
+2021,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,61,2453,0,128000,0,0,0
+2024,Panama,Afghanistan,PAN,AFG,7,0,0,0,0,0,0
+2024,Panama,Belarus,PAN,BLR,7,0,0,0,0,0,0
+2024,Panama,Cameroon,PAN,CMR,5,0,0,0,0,0,0
+2024,Panama,"Dem. Rep. of the Congo",PAN,COD,5,0,0,0,0,0,0
+2024,Panama,Colombia,PAN,COL,1622,780,0,0,0,0,0
+2024,Panama,"Costa Rica",PAN,CRI,0,5,0,0,0,0,0
+2024,Panama,Cuba,PAN,CUB,36,1172,0,0,0,0,0
+2024,Panama,"Dominican Rep.",PAN,DOM,5,5,0,0,0,0,0
+2024,Panama,Ecuador,PAN,ECU,5,25,0,0,0,0,0
+2024,Panama,Guatemala,PAN,GTM,10,11,0,0,0,0,0
+2024,Panama,Haiti,PAN,HTI,10,5,0,0,0,0,0
+2024,Panama,Honduras,PAN,HND,10,29,0,0,0,0,0
+2024,Panama,Jamaica,PAN,JAM,5,7,0,0,0,0,0
+2024,Panama,Mexico,PAN,MEX,8,0,0,0,0,0,0
+2024,Panama,Nicaragua,PAN,NIC,61,4940,0,0,0,0,0
+2024,Panama,Nigeria,PAN,NGA,5,0,0,0,0,0,0
+2024,Panama,Panama,PAN,PAN,0,0,0,0,0,2236,0
+2024,Panama,Peru,PAN,PER,0,5,0,0,0,0,0
+2024,Panama,Poland,PAN,POL,0,5,0,0,0,0,0
+2024,Panama,"Russian Federation",PAN,RUS,0,6,0,0,0,0,0
+2024,Panama,"El Salvador",PAN,SLV,733,178,0,0,0,0,0
+2024,Panama,"Sierra Leone",PAN,SLE,5,0,0,0,0,0,0
+2024,Panama,Stateless,PAN,XXA,0,0,0,0,928,0,0
+2024,Panama,"Syrian Arab Rep.",PAN,SYR,5,0,0,0,0,0,0
+2024,Panama,"Unknown ",PAN,UNK,0,0,0,0,0,0,68874
+2024,Panama,Ukraine,PAN,UKR,21,5,0,0,0,0,0
+2024,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,93,965,0,56921,0,0,0
+2023,Panama,Afghanistan,PAN,AFG,7,5,0,0,0,0,0
+2023,Panama,Armenia,PAN,ARM,0,5,0,0,0,0,0
+2023,Panama,Bangladesh,PAN,BGD,0,15,0,0,0,0,0
+2023,Panama,Belarus,PAN,BLR,7,0,0,0,0,0,0
+2023,Panama,"Bosnia and Herzegovina",PAN,BIH,5,0,0,0,0,0,0
+2023,Panama,Cameroon,PAN,CMR,10,5,0,0,0,0,0
+2023,Panama,"Dem. Rep. of the Congo",PAN,COD,5,5,0,0,0,0,0
+2023,Panama,Colombia,PAN,COL,1686,908,0,0,0,0,0
+2023,Panama,"Costa Rica",PAN,CRI,0,5,0,0,0,0,0
+2023,Panama,Cuba,PAN,CUB,121,1270,0,0,0,0,0
+2023,Panama,"Dominican Rep.",PAN,DOM,5,0,0,0,0,0,0
+2023,Panama,Ecuador,PAN,ECU,0,11,0,0,0,0,0
+2023,Panama,Eritrea,PAN,ERI,0,38,0,0,0,0,0
+2023,Panama,Guatemala,PAN,GTM,12,6,0,0,0,0,0
+2023,Panama,Haiti,PAN,HTI,19,0,0,0,0,0,0
+2023,Panama,Honduras,PAN,HND,12,71,0,0,0,0,0
+2023,Panama,Croatia,PAN,HRV,5,0,0,0,0,0,0
+2023,Panama,"Cote d'Ivoire",PAN,CIV,0,5,0,0,0,0,0
+2023,Panama,India,PAN,IND,0,6,0,0,0,0,0
+2023,Panama,"Iran (Islamic Rep. of)",PAN,IRN,5,0,0,0,0,0,0
+2023,Panama,Italy,PAN,ITA,0,5,0,0,0,0,0
+2023,Panama,Jamaica,PAN,JAM,0,5,0,0,0,0,0
+2023,Panama,Liberia,PAN,LBR,5,0,0,0,0,0,0
+2023,Panama,"Sri Lanka",PAN,LKA,0,7,0,0,0,0,0
+2023,Panama,Mexico,PAN,MEX,9,5,0,0,0,0,0
+2023,Panama,Nepal,PAN,NPL,0,14,0,0,0,0,0
+2023,Panama,Nicaragua,PAN,NIC,203,4238,0,0,0,0,0
+2023,Panama,Nigeria,PAN,NGA,14,34,0,0,0,0,0
+2023,Panama,Pakistan,PAN,PAK,0,12,0,0,0,0,0
+2023,Panama,Panama,PAN,PAN,0,0,0,0,0,14521,0
+2023,Panama,Peru,PAN,PER,23,5,0,0,0,0,0
+2023,Panama,"Russian Federation",PAN,RUS,0,19,0,0,0,0,0
+2023,Panama,"El Salvador",PAN,SLV,443,823,0,0,0,0,0
+2023,Panama,"Sierra Leone",PAN,SLE,5,0,0,0,0,0,0
+2023,Panama,Somalia,PAN,SOM,0,101,0,0,0,0,0
+2023,Panama,Sudan,PAN,SDN,5,0,0,0,0,0,0
+2023,Panama,"Syrian Arab Rep.",PAN,SYR,5,0,0,0,0,0,0
+2023,Panama,"Unknown ",PAN,UNK,0,0,0,0,0,0,96324
+2023,Panama,Ukraine,PAN,UKR,19,5,0,0,0,0,0
+2023,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,94,791,0,57358,0,0,0
+2022,Panama,Afghanistan,PAN,AFG,5,6,0,0,0,0,0
+2022,Panama,Armenia,PAN,ARM,0,5,0,0,0,0,0
+2022,Panama,Bangladesh,PAN,BGD,0,15,0,0,0,0,0
+2022,Panama,Belarus,PAN,BLR,7,0,0,0,0,0,0
+2022,Panama,"Bosnia and Herzegovina",PAN,BIH,5,0,0,0,0,0,0
+2022,Panama,Cameroon,PAN,CMR,10,5,0,0,0,0,0
+2022,Panama,"Dem. Rep. of the Congo",PAN,COD,5,5,0,0,0,0,0
+2022,Panama,Colombia,PAN,COL,1654,832,0,0,0,0,0
+2022,Panama,Cuba,PAN,CUB,120,1274,0,0,0,0,0
+2022,Panama,"Dominican Rep.",PAN,DOM,5,0,0,0,0,0,0
+2022,Panama,Ecuador,PAN,ECU,0,10,0,0,0,0,0
+2022,Panama,Eritrea,PAN,ERI,0,38,0,0,0,0,0
+2022,Panama,Guatemala,PAN,GTM,12,6,0,0,0,0,0
+2022,Panama,Haiti,PAN,HTI,19,0,0,0,0,0,0
+2022,Panama,Honduras,PAN,HND,6,70,0,0,0,0,0
+2022,Panama,Croatia,PAN,HRV,5,0,0,0,0,0,0
+2022,Panama,"Cote d'Ivoire",PAN,CIV,0,5,0,0,0,0,0
+2022,Panama,India,PAN,IND,0,6,0,0,0,0,0
+2022,Panama,"Iran (Islamic Rep. of)",PAN,IRN,5,0,0,0,0,0,0
+2022,Panama,Italy,PAN,ITA,0,5,0,0,0,0,0
+2022,Panama,Jamaica,PAN,JAM,0,5,0,0,0,0,0
+2022,Panama,Liberia,PAN,LBR,5,0,0,0,0,0,0
+2022,Panama,"Sri Lanka",PAN,LKA,0,7,0,0,0,0,0
+2022,Panama,Mexico,PAN,MEX,6,0,0,0,0,0,0
+2022,Panama,Nepal,PAN,NPL,0,14,0,0,0,0,0
+2022,Panama,Nicaragua,PAN,NIC,184,4277,0,0,0,0,0
+2022,Panama,Nigeria,PAN,NGA,10,34,0,0,0,0,0
+2022,Panama,Pakistan,PAN,PAK,0,13,0,0,0,0,0
+2022,Panama,Panama,PAN,PAN,0,0,0,0,0,96800,0
+2022,Panama,Peru,PAN,PER,23,0,0,0,0,0,0
+2022,Panama,"Russian Federation",PAN,RUS,0,12,0,0,0,0,0
+2022,Panama,"El Salvador",PAN,SLV,393,860,0,0,0,0,0
+2022,Panama,"Sierra Leone",PAN,SLE,5,0,0,0,0,0,0
+2022,Panama,Somalia,PAN,SOM,0,101,0,0,0,0,0
+2022,Panama,Sudan,PAN,SDN,5,0,0,0,0,0,0
+2022,Panama,"Syrian Arab Rep.",PAN,SYR,5,0,0,0,0,0,0
+2022,Panama,"Unknown ",PAN,UNK,0,0,0,0,0,0,248284
+2022,Panama,Ukraine,PAN,UKR,11,10,0,0,0,0,0
+2022,Panama,"Venezuela (Bolivarian Republic of)",PAN,VEN,71,860,0,146696,0,0,0
+2019,"El Salvador",Colombia,SLV,COL,5,6,0,0,0,0,0
+2019,"El Salvador",Cuba,SLV,CUB,0,5,0,0,0,0,0
+2019,"El Salvador",Honduras,SLV,HND,19,8,0,0,0,0,0
+2019,"El Salvador",Iraq,SLV,IRQ,5,0,0,0,0,0,0
+2019,"El Salvador",Mexico,SLV,MEX,5,0,0,0,0,0,0
+2019,"El Salvador",Nicaragua,SLV,NIC,9,10,0,0,0,0,0
+2019,"El Salvador","El Salvador",SLV,SLV,0,0,71500,0,0,0,6800
+2019,"El Salvador","Syrian Arab Rep.",SLV,SYR,5,0,0,0,0,0,0
+2020,"El Salvador",Colombia,SLV,COL,5,7,0,0,0,0,0
+2020,"El Salvador",Guatemala,SLV,GTM,0,5,0,0,0,0,0
+2020,"El Salvador",Honduras,SLV,HND,19,12,0,0,0,0,0
+2020,"El Salvador",Iraq,SLV,IRQ,5,0,0,0,0,0,0
+2020,"El Salvador",Mexico,SLV,MEX,5,0,0,0,0,0,0
+2020,"El Salvador",Nicaragua,SLV,NIC,9,13,0,0,0,0,0
+2020,"El Salvador","El Salvador",SLV,SLV,0,0,71500,0,0,0,1700
+2020,"El Salvador","Syrian Arab Rep.",SLV,SYR,5,0,0,0,0,0,0
+2020,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,0,16,0,0,0,0,0
+2021,"El Salvador",Colombia,SLV,COL,18,7,0,0,0,0,0
+2021,"El Salvador",Guatemala,SLV,GTM,0,8,0,0,0,0,0
+2021,"El Salvador",Honduras,SLV,HND,26,11,0,0,0,0,0
+2021,"El Salvador",Iraq,SLV,IRQ,5,0,0,0,0,0,0
+2021,"El Salvador",Mexico,SLV,MEX,5,0,0,0,0,0,0
+2021,"El Salvador",Nicaragua,SLV,NIC,22,27,0,0,0,0,0
+2021,"El Salvador","El Salvador",SLV,SLV,0,0,71500,0,0,391,2634
+2021,"El Salvador","Syrian Arab Rep.",SLV,SYR,5,0,0,0,0,0,0
+2021,"El Salvador","United States of America",SLV,USA,5,0,0,0,0,0,0
+2021,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,12,13,0,0,0,0,0
+2024,"El Salvador",Colombia,SLV,COL,16,14,0,0,0,0,0
+2024,"El Salvador","Costa Rica",SLV,CRI,0,8,0,0,0,0,0
+2024,"El Salvador",Cuba,SLV,CUB,6,55,0,0,0,0,0
+2024,"El Salvador",Ecuador,SLV,ECU,0,28,0,0,0,0,0
+2024,"El Salvador",Guatemala,SLV,GTM,8,10,0,0,0,0,0
+2024,"El Salvador",Haiti,SLV,HTI,0,5,0,0,0,0,0
+2024,"El Salvador",Honduras,SLV,HND,34,44,0,0,0,0,0
+2024,"El Salvador",Iraq,SLV,IRQ,5,0,0,0,0,0,0
+2024,"El Salvador",Mexico,SLV,MEX,0,5,0,0,0,0,0
+2024,"El Salvador",Nicaragua,SLV,NIC,33,67,0,0,0,0,0
+2024,"El Salvador","El Salvador",SLV,SLV,0,0,71500,0,0,255433,114393
+2024,"El Salvador","United States of America",SLV,USA,5,6,0,0,0,0,0
+2024,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,13,30,0,0,0,0,0
+2023,"El Salvador",Colombia,SLV,COL,16,17,0,0,0,0,0
+2023,"El Salvador","Costa Rica",SLV,CRI,0,5,0,0,0,0,0
+2023,"El Salvador",Cuba,SLV,CUB,0,45,0,0,0,0,0
+2023,"El Salvador",Ecuador,SLV,ECU,0,8,0,0,0,0,0
+2023,"El Salvador",Guatemala,SLV,GTM,6,11,0,0,0,0,0
+2023,"El Salvador",Honduras,SLV,HND,31,20,0,0,0,0,0
+2023,"El Salvador",Iraq,SLV,IRQ,5,0,0,0,0,0,0
+2023,"El Salvador",Mexico,SLV,MEX,0,5,0,0,0,0,0
+2023,"El Salvador",Nicaragua,SLV,NIC,30,52,0,0,0,0,0
+2023,"El Salvador","El Salvador",SLV,SLV,0,0,71500,0,0,346175,118591
+2023,"El Salvador","United States of America",SLV,USA,5,5,0,0,0,0,0
+2023,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,13,95,0,0,0,0,0
+2022,"El Salvador",Colombia,SLV,COL,16,8,0,0,0,0,0
+2022,"El Salvador",Cuba,SLV,CUB,0,5,0,0,0,0,0
+2022,"El Salvador",Guatemala,SLV,GTM,6,5,0,0,0,0,0
+2022,"El Salvador",Honduras,SLV,HND,31,5,0,0,0,0,0
+2022,"El Salvador",Iraq,SLV,IRQ,5,0,0,0,0,0,0
+2022,"El Salvador",Nicaragua,SLV,NIC,29,20,0,0,0,0,0
+2022,"El Salvador","El Salvador",SLV,SLV,0,0,71500,0,0,85061,6205
+2022,"El Salvador","United States of America",SLV,USA,5,5,0,0,0,0,0
+2022,"El Salvador","Venezuela (Bolivarian Republic of)",SLV,VEN,12,6,0,0,0,0,0
+2019,Suriname,Colombia,SUR,COL,0,5,0,0,0,0,0
+2019,Suriname,Cuba,SUR,CUB,36,1187,0,0,0,0,0
+2019,Suriname,"Dominican Rep.",SUR,DOM,0,14,0,0,0,0,0
+2019,Suriname,Nigeria,SUR,NGA,0,5,0,0,0,0,0
+2019,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,8,215,0,0,0,0,0
+2020,Suriname,Colombia,SUR,COL,0,5,0,0,0,0,0
+2020,Suriname,Cuba,SUR,CUB,7,1703,0,0,0,0,0
+2020,Suriname,"Dominican Rep.",SUR,DOM,0,8,0,0,0,0,0
+2020,Suriname,Nigeria,SUR,NGA,0,5,0,0,0,0,0
+2020,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,12,267,0,0,0,0,0
+2021,Suriname,Colombia,SUR,COL,0,6,0,0,0,0,0
+2021,Suriname,Cuba,SUR,CUB,17,1777,0,0,0,0,0
+2021,Suriname,"Dominican Rep.",SUR,DOM,0,9,0,0,0,0,0
+2021,Suriname,Guyana,SUR,GUY,0,5,0,0,0,0,0
+2021,Suriname,Nigeria,SUR,NGA,0,5,0,0,0,0,0
+2021,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,12,331,0,0,0,0,0
+2024,Suriname,Afghanistan,SUR,AFG,0,5,0,0,0,0,0
+2024,Suriname,Colombia,SUR,COL,0,5,0,0,0,0,0
+2024,Suriname,Cuba,SUR,CUB,12,2705,0,0,0,0,0
+2024,Suriname,"Dominican Rep.",SUR,DOM,0,5,0,0,0,0,0
+2024,Suriname,Guyana,SUR,GUY,0,5,0,0,0,0,0
+2024,Suriname,Haiti,SUR,HTI,0,5,0,0,0,0,0
+2024,Suriname,Nigeria,SUR,NGA,0,5,0,0,0,0,0
+2024,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,12,482,0,0,0,0,0
+2023,Suriname,Afghanistan,SUR,AFG,0,5,0,0,0,0,0
+2023,Suriname,Colombia,SUR,COL,0,6,0,0,0,0,0
+2023,Suriname,Cuba,SUR,CUB,12,2136,0,0,0,0,0
+2023,Suriname,"Dominican Rep.",SUR,DOM,0,5,0,0,0,0,0
+2023,Suriname,Guyana,SUR,GUY,0,5,0,0,0,0,0
+2023,Suriname,Haiti,SUR,HTI,0,6,0,0,0,0,0
+2023,Suriname,Nigeria,SUR,NGA,0,5,0,0,0,0,0
+2023,Suriname,Suriname,SUR,SUR,0,0,0,0,0,0,5
+2023,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,12,441,0,0,0,0,0
+2022,Suriname,Colombia,SUR,COL,0,6,0,0,0,0,0
+2022,Suriname,Cuba,SUR,CUB,12,2084,0,0,0,0,0
+2022,Suriname,"Dominican Rep.",SUR,DOM,0,10,0,0,0,0,0
+2022,Suriname,Guyana,SUR,GUY,0,5,0,0,0,0,0
+2022,Suriname,Haiti,SUR,HTI,0,6,0,0,0,0,0
+2022,Suriname,Nigeria,SUR,NGA,0,5,0,0,0,0,0
+2022,Suriname,Suriname,SUR,SUR,0,0,0,0,0,0,5
+2022,Suriname,"Venezuela (Bolivarian Republic of)",SUR,VEN,13,430,0,0,0,0,0
+2019,"Trinidad and Tobago",Egypt,TTO,EGY,0,5,0,0,0,0,0
+2019,"Trinidad and Tobago",Bangladesh,TTO,BGD,8,89,0,0,0,0,0
+2019,"Trinidad and Tobago",China,TTO,CHN,0,79,0,0,0,0,0
+2019,"Trinidad and Tobago",Cameroon,TTO,CMR,0,10,0,0,0,0,0
+2019,"Trinidad and Tobago",Colombia,TTO,COL,12,53,0,0,0,0,0
+2019,"Trinidad and Tobago",Cuba,TTO,CUB,155,2257,0,0,0,0,0
+2019,"Trinidad and Tobago","Dominican Rep.",TTO,DOM,0,130,0,0,0,0,0
+2019,"Trinidad and Tobago",Ghana,TTO,GHA,0,39,0,0,0,0,0
+2019,"Trinidad and Tobago",Grenada,TTO,GRD,0,5,0,0,0,0,0
+2019,"Trinidad and Tobago",Guyana,TTO,GUY,0,53,0,0,0,0,0
+2019,"Trinidad and Tobago",Haiti,TTO,HTI,0,15,0,0,0,0,0
+2019,"Trinidad and Tobago",India,TTO,IND,0,5,0,0,0,0,0
+2019,"Trinidad and Tobago",Jamaica,TTO,JAM,15,94,0,0,0,0,0
+2019,"Trinidad and Tobago",Mexico,TTO,MEX,6,0,0,0,0,0,0
+2019,"Trinidad and Tobago",Nicaragua,TTO,NIC,0,5,0,0,0,0,0
+2019,"Trinidad and Tobago",Nigeria,TTO,NGA,0,148,0,0,0,0,0
+2019,"Trinidad and Tobago",Pakistan,TTO,PAK,9,21,0,0,0,0,0
+2019,"Trinidad and Tobago",Philippines,TTO,PHL,0,5,0,0,0,0,0
+2019,"Trinidad and Tobago","Viet Nam",TTO,VNM,0,7,0,0,0,0,0
+2019,"Trinidad and Tobago","Syrian Arab Rep.",TTO,SYR,58,38,0,0,0,0,0
+2019,"Trinidad and Tobago",Tajikistan,TTO,TJK,0,5,0,0,0,0,0
+2019,"Trinidad and Tobago","Trinidad and Tobago",TTO,TTO,0,0,0,0,0,0,200
+2019,"Trinidad and Tobago","Saint Vincent and the Grenadines",TTO,VCT,5,5,0,0,0,0,0
+2019,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,2040,14296,0,7664,0,0,0
+2020,"Trinidad and Tobago",Bangladesh,TTO,BGD,8,90,0,0,0,0,0
+2020,"Trinidad and Tobago",China,TTO,CHN,0,127,0,0,0,0,0
+2020,"Trinidad and Tobago",Cameroon,TTO,CMR,0,9,0,0,0,0,0
+2020,"Trinidad and Tobago",Colombia,TTO,COL,12,60,0,0,0,0,0
+2020,"Trinidad and Tobago",Cuba,TTO,CUB,171,2348,0,0,0,0,0
+2020,"Trinidad and Tobago","Dominican Rep.",TTO,DOM,0,136,0,0,0,0,0
+2020,"Trinidad and Tobago",Ghana,TTO,GHA,0,45,0,0,0,0,0
+2020,"Trinidad and Tobago",Grenada,TTO,GRD,0,5,0,0,0,0,0
+2020,"Trinidad and Tobago",Guyana,TTO,GUY,19,56,0,0,0,0,0
+2020,"Trinidad and Tobago",Haiti,TTO,HTI,0,15,0,0,0,0,0
+2020,"Trinidad and Tobago",India,TTO,IND,0,5,0,0,0,0,0
+2020,"Trinidad and Tobago",Jamaica,TTO,JAM,37,124,0,0,0,0,0
+2020,"Trinidad and Tobago",Mexico,TTO,MEX,6,0,0,0,0,0,0
+2020,"Trinidad and Tobago",Nicaragua,TTO,NIC,0,5,0,0,0,0,0
+2020,"Trinidad and Tobago",Nigeria,TTO,NGA,5,158,0,0,0,0,0
+2020,"Trinidad and Tobago",Pakistan,TTO,PAK,9,19,0,0,0,0,0
+2020,"Trinidad and Tobago",Peru,TTO,PER,0,5,0,0,0,0,0
+2020,"Trinidad and Tobago",Philippines,TTO,PHL,0,5,0,0,0,0,0
+2020,"Trinidad and Tobago","Viet Nam",TTO,VNM,0,7,0,0,0,0,0
+2020,"Trinidad and Tobago","Syrian Arab Rep.",TTO,SYR,66,38,0,0,0,0,0
+2020,"Trinidad and Tobago",Tajikistan,TTO,TJK,0,5,0,0,0,0,0
+2020,"Trinidad and Tobago","Trinidad and Tobago",TTO,TTO,0,0,0,0,0,0,393
+2020,"Trinidad and Tobago","Saint Vincent and the Grenadines",TTO,VCT,5,0,0,0,0,0,0
+2020,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,2841,16664,0,4663,0,0,0
+2021,"Trinidad and Tobago",Bangladesh,TTO,BGD,8,91,0,0,0,0,0
+2021,"Trinidad and Tobago",China,TTO,CHN,0,127,0,0,0,0,0
+2021,"Trinidad and Tobago",Cameroon,TTO,CMR,0,9,0,0,0,0,0
+2021,"Trinidad and Tobago",Colombia,TTO,COL,11,64,0,0,0,0,0
+2021,"Trinidad and Tobago",Cuba,TTO,CUB,174,2339,0,0,0,0,0
+2021,"Trinidad and Tobago","Dominican Rep.",TTO,DOM,0,139,0,0,0,0,0
+2021,"Trinidad and Tobago",Ghana,TTO,GHA,0,46,0,0,0,0,0
+2021,"Trinidad and Tobago",Grenada,TTO,GRD,0,5,0,0,0,0,0
+2021,"Trinidad and Tobago",Guyana,TTO,GUY,21,64,0,0,0,0,0
+2021,"Trinidad and Tobago",Haiti,TTO,HTI,0,15,0,0,0,0,0
+2021,"Trinidad and Tobago",India,TTO,IND,0,5,0,0,0,0,0
+2021,"Trinidad and Tobago",Jamaica,TTO,JAM,42,160,0,0,0,0,0
+2021,"Trinidad and Tobago","Sri Lanka",TTO,LKA,5,0,0,0,0,0,0
+2021,"Trinidad and Tobago",Mexico,TTO,MEX,6,0,0,0,0,0,0
+2021,"Trinidad and Tobago",Nicaragua,TTO,NIC,0,5,0,0,0,0,0
+2021,"Trinidad and Tobago",Nigeria,TTO,NGA,5,154,0,0,0,0,0
+2021,"Trinidad and Tobago",Pakistan,TTO,PAK,9,17,0,0,0,0,0
+2021,"Trinidad and Tobago",Peru,TTO,PER,0,5,0,0,0,0,0
+2021,"Trinidad and Tobago",Philippines,TTO,PHL,0,5,0,0,0,0,0
+2021,"Trinidad and Tobago","Viet Nam",TTO,VNM,0,7,0,0,0,0,0
+2021,"Trinidad and Tobago","Syrian Arab Rep.",TTO,SYR,64,38,0,0,0,0,0
+2021,"Trinidad and Tobago",Tajikistan,TTO,TJK,0,5,0,0,0,0,0
+2021,"Trinidad and Tobago","Trinidad and Tobago",TTO,TTO,0,0,0,0,0,4605,590
+2021,"Trinidad and Tobago","Saint Vincent and the Grenadines",TTO,VCT,5,0,0,0,0,0,0
+2021,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,3221,18322,0,8403,0,0,0
+2024,"Trinidad and Tobago",Bangladesh,TTO,BGD,7,44,0,0,0,0,0
+2024,"Trinidad and Tobago",Brazil,TTO,BRA,0,5,0,0,0,0,0
+2024,"Trinidad and Tobago",China,TTO,CHN,0,32,0,0,0,0,0
+2024,"Trinidad and Tobago",Colombia,TTO,COL,8,62,0,0,0,0,0
+2024,"Trinidad and Tobago",Cuba,TTO,CUB,157,1216,0,0,0,0,0
+2024,"Trinidad and Tobago","Dominican Rep.",TTO,DOM,0,65,0,0,0,0,0
+2024,"Trinidad and Tobago",Ecuador,TTO,ECU,0,5,0,0,0,0,0
+2024,"Trinidad and Tobago",Ghana,TTO,GHA,0,15,0,0,0,0,0
+2024,"Trinidad and Tobago",Grenada,TTO,GRD,0,7,0,0,0,0,0
+2024,"Trinidad and Tobago",Guyana,TTO,GUY,7,80,0,0,0,0,0
+2024,"Trinidad and Tobago",Haiti,TTO,HTI,0,19,0,0,0,0,0
+2024,"Trinidad and Tobago",India,TTO,IND,0,31,0,0,0,0,0
+2024,"Trinidad and Tobago",Jamaica,TTO,JAM,61,516,0,0,0,0,0
+2024,"Trinidad and Tobago",Lebanon,TTO,LBN,0,7,0,0,0,0,0
+2024,"Trinidad and Tobago",Nigeria,TTO,NGA,6,69,0,0,0,0,0
+2024,"Trinidad and Tobago",Pakistan,TTO,PAK,5,33,0,0,0,0,0
+2024,"Trinidad and Tobago",Peru,TTO,PER,0,6,0,0,0,0,0
+2024,"Trinidad and Tobago","Syrian Arab Rep.",TTO,SYR,42,39,0,0,0,0,0
+2024,"Trinidad and Tobago","Trinidad and Tobago",TTO,TTO,0,0,0,0,0,711,1333
+2024,"Trinidad and Tobago","Saint Vincent and the Grenadines",TTO,VCT,0,17,0,0,0,0,0
+2024,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,3035,18538,0,7922,0,0,0
+2023,"Trinidad and Tobago",Bangladesh,TTO,BGD,8,82,0,0,0,0,0
+2023,"Trinidad and Tobago",Brazil,TTO,BRA,0,5,0,0,0,0,0
+2023,"Trinidad and Tobago",China,TTO,CHN,0,133,0,0,0,0,0
+2023,"Trinidad and Tobago",Cameroon,TTO,CMR,5,5,0,0,0,0,0
+2023,"Trinidad and Tobago",Colombia,TTO,COL,7,73,0,0,0,0,0
+2023,"Trinidad and Tobago",Cuba,TTO,CUB,122,1840,0,0,0,0,0
+2023,"Trinidad and Tobago","Dominican Rep.",TTO,DOM,0,129,0,0,0,0,0
+2023,"Trinidad and Tobago",Ghana,TTO,GHA,0,48,0,0,0,0,0
+2023,"Trinidad and Tobago",Grenada,TTO,GRD,0,5,0,0,0,0,0
+2023,"Trinidad and Tobago",Guyana,TTO,GUY,7,109,0,0,0,0,0
+2023,"Trinidad and Tobago",Haiti,TTO,HTI,0,25,0,0,0,0,0
+2023,"Trinidad and Tobago",India,TTO,IND,0,34,0,0,0,0,0
+2023,"Trinidad and Tobago",Jamaica,TTO,JAM,57,481,0,0,0,0,0
+2023,"Trinidad and Tobago",Lebanon,TTO,LBN,0,6,0,0,0,0,0
+2023,"Trinidad and Tobago",Nigeria,TTO,NGA,5,149,0,0,0,0,0
+2023,"Trinidad and Tobago",Pakistan,TTO,PAK,7,47,0,0,0,0,0
+2023,"Trinidad and Tobago",Peru,TTO,PER,0,7,0,0,0,0,0
+2023,"Trinidad and Tobago",Philippines,TTO,PHL,0,5,0,0,0,0,0
+2023,"Trinidad and Tobago","Viet Nam",TTO,VNM,0,7,0,0,0,0,0
+2023,"Trinidad and Tobago","Syrian Arab Rep.",TTO,SYR,42,45,0,0,0,0,0
+2023,"Trinidad and Tobago",Tajikistan,TTO,TJK,0,5,0,0,0,0,0
+2023,"Trinidad and Tobago","Trinidad and Tobago",TTO,TTO,0,0,0,0,0,5433,1040
+2023,"Trinidad and Tobago","Saint Vincent and the Grenadines",TTO,VCT,0,10,0,0,0,0,0
+2023,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,2945,25367,0,7906,0,0,0
+2022,"Trinidad and Tobago","Antigua and Barbuda",TTO,ATG,5,0,0,0,0,0,0
+2022,"Trinidad and Tobago",Bangladesh,TTO,BGD,8,83,0,0,0,0,0
+2022,"Trinidad and Tobago",China,TTO,CHN,0,42,0,0,0,0,0
+2022,"Trinidad and Tobago",Cameroon,TTO,CMR,6,6,0,0,0,0,0
+2022,"Trinidad and Tobago",Colombia,TTO,COL,8,57,0,0,0,0,0
+2022,"Trinidad and Tobago",Cuba,TTO,CUB,163,1330,0,0,0,0,0
+2022,"Trinidad and Tobago","Dominican Rep.",TTO,DOM,0,108,0,0,0,0,0
+2022,"Trinidad and Tobago",Ghana,TTO,GHA,0,49,0,0,0,0,0
+2022,"Trinidad and Tobago",Grenada,TTO,GRD,0,5,0,0,0,0,0
+2022,"Trinidad and Tobago",Guyana,TTO,GUY,15,89,0,0,0,0,0
+2022,"Trinidad and Tobago",Haiti,TTO,HTI,5,16,0,0,0,0,0
+2022,"Trinidad and Tobago",India,TTO,IND,0,5,0,0,0,0,0
+2022,"Trinidad and Tobago",Jamaica,TTO,JAM,36,282,0,0,0,0,0
+2022,"Trinidad and Tobago","Sri Lanka",TTO,LKA,5,0,0,0,0,0,0
+2022,"Trinidad and Tobago",Mexico,TTO,MEX,6,0,0,0,0,0,0
+2022,"Trinidad and Tobago",Nigeria,TTO,NGA,5,161,0,0,0,0,0
+2022,"Trinidad and Tobago",Pakistan,TTO,PAK,9,20,0,0,0,0,0
+2022,"Trinidad and Tobago",Peru,TTO,PER,0,7,0,0,0,0,0
+2022,"Trinidad and Tobago",Philippines,TTO,PHL,0,5,0,0,0,0,0
+2022,"Trinidad and Tobago","Viet Nam",TTO,VNM,0,7,0,0,0,0,0
+2022,"Trinidad and Tobago","Syrian Arab Rep.",TTO,SYR,50,43,0,0,0,0,0
+2022,"Trinidad and Tobago",Tajikistan,TTO,TJK,0,11,0,0,0,0,0
+2022,"Trinidad and Tobago","Trinidad and Tobago",TTO,TTO,0,0,0,0,0,5433,789
+2022,"Trinidad and Tobago","Saint Vincent and the Grenadines",TTO,VCT,5,5,0,0,0,0,0
+2022,"Trinidad and Tobago","Venezuela (Bolivarian Republic of)",TTO,VEN,3098,18038,0,14178,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Afghanistan,VEN,AFG,10,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Chile,VEN,CHL,10,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Congo,VEN,COG,5,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Colombia,VEN,COL,67622,49,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)","State of Palestine",VEN,PSE,7,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Haiti,VEN,HTI,7,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Iraq,VEN,IRQ,18,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Liberia,VEN,LBR,9,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Libya,VEN,LBY,5,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Lebanon,VEN,LBN,12,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Nigeria,VEN,NGA,7,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Peru,VEN,PER,5,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Rwanda,VEN,RWA,5,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)","Sierra Leone",VEN,SLE,5,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)","Syrian Arab Rep.",VEN,SYR,5,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)",Türkiye,VEN,TUR,6,0,0,0,0,0,0
+2019,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,0,0,0,0,0,0,494503
+2019,"Venezuela (Bolivarian Republic of)","Western Sahara",VEN,ESH,11,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Afghanistan,VEN,AFG,10,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Chile,VEN,CHL,10,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Congo,VEN,COG,5,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Colombia,VEN,COL,67935,284,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)","State of Palestine",VEN,PSE,7,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Haiti,VEN,HTI,7,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Iraq,VEN,IRQ,18,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Liberia,VEN,LBR,9,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Libya,VEN,LBY,5,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Lebanon,VEN,LBN,12,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Nigeria,VEN,NGA,7,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Peru,VEN,PER,5,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Rwanda,VEN,RWA,5,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)","Sierra Leone",VEN,SLE,5,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)","Syrian Arab Rep.",VEN,SYR,32,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)",Türkiye,VEN,TUR,6,0,0,0,0,0,0
+2020,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,0,0,0,0,0,0,1112517
+2020,"Venezuela (Bolivarian Republic of)","Western Sahara",VEN,ESH,11,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Afghanistan,VEN,AFG,10,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Chile,VEN,CHL,10,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Congo,VEN,COG,5,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Colombia,VEN,COL,39168,516,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)","State of Palestine",VEN,PSE,7,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Haiti,VEN,HTI,12,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Iraq,VEN,IRQ,18,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Liberia,VEN,LBR,9,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Libya,VEN,LBY,5,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Lebanon,VEN,LBN,12,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Nigeria,VEN,NGA,7,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Peru,VEN,PER,5,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Rwanda,VEN,RWA,5,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)","Sierra Leone",VEN,SLE,5,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)","Syrian Arab Rep.",VEN,SYR,33,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)",Türkiye,VEN,TUR,6,0,0,0,0,0,0
+2021,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,0,0,0,0,0,0,1389980
+2021,"Venezuela (Bolivarian Republic of)","Western Sahara",VEN,ESH,11,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Afghanistan,VEN,AFG,10,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Chile,VEN,CHL,10,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Congo,VEN,COG,5,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Colombia,VEN,COL,19173,1572,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)","State of Palestine",VEN,PSE,7,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Haiti,VEN,HTI,12,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Iraq,VEN,IRQ,18,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Liberia,VEN,LBR,9,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Libya,VEN,LBY,5,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Lebanon,VEN,LBN,12,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Nigeria,VEN,NGA,7,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Peru,VEN,PER,5,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Rwanda,VEN,RWA,5,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)","Sierra Leone",VEN,SLE,5,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)","Syrian Arab Rep.",VEN,SYR,33,6,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)",Türkiye,VEN,TUR,6,0,0,0,0,0,0
+2024,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,0,0,0,0,0,0,590346
+2024,"Venezuela (Bolivarian Republic of)","Western Sahara",VEN,ESH,11,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Afghanistan,VEN,AFG,10,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Chile,VEN,CHL,10,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Congo,VEN,COG,5,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Colombia,VEN,COL,29176,1572,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)","State of Palestine",VEN,PSE,7,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Haiti,VEN,HTI,12,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Iraq,VEN,IRQ,18,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Liberia,VEN,LBR,9,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Libya,VEN,LBY,5,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Lebanon,VEN,LBN,12,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Nigeria,VEN,NGA,7,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Peru,VEN,PER,5,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Rwanda,VEN,RWA,5,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)","Sierra Leone",VEN,SLE,5,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)","Syrian Arab Rep.",VEN,SYR,33,6,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)",Türkiye,VEN,TUR,6,0,0,0,0,0,0
+2023,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,0,0,0,0,0,0,3206577
+2023,"Venezuela (Bolivarian Republic of)","Western Sahara",VEN,ESH,11,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Afghanistan,VEN,AFG,10,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Chile,VEN,CHL,10,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Congo,VEN,COG,5,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Colombia,VEN,COL,29181,1045,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)","State of Palestine",VEN,PSE,7,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Haiti,VEN,HTI,12,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Iraq,VEN,IRQ,18,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Liberia,VEN,LBR,9,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Libya,VEN,LBY,5,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Lebanon,VEN,LBN,12,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Nigeria,VEN,NGA,7,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Peru,VEN,PER,5,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Rwanda,VEN,RWA,5,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)","Sierra Leone",VEN,SLE,5,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)","Syrian Arab Rep.",VEN,SYR,33,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)",Türkiye,VEN,TUR,6,0,0,0,0,0,0
+2022,"Venezuela (Bolivarian Republic of)","Venezuela (Bolivarian Republic of)",VEN,VEN,0,0,0,0,0,0,3206577
+2022,"Venezuela (Bolivarian Republic of)","Western Sahara",VEN,ESH,11,0,0,0,0,0,0

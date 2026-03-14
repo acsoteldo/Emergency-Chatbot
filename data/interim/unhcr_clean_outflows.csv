@@ -1,0 +1,2581 @@
+year,origin_iso3,asylum_iso3,country_origin,country_asylum,refugees_out,asylum_seekers_out,total_displaced_out
+2019,BRB,CAN,Barbados,Canada,230,106,336
+2019,BRB,GBR,Barbados,United Kingdom of Great Britain and Northern Ireland,13,5,18
+2019,BRB,USA,Barbados,United States of America,0,5,5
+2020,BRB,CAN,Barbados,Canada,216,106,322
+2020,BRB,GBR,Barbados,United Kingdom of Great Britain and Northern Ireland,14,9,23
+2020,BRB,USA,Barbados,United States of America,0,5,5
+2021,BRB,CAN,Barbados,Canada,250,74,324
+2021,BRB,GBR,Barbados,United Kingdom of Great Britain and Northern Ireland,15,17,32
+2024,BRB,CAN,Barbados,Canada,397,604,1001
+2024,BRB,GBR,Barbados,United Kingdom of Great Britain and Northern Ireland,18,11,29
+2024,BRB,USA,Barbados,United States of America,0,5,5
+2023,BRB,CAN,Barbados,Canada,281,234,515
+2023,BRB,GBR,Barbados,United Kingdom of Great Britain and Northern Ireland,17,16,33
+2023,BRB,USA,Barbados,United States of America,0,5,5
+2022,BRB,CAN,Barbados,Canada,216,202,418
+2022,BRB,GBR,Barbados,United Kingdom of Great Britain and Northern Ireland,15,19,34
+2022,BRB,USA,Barbados,United States of America,0,5,5
+2019,BHS,CAN,Bahamas,Canada,310,418,728
+2019,BHS,GBR,Bahamas,United Kingdom of Great Britain and Northern Ireland,5,0,5
+2019,BHS,ITA,Bahamas,Italy,5,0,5
+2019,BHS,ZAF,Bahamas,South Africa,0,14,14
+2019,BHS,USA,Bahamas,United States of America,181,96,277
+2020,BHS,CAN,Bahamas,Canada,353,554,907
+2020,BHS,ZAF,Bahamas,South Africa,0,14,14
+2020,BHS,USA,Bahamas,United States of America,181,127,308
+2021,BHS,CAN,Bahamas,Canada,555,404,959
+2021,BHS,ZAF,Bahamas,South Africa,0,14,14
+2021,BHS,USA,Bahamas,United States of America,181,240,421
+2024,BHS,CAN,Bahamas,Canada,1274,839,2113
+2024,BHS,GBR,Bahamas,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2024,BHS,ZAF,Bahamas,South Africa,0,5,5
+2024,BHS,USA,Bahamas,United States of America,175,1758,1933
+2023,BHS,CAN,Bahamas,Canada,892,723,1615
+2023,BHS,GBR,Bahamas,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2023,BHS,USA,Bahamas,United States of America,175,1097,1272
+2022,BHS,CAN,Bahamas,Canada,603,788,1391
+2022,BHS,ZAF,Bahamas,South Africa,0,7,7
+2022,BHS,USA,Bahamas,United States of America,178,415,593
+2019,BLZ,CAN,Belize,Canada,19,10,29
+2019,BLZ,GBR,Belize,United Kingdom of Great Britain and Northern Ireland,5,0,5
+2019,BLZ,IRL,Belize,Ireland,0,5,5
+2019,BLZ,MEX,Belize,Mexico,6,24,30
+2019,BLZ,USA,Belize,United States of America,43,239,282
+2020,BLZ,CAN,Belize,Canada,19,0,19
+2020,BLZ,GBR,Belize,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2020,BLZ,MEX,Belize,Mexico,10,30,40
+2020,BLZ,USA,Belize,United States of America,39,279,318
+2021,BLZ,CAN,Belize,Canada,19,6,25
+2021,BLZ,GBR,Belize,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2021,BLZ,GTM,Belize,Guatemala,0,5,5
+2021,BLZ,MEX,Belize,Mexico,24,57,81
+2021,BLZ,USA,Belize,United States of America,38,296,334
+2024,BLZ,CAN,Belize,Canada,8,7,15
+2024,BLZ,CRI,Belize,Costa Rica,0,5,5
+2024,BLZ,GBR,Belize,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2024,BLZ,GTM,Belize,Guatemala,0,5,5
+2024,BLZ,IRL,Belize,Ireland,0,5,5
+2024,BLZ,MEX,Belize,Mexico,47,82,129
+2024,BLZ,USA,Belize,United States of America,49,1291,1340
+2023,BLZ,CAN,Belize,Canada,0,5,5
+2023,BLZ,CRI,Belize,Costa Rica,0,5,5
+2023,BLZ,MEX,Belize,Mexico,34,86,120
+2023,BLZ,USA,Belize,United States of America,38,880,918
+2022,BLZ,CAN,Belize,Canada,0,5,5
+2022,BLZ,CRI,Belize,Costa Rica,0,5,5
+2022,BLZ,GBR,Belize,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2022,BLZ,MEX,Belize,Mexico,31,62,93
+2022,BLZ,USA,Belize,United States of America,34,404,438
+2019,COL,ABW,Colombia,Aruba,0,8,8
+2019,COL,ARG,Colombia,Argentina,558,191,749
+2019,COL,AUS,Colombia,Australia,102,243,345
+2019,COL,AUT,Colombia,Austria,0,11,11
+2019,COL,BEL,Colombia,Belgium,73,124,197
+2019,COL,BHS,Colombia,Bahamas,5,0,5
+2019,COL,BOL,Colombia,Bolivia (Plurinational State of),201,7,208
+2019,COL,BRA,Colombia,Brazil,1295,1835,3130
+2019,COL,CAN,Colombia,Canada,4982,4801,9783
+2019,COL,CHL,Colombia,Chile,1227,3864,5091
+2019,COL,COL,Colombia,Colombia,0,0,0
+2019,COL,CRI,Colombia,Costa Rica,2325,1338,3663
+2019,COL,CUW,Colombia,Curacao ,28,49,77
+2019,COL,DNK,Colombia,Denmark,5,30,35
+2019,COL,DOM,Colombia,Dominican Republic,0,10,10
+2019,COL,ECU,Colombia,Ecuador,102928,9918,112846
+2019,COL,FIN,Colombia,Finland,0,19,19
+2019,COL,FRA,Colombia,France,587,454,1041
+2019,COL,GBR,Colombia,United Kingdom of Great Britain and Northern Ireland,24,61,85
+2019,COL,DEU,Colombia,Germany,69,579,648
+2019,COL,GRC,Colombia,Greece,0,5,5
+2019,COL,GTM,Colombia,Guatemala,8,8,16
+2019,COL,ISL,Colombia,Iceland,0,5,5
+2019,COL,ISR,Colombia,Israel,0,284,284
+2019,COL,ITA,Colombia,Italy,690,466,1156
+2019,COL,KOR,Colombia,Rep. of Korea,0,10,10
+2019,COL,LUX,Colombia,Luxembourg,0,10,10
+2019,COL,MEX,Colombia,Mexico,351,628,979
+2019,COL,MLT,Colombia,Malta,0,12,12
+2019,COL,NLD,Colombia,Netherlands (Kingdom of the),19,146,165
+2019,COL,NIC,Colombia,Nicaragua,6,0,6
+2019,COL,NOR,Colombia,Norway,12,26,38
+2019,COL,NZL,Colombia,New Zealand,30,10,40
+2019,COL,PAN,Colombia,Panama,1702,1897,3599
+2019,COL,PRY,Colombia,Paraguay,17,18,35
+2019,COL,PER,Colombia,Peru,705,1230,1935
+2019,COL,PRT,Colombia,Portugal,45,17,62
+2019,COL,SLV,Colombia,El Salvador,5,6,11
+2019,COL,ESP,Colombia,Spain,242,34110,34352
+2019,COL,SUR,Colombia,Suriname,0,5,5
+2019,COL,SWE,Colombia,Sweden,39,322,361
+2019,COL,CHE,Colombia,Switzerland,246,90,336
+2019,COL,TTO,Colombia,Trinidad and Tobago,12,53,65
+2019,COL,URY,Colombia,Uruguay,158,29,187
+2019,COL,USA,Colombia,United States of America,2936,12570,15506
+2019,COL,VEN,Colombia,Venezuela,67622,49,67671
+2020,COL,ABW,Colombia,Aruba,0,0,0
+2020,COL,ARG,Colombia,Argentina,560,226,786
+2020,COL,AUS,Colombia,Australia,103,317,420
+2020,COL,AUT,Colombia,Austria,0,19,19
+2020,COL,BEL,Colombia,Belgium,105,410,515
+2020,COL,BHS,Colombia,Bahamas,5,0,5
+2020,COL,BOL,Colombia,Bolivia (Plurinational State of),202,0,202
+2020,COL,BRA,Colombia,Brazil,1297,1986,3283
+2020,COL,CAN,Colombia,Canada,4577,4501,9078
+2020,COL,CHL,Colombia,Chile,1231,3332,4563
+2020,COL,COL,Colombia,Colombia,0,0,0
+2020,COL,CRI,Colombia,Costa Rica,2322,1042,3364
+2020,COL,CUW,Colombia,Curacao ,44,33,77
+2020,COL,DNK,Colombia,Denmark,5,17,22
+2020,COL,DOM,Colombia,Dominican Republic,0,5,5
+2020,COL,ECU,Colombia,Ecuador,102931,11401,114332
+2020,COL,FIN,Colombia,Finland,0,26,26
+2020,COL,FRA,Colombia,France,644,690,1334
+2020,COL,GBR,Colombia,United Kingdom of Great Britain and Northern Ireland,23,52,75
+2020,COL,DEU,Colombia,Germany,69,845,914
+2020,COL,GRC,Colombia,Greece,0,5,5
+2020,COL,GTM,Colombia,Guatemala,10,5,15
+2020,COL,HND,Colombia,Honduras,0,5,5
+2020,COL,ISR,Colombia,Israel,0,295,295
+2020,COL,ITA,Colombia,Italy,664,573,1237
+2020,COL,KOR,Colombia,Rep. of Korea,0,14,14
+2020,COL,LUX,Colombia,Luxembourg,0,10,10
+2020,COL,MEX,Colombia,Mexico,448,899,1347
+2020,COL,MLT,Colombia,Malta,0,26,26
+2020,COL,NLD,Colombia,Netherlands (Kingdom of the),43,160,203
+2020,COL,NIC,Colombia,Nicaragua,6,0,6
+2020,COL,NOR,Colombia,Norway,12,13,25
+2020,COL,NZL,Colombia,New Zealand,29,16,45
+2020,COL,PAN,Colombia,Panama,1698,1114,2812
+2020,COL,PRY,Colombia,Paraguay,17,40,57
+2020,COL,PER,Colombia,Peru,706,1646,2352
+2020,COL,PRT,Colombia,Portugal,33,14,47
+2020,COL,SLV,Colombia,El Salvador,5,7,12
+2020,COL,ESP,Colombia,Spain,985,23735,24720
+2020,COL,SUR,Colombia,Suriname,0,5,5
+2020,COL,SWE,Colombia,Sweden,40,101,141
+2020,COL,CHE,Colombia,Switzerland,275,69,344
+2020,COL,TTO,Colombia,Trinidad and Tobago,12,60,72
+2020,COL,URY,Colombia,Uruguay,162,51,213
+2020,COL,USA,Colombia,United States of America,2668,16868,19536
+2020,COL,VEN,Colombia,Venezuela,67935,284,68219
+2021,COL,ARG,Colombia,Argentina,561,258,819
+2021,COL,AUS,Colombia,Australia,87,312,399
+2021,COL,AUT,Colombia,Austria,5,13,18
+2021,COL,BEL,Colombia,Belgium,135,240,375
+2021,COL,BOL,Colombia,Bolivia (Plurinational State of),200,21,221
+2021,COL,BRA,Colombia,Brazil,1300,2027,3327
+2021,COL,CAN,Colombia,Canada,5835,3706,9541
+2021,COL,CHL,Colombia,Chile,1234,3289,4523
+2021,COL,COL,Colombia,Colombia,0,0,0
+2021,COL,CRI,Colombia,Costa Rica,2317,1535,3852
+2021,COL,CZE,Colombia,Czechia,0,5,5
+2021,COL,DNK,Colombia,Denmark,5,12,17
+2021,COL,DOM,Colombia,Dominican Republic,0,5,5
+2021,COL,ECU,Colombia,Ecuador,54491,2719,57210
+2021,COL,FIN,Colombia,Finland,0,11,11
+2021,COL,FRA,Colombia,France,1036,634,1670
+2021,COL,GBR,Colombia,United Kingdom of Great Britain and Northern Ireland,15,58,73
+2021,COL,DEU,Colombia,Germany,79,880,959
+2021,COL,GRC,Colombia,Greece,0,5,5
+2021,COL,GTM,Colombia,Guatemala,10,16,26
+2021,COL,ISL,Colombia,Iceland,0,11,11
+2021,COL,IRL,Colombia,Ireland,0,5,5
+2021,COL,ISR,Colombia,Israel,0,189,189
+2021,COL,ITA,Colombia,Italy,950,374,1324
+2021,COL,KOR,Colombia,Rep. of Korea,0,5,5
+2021,COL,LUX,Colombia,Luxembourg,0,20,20
+2021,COL,MEX,Colombia,Mexico,530,1765,2295
+2021,COL,MLT,Colombia,Malta,0,26,26
+2021,COL,NLD,Colombia,Netherlands (Kingdom of the),118,162,280
+2021,COL,NIC,Colombia,Nicaragua,6,0,6
+2021,COL,NOR,Colombia,Norway,8,40,48
+2021,COL,NZL,Colombia,New Zealand,32,9,41
+2021,COL,PAN,Colombia,Panama,1683,1062,2745
+2021,COL,PRY,Colombia,Paraguay,17,214,231
+2021,COL,PER,Colombia,Peru,712,1666,2378
+2021,COL,PRT,Colombia,Portugal,24,21,45
+2021,COL,SLV,Colombia,El Salvador,18,7,25
+2021,COL,ESP,Colombia,Spain,2158,20320,22478
+2021,COL,SUR,Colombia,Suriname,0,6,6
+2021,COL,SWE,Colombia,Sweden,40,126,166
+2021,COL,CHE,Colombia,Switzerland,288,98,386
+2021,COL,TTO,Colombia,Trinidad and Tobago,11,64,75
+2021,COL,URY,Colombia,Uruguay,162,85,247
+2021,COL,USA,Colombia,United States of America,2557,38168,40725
+2021,COL,VEN,Colombia,Venezuela,39168,516,39684
+2024,COL,ABW,Colombia,Aruba,0,0,0
+2024,COL,ARG,Colombia,Argentina,568,130,698
+2024,COL,AUS,Colombia,Australia,43,1115,1158
+2024,COL,AUT,Colombia,Austria,9,46,55
+2024,COL,BEL,Colombia,Belgium,229,1008,1237
+2024,COL,BOL,Colombia,Bolivia (Plurinational State of),200,0,200
+2024,COL,BRA,Colombia,Brazil,391,1297,1688
+2024,COL,CAN,Colombia,Canada,11249,10598,21847
+2024,COL,CHL,Colombia,Chile,1235,3224,4459
+2024,COL,COL,Colombia,Colombia,0,0,0
+2024,COL,CRI,Colombia,Costa Rica,7190,4490,11680
+2024,COL,CUW,Colombia,Curacao ,0,0,0
+2024,COL,CYP,Colombia,Cyprus,0,5,5
+2024,COL,CZE,Colombia,Czechia,5,5,10
+2024,COL,DNK,Colombia,Denmark,221,43,264
+2024,COL,DOM,Colombia,Dominican Republic,0,20,20
+2024,COL,ECU,Colombia,Ecuador,19710,3626,23336
+2024,COL,FIN,Colombia,Finland,23,32,55
+2024,COL,FRA,Colombia,France,2218,693,2911
+2024,COL,GBR,Colombia,United Kingdom of Great Britain and Northern Ireland,117,2006,2123
+2024,COL,DEU,Colombia,Germany,198,6237,6435
+2024,COL,GRC,Colombia,Greece,0,8,8
+2024,COL,GTM,Colombia,Guatemala,13,164,177
+2024,COL,HND,Colombia,Honduras,5,17,22
+2024,COL,HRV,Colombia,Croatia,0,7,7
+2024,COL,ISL,Colombia,Iceland,20,40,60
+2024,COL,IRL,Colombia,Ireland,8,11,19
+2024,COL,ISR,Colombia,Israel,0,282,282
+2024,COL,ITA,Colombia,Italy,1516,4725,6241
+2024,COL,LUX,Colombia,Luxembourg,0,190,190
+2024,COL,MEX,Colombia,Mexico,710,5131,5841
+2024,COL,MLT,Colombia,Malta,0,60,60
+2024,COL,NLD,Colombia,Netherlands (Kingdom of the),378,1055,1433
+2024,COL,NOR,Colombia,Norway,165,278,443
+2024,COL,NZL,Colombia,New Zealand,37,41,78
+2024,COL,PAN,Colombia,Panama,1622,780,2402
+2024,COL,PRY,Colombia,Paraguay,22,137,159
+2024,COL,PER,Colombia,Peru,739,4894,5633
+2024,COL,POL,Colombia,Poland,7,24,31
+2024,COL,PRT,Colombia,Portugal,13,335,348
+2024,COL,ROU,Colombia,Romania,0,5,5
+2024,COL,SLV,Colombia,El Salvador,16,14,30
+2024,COL,ESP,Colombia,Spain,4063,92460,96523
+2024,COL,SUR,Colombia,Suriname,0,5,5
+2024,COL,SVK,Colombia,Slovakia,0,5,5
+2024,COL,SVN,Colombia,Slovenia,0,5,5
+2024,COL,SWE,Colombia,Sweden,278,117,395
+2024,COL,CHE,Colombia,Switzerland,352,306,658
+2024,COL,SXM,Colombia,Sint Maarten (Dutch part),7,15,22
+2024,COL,TTO,Colombia,Trinidad and Tobago,8,62,70
+2024,COL,URY,Colombia,Uruguay,175,292,467
+2024,COL,USA,Colombia,United States of America,4842,250260,255102
+2024,COL,VEN,Colombia,Venezuela,19173,1572,20745
+2023,COL,ARG,Colombia,Argentina,564,188,752
+2023,COL,AUS,Colombia,Australia,39,423,462
+2023,COL,AUT,Colombia,Austria,8,21,29
+2023,COL,BEL,Colombia,Belgium,182,955,1137
+2023,COL,BOL,Colombia,Bolivia (Plurinational State of),200,36,236
+2023,COL,BRA,Colombia,Brazil,270,1871,2141
+2023,COL,CAN,Colombia,Canada,7002,10353,17355
+2023,COL,CHL,Colombia,Chile,1235,2902,4137
+2023,COL,COL,Colombia,Colombia,0,0,0
+2023,COL,CRI,Colombia,Costa Rica,2292,2998,5290
+2023,COL,CYP,Colombia,Cyprus,0,5,5
+2023,COL,CZE,Colombia,Czechia,5,0,5
+2023,COL,DNK,Colombia,Denmark,5,18,23
+2023,COL,DOM,Colombia,Dominican Republic,0,24,24
+2023,COL,ECU,Colombia,Ecuador,59358,3856,63214
+2023,COL,FIN,Colombia,Finland,8,85,93
+2023,COL,FRA,Colombia,France,1821,844,2665
+2023,COL,GBR,Colombia,United Kingdom of Great Britain and Northern Ireland,27,1375,1402
+2023,COL,DEU,Colombia,Germany,199,4322,4521
+2023,COL,GRC,Colombia,Greece,0,8,8
+2023,COL,GTM,Colombia,Guatemala,10,62,72
+2023,COL,HND,Colombia,Honduras,5,5,10
+2023,COL,HRV,Colombia,Croatia,0,5,5
+2023,COL,ISL,Colombia,Iceland,7,35,42
+2023,COL,IRL,Colombia,Ireland,5,12,17
+2023,COL,ISR,Colombia,Israel,0,167,167
+2023,COL,ITA,Colombia,Italy,1218,2602,3820
+2023,COL,LUX,Colombia,Luxembourg,0,100,100
+2023,COL,MEX,Colombia,Mexico,556,4495,5051
+2023,COL,MLT,Colombia,Malta,0,26,26
+2023,COL,NLD,Colombia,Netherlands (Kingdom of the),370,787,1157
+2023,COL,NIC,Colombia,Nicaragua,6,0,6
+2023,COL,NOR,Colombia,Norway,105,246,351
+2023,COL,NZL,Colombia,New Zealand,36,27,63
+2023,COL,PAN,Colombia,Panama,1686,908,2594
+2023,COL,PRY,Colombia,Paraguay,21,292,313
+2023,COL,PER,Colombia,Peru,748,3857,4605
+2023,COL,POL,Colombia,Poland,5,10,15
+2023,COL,PRT,Colombia,Portugal,17,210,227
+2023,COL,SLV,Colombia,El Salvador,16,17,33
+2023,COL,ESP,Colombia,Spain,3475,76500,79975
+2023,COL,SUR,Colombia,Suriname,0,6,6
+2023,COL,SWE,Colombia,Sweden,43,237,280
+2023,COL,CHE,Colombia,Switzerland,335,294,629
+2023,COL,SXM,Colombia,Sint Maarten (Dutch part),5,13,18
+2023,COL,TTO,Colombia,Trinidad and Tobago,7,73,80
+2023,COL,URY,Colombia,Uruguay,174,232,406
+2023,COL,USA,Colombia,United States of America,4272,178750,183022
+2023,COL,VEN,Colombia,Venezuela,29176,1572,30748
+2022,COL,ARG,Colombia,Argentina,562,294,856
+2022,COL,AUS,Colombia,Australia,85,358,443
+2022,COL,AUT,Colombia,Austria,5,28,33
+2022,COL,BEL,Colombia,Belgium,160,570,730
+2022,COL,BOL,Colombia,Bolivia (Plurinational State of),200,47,247
+2022,COL,BRA,Colombia,Brazil,1318,2366,3684
+2022,COL,CAN,Colombia,Canada,4351,8946,13297
+2022,COL,CHL,Colombia,Chile,1235,2554,3789
+2022,COL,COL,Colombia,Colombia,0,0,0
+2022,COL,CRI,Colombia,Costa Rica,2304,2555,4859
+2022,COL,CYP,Colombia,Cyprus,0,5,5
+2022,COL,CZE,Colombia,Czechia,5,0,5
+2022,COL,DNK,Colombia,Denmark,5,29,34
+2022,COL,DOM,Colombia,Dominican Republic,0,12,12
+2022,COL,ECU,Colombia,Ecuador,57160,3964,61124
+2022,COL,FIN,Colombia,Finland,6,47,53
+2022,COL,FRA,Colombia,France,1427,863,2290
+2022,COL,GBR,Colombia,United Kingdom of Great Britain and Northern Ireland,15,144,159
+2022,COL,DEU,Colombia,Germany,132,1766,1898
+2022,COL,GTM,Colombia,Guatemala,10,27,37
+2022,COL,HND,Colombia,Honduras,5,0,5
+2022,COL,ISL,Colombia,Iceland,0,30,30
+2022,COL,ISR,Colombia,Israel,0,129,129
+2022,COL,ITA,Colombia,Italy,1094,1549,2643
+2022,COL,LUX,Colombia,Luxembourg,0,35,35
+2022,COL,MEX,Colombia,Mexico,616,3385,4001
+2022,COL,MLT,Colombia,Malta,0,15,15
+2022,COL,NLD,Colombia,Netherlands (Kingdom of the),290,469,759
+2022,COL,NIC,Colombia,Nicaragua,6,0,6
+2022,COL,NOR,Colombia,Norway,49,131,180
+2022,COL,NZL,Colombia,New Zealand,33,5,38
+2022,COL,PAN,Colombia,Panama,1654,832,2486
+2022,COL,PRY,Colombia,Paraguay,18,267,285
+2022,COL,PER,Colombia,Peru,734,1783,2517
+2022,COL,POL,Colombia,Poland,5,0,5
+2022,COL,PRT,Colombia,Portugal,21,69,90
+2022,COL,SLV,Colombia,El Salvador,16,8,24
+2022,COL,ESP,Colombia,Spain,2785,40345,43130
+2022,COL,SUR,Colombia,Suriname,0,6,6
+2022,COL,SWE,Colombia,Sweden,40,373,413
+2022,COL,CHE,Colombia,Switzerland,323,153,476
+2022,COL,TTO,Colombia,Trinidad and Tobago,8,57,65
+2022,COL,URY,Colombia,Uruguay,170,130,300
+2022,COL,USA,Colombia,United States of America,2984,68819,71803
+2022,COL,VEN,Colombia,Venezuela,29181,1045,30226
+2019,CRI,ARG,Costa Rica,Argentina,5,0,5
+2019,CRI,BRA,Costa Rica,Brazil,0,14,14
+2019,CRI,CAN,Costa Rica,Canada,13,46,59
+2019,CRI,CHL,Costa Rica,Chile,5,0,5
+2019,CRI,FRA,Costa Rica,France,5,0,5
+2019,CRI,GBR,Costa Rica,United Kingdom of Great Britain and Northern Ireland,0,6,6
+2019,CRI,ITA,Costa Rica,Italy,6,0,6
+2019,CRI,MDG,Costa Rica,Madagascar,0,5,5
+2019,CRI,MEX,Costa Rica,Mexico,0,43,43
+2019,CRI,PAN,Costa Rica,Panama,0,5,5
+2019,CRI,PER,Costa Rica,Peru,0,5,5
+2019,CRI,ESP,Costa Rica,Spain,0,65,65
+2019,CRI,USA,Costa Rica,United States of America,172,550,722
+2020,CRI,ARG,Costa Rica,Argentina,5,0,5
+2020,CRI,BEL,Costa Rica,Belgium,0,5,5
+2020,CRI,BRA,Costa Rica,Brazil,0,15,15
+2020,CRI,CAN,Costa Rica,Canada,12,32,44
+2020,CRI,CHL,Costa Rica,Chile,5,0,5
+2020,CRI,FRA,Costa Rica,France,5,0,5
+2020,CRI,GBR,Costa Rica,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2020,CRI,DEU,Costa Rica,Germany,0,5,5
+2020,CRI,MEX,Costa Rica,Mexico,5,62,67
+2020,CRI,PAN,Costa Rica,Panama,0,5,5
+2020,CRI,PER,Costa Rica,Peru,0,5,5
+2020,CRI,ESP,Costa Rica,Spain,5,65,70
+2020,CRI,USA,Costa Rica,United States of America,171,601,772
+2021,CRI,ARG,Costa Rica,Argentina,5,0,5
+2021,CRI,BRA,Costa Rica,Brazil,0,18,18
+2021,CRI,CAN,Costa Rica,Canada,13,52,65
+2021,CRI,CHL,Costa Rica,Chile,5,0,5
+2021,CRI,CRI,Costa Rica,Costa Rica,0,0,0
+2021,CRI,GBR,Costa Rica,United Kingdom of Great Britain and Northern Ireland,0,7,7
+2021,CRI,MEX,Costa Rica,Mexico,33,119,152
+2021,CRI,PER,Costa Rica,Peru,0,5,5
+2021,CRI,ESP,Costa Rica,Spain,5,70,75
+2021,CRI,USA,Costa Rica,United States of America,174,718,892
+2024,CRI,ARG,Costa Rica,Argentina,5,0,5
+2024,CRI,BRA,Costa Rica,Brazil,0,15,15
+2024,CRI,CAN,Costa Rica,Canada,94,111,205
+2024,CRI,CHL,Costa Rica,Chile,5,0,5
+2024,CRI,CRI,Costa Rica,Costa Rica,0,0,0
+2024,CRI,FIN,Costa Rica,Finland,0,5,5
+2024,CRI,GBR,Costa Rica,United Kingdom of Great Britain and Northern Ireland,6,8,14
+2024,CRI,GTM,Costa Rica,Guatemala,0,5,5
+2024,CRI,IRL,Costa Rica,Ireland,5,5,10
+2024,CRI,ITA,Costa Rica,Italy,6,23,29
+2024,CRI,MEX,Costa Rica,Mexico,70,163,233
+2024,CRI,PAN,Costa Rica,Panama,0,5,5
+2024,CRI,PER,Costa Rica,Peru,0,5,5
+2024,CRI,SLV,Costa Rica,El Salvador,0,8,8
+2024,CRI,ESP,Costa Rica,Spain,54,150,204
+2024,CRI,USA,Costa Rica,United States of America,71,1878,1949
+2023,CRI,ARG,Costa Rica,Argentina,5,0,5
+2023,CRI,BRA,Costa Rica,Brazil,0,6,6
+2023,CRI,CAN,Costa Rica,Canada,33,87,120
+2023,CRI,CHL,Costa Rica,Chile,5,0,5
+2023,CRI,CRI,Costa Rica,Costa Rica,0,0,0
+2023,CRI,GBR,Costa Rica,United Kingdom of Great Britain and Northern Ireland,5,12,17
+2023,CRI,DEU,Costa Rica,Germany,0,10,10
+2023,CRI,IRL,Costa Rica,Ireland,5,5,10
+2023,CRI,ITA,Costa Rica,Italy,6,6,12
+2023,CRI,MEX,Costa Rica,Mexico,54,153,207
+2023,CRI,PAN,Costa Rica,Panama,0,5,5
+2023,CRI,PER,Costa Rica,Peru,0,5,5
+2023,CRI,PRT,Costa Rica,Portugal,5,0,5
+2023,CRI,SLV,Costa Rica,El Salvador,0,5,5
+2023,CRI,ESP,Costa Rica,Spain,21,105,126
+2023,CRI,USA,Costa Rica,United States of America,68,1285,1353
+2022,CRI,ARG,Costa Rica,Argentina,5,0,5
+2022,CRI,BRA,Costa Rica,Brazil,5,14,19
+2022,CRI,CAN,Costa Rica,Canada,23,61,84
+2022,CRI,CHL,Costa Rica,Chile,5,0,5
+2022,CRI,CRI,Costa Rica,Costa Rica,0,0,0
+2022,CRI,GBR,Costa Rica,United Kingdom of Great Britain and Northern Ireland,0,13,13
+2022,CRI,DEU,Costa Rica,Germany,0,5,5
+2022,CRI,ITA,Costa Rica,Italy,0,19,19
+2022,CRI,MEX,Costa Rica,Mexico,44,177,221
+2022,CRI,PER,Costa Rica,Peru,0,5,5
+2022,CRI,POL,Costa Rica,Poland,5,0,5
+2022,CRI,ESP,Costa Rica,Spain,5,85,90
+2022,CRI,USA,Costa Rica,United States of America,183,900,1083
+2019,CUB,ARG,Cuba,Argentina,257,815,1072
+2019,CUB,ARM,Cuba,Armenia,0,23,23
+2019,CUB,AUT,Cuba,Austria,14,12,26
+2019,CUB,BEL,Cuba,Belgium,9,0,9
+2019,CUB,BHS,Cuba,Bahamas,5,5,10
+2019,CUB,BLR,Cuba,Belarus,0,5,5
+2019,CUB,BOL,Cuba,Bolivia (Plurinational State of),48,0,48
+2019,CUB,BRA,Cuba,Brazil,238,14560,14798
+2019,CUB,BLZ,Cuba,Belize,0,5,5
+2019,CUB,CAN,Cuba,Canada,598,246,844
+2019,CUB,CYM,Cuba,Cayman Islands,34,14,48
+2019,CUB,CHL,Cuba,Chile,19,1449,1468
+2019,CUB,COL,Cuba,Colombia,73,85,158
+2019,CUB,CRI,Cuba,Costa Rica,380,1933,2313
+2019,CUB,CYP,Cuba,Cyprus,0,5,5
+2019,CUB,CZE,Cuba,Czechia,46,25,71
+2019,CUB,DOM,Cuba,Dominican Republic,0,32,32
+2019,CUB,ECU,Cuba,Ecuador,214,177,391
+2019,CUB,ETH,Cuba,Ethiopia,5,0,5
+2019,CUB,FIN,Cuba,Finland,5,36,41
+2019,CUB,FRA,Cuba,France,196,23,219
+2019,CUB,GBR,Cuba,United Kingdom of Great Britain and Northern Ireland,10,11,21
+2019,CUB,DEU,Cuba,Germany,86,66,152
+2019,CUB,GRC,Cuba,Greece,0,24,24
+2019,CUB,GTM,Cuba,Guatemala,0,39,39
+2019,CUB,GUY,Cuba,Guyana,9,57,66
+2019,CUB,HND,Cuba,Honduras,0,5,5
+2019,CUB,HUN,Cuba,Hungary,79,0,79
+2019,CUB,IRL,Cuba,Ireland,5,0,5
+2019,CUB,ITA,Cuba,Italy,238,105,343
+2019,CUB,LTU,Cuba,Lithuania,5,0,5
+2019,CUB,MKD,Cuba,North Macedonia,0,5,5
+2019,CUB,MEX,Cuba,Mexico,325,6746,7071
+2019,CUB,MNE,Cuba,Montenegro,0,5,5
+2019,CUB,NLD,Cuba,Netherlands (Kingdom of the),28,28,56
+2019,CUB,NIC,Cuba,Nicaragua,15,0,15
+2019,CUB,PAN,Cuba,Panama,120,2662,2782
+2019,CUB,PRY,Cuba,Paraguay,109,617,726
+2019,CUB,PER,Cuba,Peru,477,2693,3170
+2019,CUB,POL,Cuba,Poland,17,11,28
+2019,CUB,PRT,Cuba,Portugal,5,12,17
+2019,CUB,ROU,Cuba,Romania,0,5,5
+2019,CUB,SLV,Cuba,El Salvador,0,5,5
+2019,CUB,ESP,Cuba,Spain,856,1645,2501
+2019,CUB,SRB,Cuba,Serbia and Kosovo: S/RES/1244 (1999),7,0,7
+2019,CUB,KNA,Cuba,Saint Kitts and Nevis,5,0,5
+2019,CUB,SUR,Cuba,Suriname,36,1187,1223
+2019,CUB,SVK,Cuba,Slovakia,32,0,32
+2019,CUB,SWE,Cuba,Sweden,36,26,62
+2019,CUB,CHE,Cuba,Switzerland,34,8,42
+2019,CUB,SXM,Cuba,Sint Maarten (Dutch part),0,5,5
+2019,CUB,TCA,Cuba,Turks and Caicos Islands,5,0,5
+2019,CUB,TTO,Cuba,Trinidad and Tobago,155,2257,2412
+2019,CUB,URY,Cuba,Uruguay,25,12371,12396
+2019,CUB,USA,Cuba,United States of America,1765,5899,7664
+2020,CUB,ARG,Cuba,Argentina,259,821,1080
+2020,CUB,ARM,Cuba,Armenia,0,26,26
+2020,CUB,AUT,Cuba,Austria,13,8,21
+2020,CUB,BEL,Cuba,Belgium,10,15,25
+2020,CUB,BHS,Cuba,Bahamas,5,0,5
+2020,CUB,BOL,Cuba,Bolivia (Plurinational State of),48,0,48
+2020,CUB,BRA,Cuba,Brazil,359,15392,15751
+2020,CUB,BLZ,Cuba,Belize,0,5,5
+2020,CUB,CAN,Cuba,Canada,504,292,796
+2020,CUB,CYM,Cuba,Cayman Islands,38,28,66
+2020,CUB,CHL,Cuba,Chile,19,1597,1616
+2020,CUB,COL,Cuba,Colombia,77,137,214
+2020,CUB,CRI,Cuba,Costa Rica,417,3206,3623
+2020,CUB,CZE,Cuba,Czechia,43,16,59
+2020,CUB,DOM,Cuba,Dominican Republic,0,49,49
+2020,CUB,ECU,Cuba,Ecuador,214,330,544
+2020,CUB,ETH,Cuba,Ethiopia,5,0,5
+2020,CUB,FIN,Cuba,Finland,5,22,27
+2020,CUB,FRA,Cuba,France,225,223,448
+2020,CUB,GBR,Cuba,United Kingdom of Great Britain and Northern Ireland,11,17,28
+2020,CUB,DEU,Cuba,Germany,78,49,127
+2020,CUB,GRC,Cuba,Greece,0,42,42
+2020,CUB,GTM,Cuba,Guatemala,7,50,57
+2020,CUB,GUY,Cuba,Guyana,18,67,85
+2020,CUB,HND,Cuba,Honduras,0,5,5
+2020,CUB,HUN,Cuba,Hungary,78,0,78
+2020,CUB,IRL,Cuba,Ireland,5,0,5
+2020,CUB,ITA,Cuba,Italy,0,118,118
+2020,CUB,LTU,Cuba,Lithuania,5,0,5
+2020,CUB,MEX,Cuba,Mexico,1955,8370,10325
+2020,CUB,MNE,Cuba,Montenegro,0,18,18
+2020,CUB,NLD,Cuba,Netherlands (Kingdom of the),29,29,58
+2020,CUB,NIC,Cuba,Nicaragua,14,0,14
+2020,CUB,PAN,Cuba,Panama,120,2162,2282
+2020,CUB,PRY,Cuba,Paraguay,280,559,839
+2020,CUB,PER,Cuba,Peru,494,2775,3269
+2020,CUB,POL,Cuba,Poland,7,5,12
+2020,CUB,PRT,Cuba,Portugal,5,7,12
+2020,CUB,ROU,Cuba,Romania,0,6,6
+2020,CUB,RUS,Cuba,Russian Federation,5,0,5
+2020,CUB,ESP,Cuba,Spain,660,2845,3505
+2020,CUB,SRB,Cuba,Serbia and Kosovo: S/RES/1244 (1999),7,0,7
+2020,CUB,SUR,Cuba,Suriname,7,1703,1710
+2020,CUB,SVK,Cuba,Slovakia,32,0,32
+2020,CUB,SWE,Cuba,Sweden,31,22,53
+2020,CUB,CHE,Cuba,Switzerland,35,10,45
+2020,CUB,TTO,Cuba,Trinidad and Tobago,171,2348,2519
+2020,CUB,URY,Cuba,Uruguay,26,9109,9135
+2020,CUB,USA,Cuba,United States of America,2591,9751,12342
+2021,CUB,ARG,Cuba,Argentina,263,819,1082
+2021,CUB,ARM,Cuba,Armenia,5,13,18
+2021,CUB,AUT,Cuba,Austria,15,5,20
+2021,CUB,BEL,Cuba,Belgium,10,5,15
+2021,CUB,BHS,Cuba,Bahamas,0,5,5
+2021,CUB,BLR,Cuba,Belarus,0,7,7
+2021,CUB,BOL,Cuba,Bolivia (Plurinational State of),48,0,48
+2021,CUB,BRA,Cuba,Brazil,722,15339,16061
+2021,CUB,BIH,Cuba,Bosnia and Herzegovina,0,0,0
+2021,CUB,BGR,Cuba,Bulgaria,0,5,5
+2021,CUB,BLZ,Cuba,Belize,0,5,5
+2021,CUB,CAN,Cuba,Canada,458,297,755
+2021,CUB,CYM,Cuba,Cayman Islands,57,30,87
+2021,CUB,CHL,Cuba,Chile,19,1590,1609
+2021,CUB,COL,Cuba,Colombia,88,98,186
+2021,CUB,CRI,Cuba,Costa Rica,463,2795,3258
+2021,CUB,CUB,Cuba,Cuba,0,0,0
+2021,CUB,CZE,Cuba,Czechia,36,11,47
+2021,CUB,DOM,Cuba,Dominican Republic,0,51,51
+2021,CUB,ECU,Cuba,Ecuador,219,61,280
+2021,CUB,ETH,Cuba,Ethiopia,5,0,5
+2021,CUB,FIN,Cuba,Finland,5,6,11
+2021,CUB,FRA,Cuba,France,304,180,484
+2021,CUB,GBR,Cuba,United Kingdom of Great Britain and Northern Ireland,12,16,28
+2021,CUB,DEU,Cuba,Germany,84,46,130
+2021,CUB,GRC,Cuba,Greece,7,79,86
+2021,CUB,GTM,Cuba,Guatemala,8,22,30
+2021,CUB,GUY,Cuba,Guyana,40,78,118
+2021,CUB,HND,Cuba,Honduras,0,0,0
+2021,CUB,HRV,Cuba,Croatia,0,11,11
+2021,CUB,HUN,Cuba,Hungary,76,0,76
+2021,CUB,IRL,Cuba,Ireland,5,0,5
+2021,CUB,ITA,Cuba,Italy,54,110,164
+2021,CUB,LTU,Cuba,Lithuania,5,0,5
+2021,CUB,LVA,Cuba,Latvia,0,5,5
+2021,CUB,MKD,Cuba,North Macedonia,0,5,5
+2021,CUB,MDA,Cuba,Rep. of Moldova,0,8,8
+2021,CUB,MEX,Cuba,Mexico,3722,9837,13559
+2021,CUB,MNE,Cuba,Montenegro,0,54,54
+2021,CUB,NLD,Cuba,Netherlands (Kingdom of the),52,26,78
+2021,CUB,NIC,Cuba,Nicaragua,14,0,14
+2021,CUB,PAN,Cuba,Panama,120,1554,1674
+2021,CUB,PRY,Cuba,Paraguay,927,55,982
+2021,CUB,PER,Cuba,Peru,519,2739,3258
+2021,CUB,POL,Cuba,Poland,8,26,34
+2021,CUB,PRT,Cuba,Portugal,5,10,15
+2021,CUB,ROU,Cuba,Romania,5,0,5
+2021,CUB,RUS,Cuba,Russian Federation,7,5,12
+2021,CUB,ESP,Cuba,Spain,136,3065,3201
+2021,CUB,SRB,Cuba,Serbia and Kosovo: S/RES/1244 (1999),7,0,7
+2021,CUB,SUR,Cuba,Suriname,17,1777,1794
+2021,CUB,SVK,Cuba,Slovakia,32,0,32
+2021,CUB,SVN,Cuba,Slovenia,0,24,24
+2021,CUB,SWE,Cuba,Sweden,23,17,40
+2021,CUB,CHE,Cuba,Switzerland,41,7,48
+2021,CUB,TTO,Cuba,Trinidad and Tobago,174,2339,2513
+2021,CUB,URY,Cuba,Uruguay,28,10313,10341
+2021,CUB,USA,Cuba,United States of America,2689,18040,20729
+2024,CUB,ARG,Cuba,Argentina,265,318,583
+2024,CUB,ARM,Cuba,Armenia,5,24,29
+2024,CUB,AUS,Cuba,Australia,0,31,31
+2024,CUB,AUT,Cuba,Austria,17,19,36
+2024,CUB,BEL,Cuba,Belgium,7,49,56
+2024,CUB,BHS,Cuba,Bahamas,5,7,12
+2024,CUB,BOL,Cuba,Bolivia (Plurinational State of),48,0,48
+2024,CUB,BRA,Cuba,Brazil,1095,33855,34950
+2024,CUB,BLZ,Cuba,Belize,0,5,5
+2024,CUB,CAN,Cuba,Canada,919,1349,2268
+2024,CUB,CYM,Cuba,Cayman Islands,50,15,65
+2024,CUB,CHL,Cuba,Chile,19,134,153
+2024,CUB,COL,Cuba,Colombia,96,525,621
+2024,CUB,CRI,Cuba,Costa Rica,1516,6744,8260
+2024,CUB,CUB,Cuba,Cuba,0,0,0
+2024,CUB,CYP,Cuba,Cyprus,5,0,5
+2024,CUB,CZE,Cuba,Czechia,45,8,53
+2024,CUB,DNK,Cuba,Denmark,5,5,10
+2024,CUB,DOM,Cuba,Dominican Republic,8,123,131
+2024,CUB,ECU,Cuba,Ecuador,100,89,189
+2024,CUB,ETH,Cuba,Ethiopia,5,0,5
+2024,CUB,FRA,Cuba,France,552,55,607
+2024,CUB,GBR,Cuba,United Kingdom of Great Britain and Northern Ireland,39,17,56
+2024,CUB,DEU,Cuba,Germany,150,353,503
+2024,CUB,GRC,Cuba,Greece,45,34,79
+2024,CUB,GTM,Cuba,Guatemala,14,145,159
+2024,CUB,GUY,Cuba,Guyana,5,29,34
+2024,CUB,HTI,Cuba,Haiti,5,0,5
+2024,CUB,HND,Cuba,Honduras,5,7,12
+2024,CUB,HRV,Cuba,Croatia,0,23,23
+2024,CUB,HUN,Cuba,Hungary,73,0,73
+2024,CUB,IRL,Cuba,Ireland,6,0,6
+2024,CUB,ITA,Cuba,Italy,190,796,986
+2024,CUB,LTU,Cuba,Lithuania,9,5,14
+2024,CUB,LVA,Cuba,Latvia,0,5,5
+2024,CUB,MDA,Cuba,Rep. of Moldova,0,15,15
+2024,CUB,MEX,Cuba,Mexico,10605,38411,49016
+2024,CUB,MNE,Cuba,Montenegro,5,26,31
+2024,CUB,NLD,Cuba,Netherlands (Kingdom of the),90,26,116
+2024,CUB,NOR,Cuba,Norway,8,5,13
+2024,CUB,PAN,Cuba,Panama,36,1172,1208
+2024,CUB,PRY,Cuba,Paraguay,1156,425,1581
+2024,CUB,PER,Cuba,Peru,555,7631,8186
+2024,CUB,POL,Cuba,Poland,9,6,15
+2024,CUB,PRT,Cuba,Portugal,0,6,6
+2024,CUB,ROU,Cuba,Romania,10,5,15
+2024,CUB,RUS,Cuba,Russian Federation,13,8,21
+2024,CUB,SLV,Cuba,El Salvador,6,55,61
+2024,CUB,ESP,Cuba,Spain,1352,5550,6902
+2024,CUB,SRB,Cuba,Serbia and Kosovo: S/RES/1244 (1999),13,23,36
+2024,CUB,KNA,Cuba,Saint Kitts and Nevis,5,0,5
+2024,CUB,SUR,Cuba,Suriname,12,2705,2717
+2024,CUB,SVK,Cuba,Slovakia,37,0,37
+2024,CUB,SWE,Cuba,Sweden,61,11,72
+2024,CUB,CHE,Cuba,Switzerland,58,23,81
+2024,CUB,TTO,Cuba,Trinidad and Tobago,157,1216,1373
+2024,CUB,URY,Cuba,Uruguay,47,23825,23872
+2024,CUB,USA,Cuba,United States of America,4327,218225,222552
+2023,CUB,ARG,Cuba,Argentina,266,631,897
+2023,CUB,ARM,Cuba,Armenia,5,10,15
+2023,CUB,AUS,Cuba,Australia,0,19,19
+2023,CUB,AUT,Cuba,Austria,17,25,42
+2023,CUB,BEL,Cuba,Belgium,7,0,7
+2023,CUB,BHS,Cuba,Bahamas,0,11,11
+2023,CUB,BLR,Cuba,Belarus,0,5,5
+2023,CUB,BOL,Cuba,Bolivia (Plurinational State of),48,0,48
+2023,CUB,BRA,Cuba,Brazil,1075,19633,20708
+2023,CUB,BLZ,Cuba,Belize,0,5,5
+2023,CUB,CAN,Cuba,Canada,537,799,1336
+2023,CUB,CYM,Cuba,Cayman Islands,49,93,142
+2023,CUB,CHL,Cuba,Chile,19,125,144
+2023,CUB,COL,Cuba,Colombia,111,230,341
+2023,CUB,CRI,Cuba,Costa Rica,962,5893,6855
+2023,CUB,CUB,Cuba,Cuba,0,0,0
+2023,CUB,CYP,Cuba,Cyprus,5,0,5
+2023,CUB,CZE,Cuba,Czechia,40,7,47
+2023,CUB,DNK,Cuba,Denmark,0,5,5
+2023,CUB,DOM,Cuba,Dominican Republic,31,154,185
+2023,CUB,ECU,Cuba,Ecuador,283,125,408
+2023,CUB,ETH,Cuba,Ethiopia,5,0,5
+2023,CUB,FIN,Cuba,Finland,5,18,23
+2023,CUB,FRA,Cuba,France,513,136,649
+2023,CUB,GBR,Cuba,United Kingdom of Great Britain and Northern Ireland,25,35,60
+2023,CUB,GEO,Cuba,Georgia,0,5,5
+2023,CUB,DEU,Cuba,Germany,132,434,566
+2023,CUB,GRC,Cuba,Greece,33,87,120
+2023,CUB,GTM,Cuba,Guatemala,12,99,111
+2023,CUB,GUY,Cuba,Guyana,5,37,42
+2023,CUB,HND,Cuba,Honduras,0,16,16
+2023,CUB,HRV,Cuba,Croatia,0,51,51
+2023,CUB,HUN,Cuba,Hungary,74,0,74
+2023,CUB,ISL,Cuba,Iceland,0,5,5
+2023,CUB,IRL,Cuba,Ireland,8,0,8
+2023,CUB,ITA,Cuba,Italy,148,552,700
+2023,CUB,LTU,Cuba,Lithuania,7,5,12
+2023,CUB,MEX,Cuba,Mexico,6858,33498,40356
+2023,CUB,MNE,Cuba,Montenegro,5,31,36
+2023,CUB,NLD,Cuba,Netherlands (Kingdom of the),94,21,115
+2023,CUB,NIC,Cuba,Nicaragua,14,0,14
+2023,CUB,NOR,Cuba,Norway,0,7,7
+2023,CUB,PAN,Cuba,Panama,121,1270,1391
+2023,CUB,PRY,Cuba,Paraguay,1138,363,1501
+2023,CUB,PER,Cuba,Peru,549,7162,7711
+2023,CUB,POL,Cuba,Poland,19,5,24
+2023,CUB,ROU,Cuba,Romania,10,5,15
+2023,CUB,RUS,Cuba,Russian Federation,5,6,11
+2023,CUB,SLV,Cuba,El Salvador,0,45,45
+2023,CUB,ESP,Cuba,Spain,1317,5325,6642
+2023,CUB,SRB,Cuba,Serbia and Kosovo: S/RES/1244 (1999),13,22,35
+2023,CUB,KNA,Cuba,Saint Kitts and Nevis,5,0,5
+2023,CUB,SUR,Cuba,Suriname,12,2136,2148
+2023,CUB,SVK,Cuba,Slovakia,37,0,37
+2023,CUB,SVN,Cuba,Slovenia,0,5,5
+2023,CUB,SWE,Cuba,Sweden,16,11,27
+2023,CUB,CHE,Cuba,Switzerland,58,30,88
+2023,CUB,TTO,Cuba,Trinidad and Tobago,122,1840,1962
+2023,CUB,URY,Cuba,Uruguay,42,18605,18647
+2023,CUB,USA,Cuba,United States of America,3703,230055,233758
+2022,CUB,ARG,Cuba,Argentina,262,829,1091
+2022,CUB,ARM,Cuba,Armenia,5,17,22
+2022,CUB,AUS,Cuba,Australia,0,9,9
+2022,CUB,AUT,Cuba,Austria,15,14,29
+2022,CUB,BEL,Cuba,Belgium,10,25,35
+2022,CUB,BHS,Cuba,Bahamas,0,11,11
+2022,CUB,BOL,Cuba,Bolivia (Plurinational State of),48,0,48
+2022,CUB,BRA,Cuba,Brazil,1180,18598,19778
+2022,CUB,BIH,Cuba,Bosnia and Herzegovina,0,0,0
+2022,CUB,BLZ,Cuba,Belize,0,5,5
+2022,CUB,CAN,Cuba,Canada,288,691,979
+2022,CUB,CYM,Cuba,Cayman Islands,47,242,289
+2022,CUB,CHL,Cuba,Chile,19,718,737
+2022,CUB,COL,Cuba,Colombia,87,233,320
+2022,CUB,CRI,Cuba,Costa Rica,648,3563,4211
+2022,CUB,CZE,Cuba,Czechia,33,0,33
+2022,CUB,DOM,Cuba,Dominican Republic,6,115,121
+2022,CUB,ECU,Cuba,Ecuador,230,169,399
+2022,CUB,ETH,Cuba,Ethiopia,5,0,5
+2022,CUB,FIN,Cuba,Finland,5,36,41
+2022,CUB,FRA,Cuba,France,394,156,550
+2022,CUB,GBR,Cuba,United Kingdom of Great Britain and Northern Ireland,16,34,50
+2022,CUB,GEO,Cuba,Georgia,0,5,5
+2022,CUB,DEU,Cuba,Germany,100,158,258
+2022,CUB,GRC,Cuba,Greece,25,61,86
+2022,CUB,GTM,Cuba,Guatemala,12,17,29
+2022,CUB,GUY,Cuba,Guyana,7,128,135
+2022,CUB,HND,Cuba,Honduras,0,9,9
+2022,CUB,HRV,Cuba,Croatia,0,67,67
+2022,CUB,HUN,Cuba,Hungary,74,0,74
+2022,CUB,IRL,Cuba,Ireland,6,0,6
+2022,CUB,ITA,Cuba,Italy,70,245,315
+2022,CUB,LTU,Cuba,Lithuania,5,5,10
+2022,CUB,MKD,Cuba,North Macedonia,0,5,5
+2022,CUB,MDA,Cuba,Rep. of Moldova,14,8,22
+2022,CUB,MEX,Cuba,Mexico,4693,22396,27089
+2022,CUB,MNE,Cuba,Montenegro,5,34,39
+2022,CUB,NLD,Cuba,Netherlands (Kingdom of the),88,17,105
+2022,CUB,NIC,Cuba,Nicaragua,14,0,14
+2022,CUB,NOR,Cuba,Norway,0,5,5
+2022,CUB,PAN,Cuba,Panama,120,1274,1394
+2022,CUB,PRY,Cuba,Paraguay,951,280,1231
+2022,CUB,PER,Cuba,Peru,546,3009,3555
+2022,CUB,POL,Cuba,Poland,19,11,30
+2022,CUB,PRT,Cuba,Portugal,5,0,5
+2022,CUB,ROU,Cuba,Romania,6,0,6
+2022,CUB,RUS,Cuba,Russian Federation,0,5,5
+2022,CUB,SLV,Cuba,El Salvador,0,5,5
+2022,CUB,ESP,Cuba,Spain,1328,3400,4728
+2022,CUB,SRB,Cuba,Serbia and Kosovo: S/RES/1244 (1999),8,7,15
+2022,CUB,SUR,Cuba,Suriname,12,2084,2096
+2022,CUB,SVK,Cuba,Slovakia,32,0,32
+2022,CUB,SVN,Cuba,Slovenia,0,43,43
+2022,CUB,SWE,Cuba,Sweden,24,22,46
+2022,CUB,CHE,Cuba,Switzerland,48,46,94
+2022,CUB,TTO,Cuba,Trinidad and Tobago,163,1330,1493
+2022,CUB,URY,Cuba,Uruguay,35,12105,12140
+2022,CUB,USA,Cuba,United States of America,2968,168748,171716
+2019,DOM,ARG,Dominican Republic,Argentina,0,568,568
+2019,DOM,BRA,Dominican Republic,Brazil,5,1269,1274
+2019,DOM,CAN,Dominican Republic,Canada,113,165,278
+2019,DOM,CHL,Dominican Republic,Chile,0,121,121
+2019,DOM,CRI,Dominican Republic,Costa Rica,0,64,64
+2019,DOM,ECU,Dominican Republic,Ecuador,5,8,13
+2019,DOM,FIN,Dominican Republic,Finland,5,0,5
+2019,DOM,FRA,Dominican Republic,France,76,84,160
+2019,DOM,GBR,Dominican Republic,United Kingdom of Great Britain and Northern Ireland,0,13,13
+2019,DOM,DEU,Dominican Republic,Germany,9,10,19
+2019,DOM,GRC,Dominican Republic,Greece,9,16,25
+2019,DOM,IRL,Dominican Republic,Ireland,0,5,5
+2019,DOM,ITA,Dominican Republic,Italy,29,20,49
+2019,DOM,MEX,Dominican Republic,Mexico,12,39,51
+2019,DOM,NLD,Dominican Republic,Netherlands (Kingdom of the),0,6,6
+2019,DOM,PAN,Dominican Republic,Panama,5,5,10
+2019,DOM,PER,Dominican Republic,Peru,19,41,60
+2019,DOM,ESP,Dominican Republic,Spain,8,220,228
+2019,DOM,SUR,Dominican Republic,Suriname,0,14,14
+2019,DOM,CHE,Dominican Republic,Switzerland,5,0,5
+2019,DOM,TTO,Dominican Republic,Trinidad and Tobago,0,130,130
+2019,DOM,URY,Dominican Republic,Uruguay,0,194,194
+2019,DOM,USA,Dominican Republic,United States of America,246,1046,1292
+2020,DOM,ARG,Dominican Republic,Argentina,5,578,583
+2020,DOM,BEL,Dominican Republic,Belgium,0,5,5
+2020,DOM,BRA,Dominican Republic,Brazil,6,1295,1301
+2020,DOM,CAN,Dominican Republic,Canada,107,156,263
+2020,DOM,CHL,Dominican Republic,Chile,0,116,116
+2020,DOM,CRI,Dominican Republic,Costa Rica,0,71,71
+2020,DOM,ECU,Dominican Republic,Ecuador,5,43,48
+2020,DOM,FIN,Dominican Republic,Finland,5,0,5
+2020,DOM,FRA,Dominican Republic,France,95,85,180
+2020,DOM,GBR,Dominican Republic,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2020,DOM,DEU,Dominican Republic,Germany,10,8,18
+2020,DOM,GRC,Dominican Republic,Greece,9,12,21
+2020,DOM,ITA,Dominican Republic,Italy,0,19,19
+2020,DOM,MEX,Dominican Republic,Mexico,18,55,73
+2020,DOM,PAN,Dominican Republic,Panama,5,0,5
+2020,DOM,PER,Dominican Republic,Peru,19,56,75
+2020,DOM,ESP,Dominican Republic,Spain,11,200,211
+2020,DOM,SUR,Dominican Republic,Suriname,0,8,8
+2020,DOM,TTO,Dominican Republic,Trinidad and Tobago,0,136,136
+2020,DOM,URY,Dominican Republic,Uruguay,0,255,255
+2020,DOM,USA,Dominican Republic,United States of America,255,1141,1396
+2021,DOM,ARG,Dominican Republic,Argentina,9,568,577
+2021,DOM,BRA,Dominican Republic,Brazil,6,1293,1299
+2021,DOM,CAN,Dominican Republic,Canada,129,169,298
+2021,DOM,CHL,Dominican Republic,Chile,0,128,128
+2021,DOM,CRI,Dominican Republic,Costa Rica,0,105,105
+2021,DOM,ECU,Dominican Republic,Ecuador,5,0,5
+2021,DOM,FIN,Dominican Republic,Finland,5,0,5
+2021,DOM,FRA,Dominican Republic,France,136,36,172
+2021,DOM,GBR,Dominican Republic,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2021,DOM,DEU,Dominican Republic,Germany,8,5,13
+2021,DOM,GRC,Dominican Republic,Greece,10,5,15
+2021,DOM,ITA,Dominican Republic,Italy,12,12,24
+2021,DOM,MEX,Dominican Republic,Mexico,32,197,229
+2021,DOM,PAN,Dominican Republic,Panama,5,0,5
+2021,DOM,PRY,Dominican Republic,Paraguay,0,10,10
+2021,DOM,PER,Dominican Republic,Peru,20,55,75
+2021,DOM,ESP,Dominican Republic,Spain,11,230,241
+2021,DOM,SUR,Dominican Republic,Suriname,0,9,9
+2021,DOM,TTO,Dominican Republic,Trinidad and Tobago,0,139,139
+2021,DOM,URY,Dominican Republic,Uruguay,0,317,317
+2021,DOM,USA,Dominican Republic,United States of America,247,1359,1606
+2024,DOM,ARG,Dominican Republic,Argentina,16,41,57
+2024,DOM,AUS,Dominican Republic,Australia,0,5,5
+2024,DOM,BEL,Dominican Republic,Belgium,0,6,6
+2024,DOM,BRA,Dominican Republic,Brazil,10,645,655
+2024,DOM,CAN,Dominican Republic,Canada,310,438,748
+2024,DOM,CHL,Dominican Republic,Chile,0,78,78
+2024,DOM,CRI,Dominican Republic,Costa Rica,5,189,194
+2024,DOM,CYP,Dominican Republic,Cyprus,0,5,5
+2024,DOM,FRA,Dominican Republic,France,295,56,351
+2024,DOM,GBR,Dominican Republic,United Kingdom of Great Britain and Northern Ireland,0,9,9
+2024,DOM,DEU,Dominican Republic,Germany,6,11,17
+2024,DOM,ISR,Dominican Republic,Israel,0,42,42
+2024,DOM,ITA,Dominican Republic,Italy,11,172,183
+2024,DOM,MEX,Dominican Republic,Mexico,65,1888,1953
+2024,DOM,NLD,Dominican Republic,Netherlands (Kingdom of the),5,0,5
+2024,DOM,PAN,Dominican Republic,Panama,5,5,10
+2024,DOM,PER,Dominican Republic,Peru,20,207,227
+2024,DOM,PRT,Dominican Republic,Portugal,0,5,5
+2024,DOM,ESP,Dominican Republic,Spain,20,130,150
+2024,DOM,SUR,Dominican Republic,Suriname,0,5,5
+2024,DOM,CHE,Dominican Republic,Switzerland,5,0,5
+2024,DOM,TTO,Dominican Republic,Trinidad and Tobago,0,65,65
+2024,DOM,URY,Dominican Republic,Uruguay,0,1407,1407
+2024,DOM,USA,Dominican Republic,United States of America,307,10412,10719
+2023,DOM,ARG,Dominican Republic,Argentina,16,240,256
+2023,DOM,AUS,Dominican Republic,Australia,0,5,5
+2023,DOM,BRA,Dominican Republic,Brazil,7,524,531
+2023,DOM,BGR,Dominican Republic,Bulgaria,0,5,5
+2023,DOM,CAN,Dominican Republic,Canada,172,284,456
+2023,DOM,CHL,Dominican Republic,Chile,0,84,84
+2023,DOM,COL,Dominican Republic,Colombia,0,5,5
+2023,DOM,CRI,Dominican Republic,Costa Rica,0,184,184
+2023,DOM,CYP,Dominican Republic,Cyprus,0,5,5
+2023,DOM,ECU,Dominican Republic,Ecuador,5,0,5
+2023,DOM,FIN,Dominican Republic,Finland,5,0,5
+2023,DOM,FRA,Dominican Republic,France,253,116,369
+2023,DOM,GBR,Dominican Republic,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2023,DOM,DEU,Dominican Republic,Germany,6,10,16
+2023,DOM,GRC,Dominican Republic,Greece,10,5,15
+2023,DOM,GTM,Dominican Republic,Guatemala,0,5,5
+2023,DOM,IRL,Dominican Republic,Ireland,0,5,5
+2023,DOM,ISR,Dominican Republic,Israel,0,7,7
+2023,DOM,ITA,Dominican Republic,Italy,15,93,108
+2023,DOM,MEX,Dominican Republic,Mexico,45,1802,1847
+2023,DOM,NLD,Dominican Republic,Netherlands (Kingdom of the),0,10,10
+2023,DOM,PAN,Dominican Republic,Panama,5,0,5
+2023,DOM,PRY,Dominican Republic,Paraguay,0,12,12
+2023,DOM,PER,Dominican Republic,Peru,20,182,202
+2023,DOM,PRT,Dominican Republic,Portugal,0,5,5
+2023,DOM,ESP,Dominican Republic,Spain,28,110,138
+2023,DOM,SUR,Dominican Republic,Suriname,0,5,5
+2023,DOM,CHE,Dominican Republic,Switzerland,5,0,5
+2023,DOM,TTO,Dominican Republic,Trinidad and Tobago,0,129,129
+2023,DOM,URY,Dominican Republic,Uruguay,0,1037,1037
+2023,DOM,USA,Dominican Republic,United States of America,294,5917,6211
+2022,DOM,ARG,Dominican Republic,Argentina,11,499,510
+2022,DOM,BEL,Dominican Republic,Belgium,0,5,5
+2022,DOM,BRA,Dominican Republic,Brazil,9,1345,1354
+2022,DOM,BGR,Dominican Republic,Bulgaria,0,5,5
+2022,DOM,CAN,Dominican Republic,Canada,110,204,314
+2022,DOM,CHL,Dominican Republic,Chile,0,95,95
+2022,DOM,COL,Dominican Republic,Colombia,0,5,5
+2022,DOM,CRI,Dominican Republic,Costa Rica,0,175,175
+2022,DOM,ECU,Dominican Republic,Ecuador,5,5,10
+2022,DOM,FIN,Dominican Republic,Finland,5,0,5
+2022,DOM,FRA,Dominican Republic,France,202,105,307
+2022,DOM,GBR,Dominican Republic,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2022,DOM,DEU,Dominican Republic,Germany,11,5,16
+2022,DOM,GRC,Dominican Republic,Greece,10,0,10
+2022,DOM,IRL,Dominican Republic,Ireland,0,5,5
+2022,DOM,ITA,Dominican Republic,Italy,13,34,47
+2022,DOM,MEX,Dominican Republic,Mexico,42,1486,1528
+2022,DOM,PAN,Dominican Republic,Panama,5,0,5
+2022,DOM,PRY,Dominican Republic,Paraguay,0,11,11
+2022,DOM,PER,Dominican Republic,Peru,20,55,75
+2022,DOM,PRT,Dominican Republic,Portugal,0,13,13
+2022,DOM,ESP,Dominican Republic,Spain,25,90,115
+2022,DOM,SUR,Dominican Republic,Suriname,0,10,10
+2022,DOM,TTO,Dominican Republic,Trinidad and Tobago,0,108,108
+2022,DOM,URY,Dominican Republic,Uruguay,0,694,694
+2022,DOM,USA,Dominican Republic,United States of America,251,2037,2288
+2019,GTM,ARG,Guatemala,Argentina,6,0,6
+2019,GTM,AUT,Guatemala,Austria,6,0,6
+2019,GTM,BEL,Guatemala,Belgium,34,12,46
+2019,GTM,BRA,Guatemala,Brazil,0,21,21
+2019,GTM,BLZ,Guatemala,Belize,0,422,422
+2019,GTM,CAN,Guatemala,Canada,444,263,707
+2019,GTM,CHL,Guatemala,Chile,0,5,5
+2019,GTM,CRI,Guatemala,Costa Rica,24,35,59
+2019,GTM,FIN,Guatemala,Finland,5,0,5
+2019,GTM,FRA,Guatemala,France,15,0,15
+2019,GTM,GBR,Guatemala,United Kingdom of Great Britain and Northern Ireland,9,11,20
+2019,GTM,DEU,Guatemala,Germany,5,7,12
+2019,GTM,IRL,Guatemala,Ireland,0,11,11
+2019,GTM,ITA,Guatemala,Italy,17,17,34
+2019,GTM,MEX,Guatemala,Mexico,1250,3631,4881
+2019,GTM,NIC,Guatemala,Nicaragua,8,0,8
+2019,GTM,NOR,Guatemala,Norway,7,0,7
+2019,GTM,PAN,Guatemala,Panama,12,14,26
+2019,GTM,ESP,Guatemala,Spain,23,655,678
+2019,GTM,SWE,Guatemala,Sweden,10,13,23
+2019,GTM,CHE,Guatemala,Switzerland,7,0,7
+2019,GTM,URY,Guatemala,Uruguay,5,0,5
+2019,GTM,USA,Guatemala,United States of America,20883,114404,135287
+2020,GTM,ARG,Guatemala,Argentina,6,0,6
+2020,GTM,AUT,Guatemala,Austria,6,0,6
+2020,GTM,BEL,Guatemala,Belgium,39,40,79
+2020,GTM,BRA,Guatemala,Brazil,0,22,22
+2020,GTM,BLZ,Guatemala,Belize,0,434,434
+2020,GTM,CAN,Guatemala,Canada,423,225,648
+2020,GTM,CHL,Guatemala,Chile,0,5,5
+2020,GTM,CRI,Guatemala,Costa Rica,25,36,61
+2020,GTM,FIN,Guatemala,Finland,5,0,5
+2020,GTM,FRA,Guatemala,France,19,0,19
+2020,GTM,GBR,Guatemala,United Kingdom of Great Britain and Northern Ireland,9,17,26
+2020,GTM,DEU,Guatemala,Germany,5,10,15
+2020,GTM,GTM,Guatemala,Guatemala,0,0,0
+2020,GTM,IRL,Guatemala,Ireland,5,15,20
+2020,GTM,ITA,Guatemala,Italy,0,21,21
+2020,GTM,MEX,Guatemala,Mexico,1933,5118,7051
+2020,GTM,NIC,Guatemala,Nicaragua,7,0,7
+2020,GTM,PAN,Guatemala,Panama,12,9,21
+2020,GTM,SLV,Guatemala,El Salvador,0,5,5
+2020,GTM,ESP,Guatemala,Spain,77,620,697
+2020,GTM,SWE,Guatemala,Sweden,10,7,17
+2020,GTM,CHE,Guatemala,Switzerland,7,0,7
+2020,GTM,URY,Guatemala,Uruguay,5,0,5
+2020,GTM,USA,Guatemala,United States of America,21951,139527,161478
+2021,GTM,ARG,Guatemala,Argentina,8,0,8
+2021,GTM,AUT,Guatemala,Austria,6,0,6
+2021,GTM,BEL,Guatemala,Belgium,39,35,74
+2021,GTM,BRA,Guatemala,Brazil,0,24,24
+2021,GTM,BLZ,Guatemala,Belize,0,416,416
+2021,GTM,CAN,Guatemala,Canada,358,237,595
+2021,GTM,CHL,Guatemala,Chile,0,5,5
+2021,GTM,CRI,Guatemala,Costa Rica,25,108,133
+2021,GTM,FIN,Guatemala,Finland,5,0,5
+2021,GTM,FRA,Guatemala,France,21,5,26
+2021,GTM,GBR,Guatemala,United Kingdom of Great Britain and Northern Ireland,9,26,35
+2021,GTM,DEU,Guatemala,Germany,5,9,14
+2021,GTM,GTM,Guatemala,Guatemala,0,0,0
+2021,GTM,IRL,Guatemala,Ireland,5,10,15
+2021,GTM,ITA,Guatemala,Italy,12,9,21
+2021,GTM,MEX,Guatemala,Mexico,3113,6123,9236
+2021,GTM,NLD,Guatemala,Netherlands (Kingdom of the),0,5,5
+2021,GTM,NIC,Guatemala,Nicaragua,7,0,7
+2021,GTM,PAN,Guatemala,Panama,12,8,20
+2021,GTM,PRY,Guatemala,Paraguay,0,6,6
+2021,GTM,SLV,Guatemala,El Salvador,0,8,8
+2021,GTM,ESP,Guatemala,Spain,99,610,709
+2021,GTM,SWE,Guatemala,Sweden,11,0,11
+2021,GTM,CHE,Guatemala,Switzerland,7,0,7
+2021,GTM,URY,Guatemala,Uruguay,5,0,5
+2021,GTM,USA,Guatemala,United States of America,23180,152784,175964
+2024,GTM,ARG,Guatemala,Argentina,9,0,9
+2024,GTM,AUT,Guatemala,Austria,5,5,10
+2024,GTM,BEL,Guatemala,Belgium,43,103,146
+2024,GTM,BRA,Guatemala,Brazil,5,21,26
+2024,GTM,BLZ,Guatemala,Belize,19,418,437
+2024,GTM,CAN,Guatemala,Canada,555,464,1019
+2024,GTM,CHL,Guatemala,Chile,0,5,5
+2024,GTM,CRI,Guatemala,Costa Rica,49,169,218
+2024,GTM,FRA,Guatemala,France,34,0,34
+2024,GTM,GBR,Guatemala,United Kingdom of Great Britain and Northern Ireland,44,116,160
+2024,GTM,DEU,Guatemala,Germany,10,11,21
+2024,GTM,GTM,Guatemala,Guatemala,0,0,0
+2024,GTM,HND,Guatemala,Honduras,0,5,5
+2024,GTM,IRL,Guatemala,Ireland,29,58,87
+2024,GTM,ITA,Guatemala,Italy,50,95,145
+2024,GTM,MEX,Guatemala,Mexico,6652,9247,15899
+2024,GTM,NLD,Guatemala,Netherlands (Kingdom of the),12,0,12
+2024,GTM,NOR,Guatemala,Norway,0,5,5
+2024,GTM,PAN,Guatemala,Panama,10,11,21
+2024,GTM,PER,Guatemala,Peru,5,17,22
+2024,GTM,SLV,Guatemala,El Salvador,8,10,18
+2024,GTM,ESP,Guatemala,Spain,307,540,847
+2024,GTM,SWE,Guatemala,Sweden,15,0,15
+2024,GTM,CHE,Guatemala,Switzerland,5,0,5
+2024,GTM,URY,Guatemala,Uruguay,5,5,10
+2024,GTM,USA,Guatemala,United States of America,28452,184014,212466
+2023,GTM,ARG,Guatemala,Argentina,9,0,9
+2023,GTM,AUT,Guatemala,Austria,5,0,5
+2023,GTM,BEL,Guatemala,Belgium,43,108,151
+2023,GTM,BRA,Guatemala,Brazil,5,22,27
+2023,GTM,BLZ,Guatemala,Belize,6,409,415
+2023,GTM,CAN,Guatemala,Canada,287,349,636
+2023,GTM,CHL,Guatemala,Chile,0,5,5
+2023,GTM,COL,Guatemala,Colombia,0,5,5
+2023,GTM,CRI,Guatemala,Costa Rica,24,153,177
+2023,GTM,FRA,Guatemala,France,31,0,31
+2023,GTM,GBR,Guatemala,United Kingdom of Great Britain and Northern Ireland,29,80,109
+2023,GTM,DEU,Guatemala,Germany,8,13,21
+2023,GTM,GTM,Guatemala,Guatemala,0,0,0
+2023,GTM,IRL,Guatemala,Ireland,19,42,61
+2023,GTM,ITA,Guatemala,Italy,45,38,83
+2023,GTM,MEX,Guatemala,Mexico,5386,9352,14738
+2023,GTM,NLD,Guatemala,Netherlands (Kingdom of the),12,0,12
+2023,GTM,NIC,Guatemala,Nicaragua,7,0,7
+2023,GTM,NOR,Guatemala,Norway,0,5,5
+2023,GTM,PAN,Guatemala,Panama,12,6,18
+2023,GTM,PRY,Guatemala,Paraguay,0,5,5
+2023,GTM,PER,Guatemala,Peru,5,11,16
+2023,GTM,SLV,Guatemala,El Salvador,6,11,17
+2023,GTM,ESP,Guatemala,Spain,234,630,864
+2023,GTM,SWE,Guatemala,Sweden,5,5,10
+2023,GTM,CHE,Guatemala,Switzerland,6,6,12
+2023,GTM,URY,Guatemala,Uruguay,5,5,10
+2023,GTM,USA,Guatemala,United States of America,27821,164775,192596
+2022,GTM,ARG,Guatemala,Argentina,8,0,8
+2022,GTM,AUT,Guatemala,Austria,6,0,6
+2022,GTM,BEL,Guatemala,Belgium,38,95,133
+2022,GTM,BRA,Guatemala,Brazil,5,25,30
+2022,GTM,BLZ,Guatemala,Belize,0,410,410
+2022,GTM,CAN,Guatemala,Canada,230,292,522
+2022,GTM,CHL,Guatemala,Chile,0,5,5
+2022,GTM,CRI,Guatemala,Costa Rica,24,141,165
+2022,GTM,FRA,Guatemala,France,25,5,30
+2022,GTM,GBR,Guatemala,United Kingdom of Great Britain and Northern Ireland,9,57,66
+2022,GTM,DEU,Guatemala,Germany,5,12,17
+2022,GTM,GTM,Guatemala,Guatemala,0,0,0
+2022,GTM,ISL,Guatemala,Iceland,0,5,5
+2022,GTM,IRL,Guatemala,Ireland,11,20,31
+2022,GTM,ITA,Guatemala,Italy,16,20,36
+2022,GTM,MEX,Guatemala,Mexico,4127,8184,12311
+2022,GTM,NLD,Guatemala,Netherlands (Kingdom of the),5,0,5
+2022,GTM,NIC,Guatemala,Nicaragua,7,0,7
+2022,GTM,PAN,Guatemala,Panama,12,6,18
+2022,GTM,PRY,Guatemala,Paraguay,0,6,6
+2022,GTM,PER,Guatemala,Peru,5,0,5
+2022,GTM,SLV,Guatemala,El Salvador,6,5,11
+2022,GTM,ESP,Guatemala,Spain,150,490,640
+2022,GTM,SWE,Guatemala,Sweden,6,5,11
+2022,GTM,CHE,Guatemala,Switzerland,7,5,12
+2022,GTM,URY,Guatemala,Uruguay,5,0,5
+2022,GTM,USA,Guatemala,United States of America,25552,157113,182665
+2019,GUY,BRA,Guyana,Brazil,5,137,142
+2019,GUY,CAN,Guyana,Canada,126,68,194
+2019,GUY,FRA,Guyana,France,19,0,19
+2019,GUY,GBR,Guyana,United Kingdom of Great Britain and Northern Ireland,20,9,29
+2019,GUY,IRL,Guyana,Ireland,0,5,5
+2019,GUY,MEX,Guyana,Mexico,0,5,5
+2019,GUY,NLD,Guyana,Netherlands (Kingdom of the),0,5,5
+2019,GUY,TTO,Guyana,Trinidad and Tobago,0,53,53
+2019,GUY,USA,Guyana,United States of America,114,394,508
+2020,GUY,BEL,Guyana,Belgium,5,0,5
+2020,GUY,BRA,Guyana,Brazil,5,149,154
+2020,GUY,CAN,Guyana,Canada,93,52,145
+2020,GUY,FRA,Guyana,France,19,0,19
+2020,GUY,GBR,Guyana,United Kingdom of Great Britain and Northern Ireland,20,9,29
+2020,GUY,MEX,Guyana,Mexico,0,5,5
+2020,GUY,TTO,Guyana,Trinidad and Tobago,19,56,75
+2020,GUY,USA,Guyana,United States of America,106,437,543
+2021,GUY,BRB,Guyana,Barbados,0,5,5
+2021,GUY,BEL,Guyana,Belgium,5,0,5
+2021,GUY,BRA,Guyana,Brazil,5,158,163
+2021,GUY,CAN,Guyana,Canada,90,60,150
+2021,GUY,CRI,Guyana,Costa Rica,0,9,9
+2021,GUY,FRA,Guyana,France,29,0,29
+2021,GUY,GBR,Guyana,United Kingdom of Great Britain and Northern Ireland,20,6,26
+2021,GUY,GUY,Guyana,Guyana,0,0,0
+2021,GUY,MEX,Guyana,Mexico,0,23,23
+2021,GUY,NLD,Guyana,Netherlands (Kingdom of the),5,0,5
+2021,GUY,SUR,Guyana,Suriname,0,5,5
+2021,GUY,TTO,Guyana,Trinidad and Tobago,21,64,85
+2021,GUY,USA,Guyana,United States of America,110,526,636
+2024,GUY,BRA,Guyana,Brazil,9,196,205
+2024,GUY,CAN,Guyana,Canada,95,58,153
+2024,GUY,CRI,Guyana,Costa Rica,0,5,5
+2024,GUY,FRA,Guyana,France,40,0,40
+2024,GUY,GBR,Guyana,United Kingdom of Great Britain and Northern Ireland,34,26,60
+2024,GUY,IRL,Guyana,Ireland,0,19,19
+2024,GUY,MEX,Guyana,Mexico,5,107,112
+2024,GUY,NLD,Guyana,Netherlands (Kingdom of the),7,5,12
+2024,GUY,PER,Guyana,Peru,0,9,9
+2024,GUY,SUR,Guyana,Suriname,0,5,5
+2024,GUY,TTO,Guyana,Trinidad and Tobago,7,80,87
+2024,GUY,USA,Guyana,United States of America,116,1081,1197
+2023,GUY,BRB,Guyana,Barbados,5,0,5
+2023,GUY,BRA,Guyana,Brazil,0,171,171
+2023,GUY,CAN,Guyana,Canada,50,53,103
+2023,GUY,CRI,Guyana,Costa Rica,0,11,11
+2023,GUY,FRA,Guyana,France,39,0,39
+2023,GUY,GBR,Guyana,United Kingdom of Great Britain and Northern Ireland,17,32,49
+2023,GUY,IRL,Guyana,Ireland,0,8,8
+2023,GUY,MEX,Guyana,Mexico,5,102,107
+2023,GUY,NLD,Guyana,Netherlands (Kingdom of the),7,5,12
+2023,GUY,PER,Guyana,Peru,0,9,9
+2023,GUY,SUR,Guyana,Suriname,0,5,5
+2023,GUY,TTO,Guyana,Trinidad and Tobago,7,109,116
+2023,GUY,USA,Guyana,United States of America,118,760,878
+2022,GUY,BRA,Guyana,Brazil,5,190,195
+2022,GUY,CAN,Guyana,Canada,46,60,106
+2022,GUY,CRI,Guyana,Costa Rica,0,11,11
+2022,GUY,FRA,Guyana,France,38,0,38
+2022,GUY,GBR,Guyana,United Kingdom of Great Britain and Northern Ireland,18,9,27
+2022,GUY,GUY,Guyana,Guyana,0,0,0
+2022,GUY,IRL,Guyana,Ireland,0,5,5
+2022,GUY,MEX,Guyana,Mexico,0,32,32
+2022,GUY,NLD,Guyana,Netherlands (Kingdom of the),8,5,13
+2022,GUY,SUR,Guyana,Suriname,0,5,5
+2022,GUY,TTO,Guyana,Trinidad and Tobago,15,89,104
+2022,GUY,USA,Guyana,United States of America,120,523,643
+2019,HTI,ARG,Haiti,Argentina,72,754,826
+2019,HTI,BEL,Haiti,Belgium,5,0,5
+2019,HTI,BRA,Haiti,Brazil,8,32788,32796
+2019,HTI,CAN,Haiti,Canada,6563,5365,11928
+2019,HTI,CHL,Haiti,Chile,0,26,26
+2019,HTI,CRI,Haiti,Costa Rica,12,111,123
+2019,HTI,CUB,Haiti,Cuba,5,0,5
+2019,HTI,CYP,Haiti,Cyprus,0,11,11
+2019,HTI,DOM,Haiti,Dominican Republic,164,244,408
+2019,HTI,ECU,Haiti,Ecuador,21,11,32
+2019,HTI,FRA,Haiti,France,3815,1535,5350
+2019,HTI,GBR,Haiti,United Kingdom of Great Britain and Northern Ireland,0,10,10
+2019,HTI,DEU,Haiti,Germany,15,18,33
+2019,HTI,GRC,Haiti,Greece,8,36,44
+2019,HTI,ITA,Haiti,Italy,9,0,9
+2019,HTI,JAM,Haiti,Jamaica,0,5,5
+2019,HTI,KOR,Haiti,Rep. of Korea,0,20,20
+2019,HTI,MEX,Haiti,Mexico,221,5566,5787
+2019,HTI,PAN,Haiti,Panama,19,0,19
+2019,HTI,PER,Haiti,Peru,78,63,141
+2019,HTI,SEN,Haiti,Senegal,0,5,5
+2019,HTI,ESP,Haiti,Spain,14,25,39
+2019,HTI,TTO,Haiti,Trinidad and Tobago,0,15,15
+2019,HTI,URY,Haiti,Uruguay,0,15,15
+2019,HTI,USA,Haiti,United States of America,15698,19061,34759
+2019,HTI,VEN,Haiti,Venezuela,7,0,7
+2020,HTI,ARG,Haiti,Argentina,74,766,840
+2020,HTI,BEL,Haiti,Belgium,5,5,10
+2020,HTI,BRA,Haiti,Brazil,8,38130,38138
+2020,HTI,CAN,Haiti,Canada,4587,4662,9249
+2020,HTI,CHL,Haiti,Chile,0,26,26
+2020,HTI,CRI,Haiti,Costa Rica,12,128,140
+2020,HTI,CUB,Haiti,Cuba,5,0,5
+2020,HTI,CYP,Haiti,Cyprus,0,12,12
+2020,HTI,DOM,Haiti,Dominican Republic,162,273,435
+2020,HTI,ECU,Haiti,Ecuador,21,36,57
+2020,HTI,FRA,Haiti,France,4128,1935,6063
+2020,HTI,GBR,Haiti,United Kingdom of Great Britain and Northern Ireland,0,10,10
+2020,HTI,DEU,Haiti,Germany,14,20,34
+2020,HTI,GRC,Haiti,Greece,23,37,60
+2020,HTI,HND,Haiti,Honduras,0,0,0
+2020,HTI,JAM,Haiti,Jamaica,27,5,32
+2020,HTI,KOR,Haiti,Rep. of Korea,0,24,24
+2020,HTI,MEX,Haiti,Mexico,1342,8708,10050
+2020,HTI,PAN,Haiti,Panama,19,0,19
+2020,HTI,PER,Haiti,Peru,80,60,140
+2020,HTI,ROU,Haiti,Romania,0,6,6
+2020,HTI,SEN,Haiti,Senegal,0,5,5
+2020,HTI,ESP,Haiti,Spain,10,50,60
+2020,HTI,TTO,Haiti,Trinidad and Tobago,0,15,15
+2020,HTI,UKR,Haiti,Ukraine,0,5,5
+2020,HTI,URY,Haiti,Uruguay,0,15,15
+2020,HTI,USA,Haiti,United States of America,15125,25292,40417
+2020,HTI,VEN,Haiti,Venezuela,7,0,7
+2021,HTI,ARG,Haiti,Argentina,76,781,857
+2021,HTI,BEL,Haiti,Belgium,5,5,10
+2021,HTI,BRA,Haiti,Brazil,8,38709,38717
+2021,HTI,CAN,Haiti,Canada,4295,3057,7352
+2021,HTI,CHL,Haiti,Chile,0,55,55
+2021,HTI,COL,Haiti,Colombia,0,5,5
+2021,HTI,CRI,Haiti,Costa Rica,12,910,922
+2021,HTI,CUB,Haiti,Cuba,5,0,5
+2021,HTI,CYP,Haiti,Cyprus,0,5,5
+2021,HTI,DOM,Haiti,Dominican Republic,162,285,447
+2021,HTI,ECU,Haiti,Ecuador,22,0,22
+2021,HTI,FRA,Haiti,France,6666,629,7295
+2021,HTI,GBR,Haiti,United Kingdom of Great Britain and Northern Ireland,0,11,11
+2021,HTI,DEU,Haiti,Germany,14,23,37
+2021,HTI,GRC,Haiti,Greece,38,14,52
+2021,HTI,GTM,Haiti,Guatemala,0,0,0
+2021,HTI,GUY,Haiti,Guyana,0,11,11
+2021,HTI,HND,Haiti,Honduras,0,10,10
+2021,HTI,JAM,Haiti,Jamaica,31,5,36
+2021,HTI,KOR,Haiti,Rep. of Korea,0,23,23
+2021,HTI,MEX,Haiti,Mexico,3294,52404,55698
+2021,HTI,NLD,Haiti,Netherlands (Kingdom of the),0,11,11
+2021,HTI,PAN,Haiti,Panama,19,0,19
+2021,HTI,PRY,Haiti,Paraguay,0,5,5
+2021,HTI,PER,Haiti,Peru,85,56,141
+2021,HTI,SEN,Haiti,Senegal,0,5,5
+2021,HTI,ESP,Haiti,Spain,10,170,180
+2021,HTI,TTO,Haiti,Trinidad and Tobago,0,15,15
+2021,HTI,UKR,Haiti,Ukraine,0,5,5
+2021,HTI,URY,Haiti,Uruguay,5,23,28
+2021,HTI,USA,Haiti,United States of America,14695,38333,53028
+2021,HTI,VEN,Haiti,Venezuela,12,0,12
+2024,HTI,ARG,Haiti,Argentina,80,32,112
+2024,HTI,ARM,Haiti,Armenia,32,7,39
+2024,HTI,AUS,Haiti,Australia,0,10,10
+2024,HTI,BEL,Haiti,Belgium,18,31,49
+2024,HTI,BRA,Haiti,Brazil,93748,573,94321
+2024,HTI,BGR,Haiti,Bulgaria,5,0,5
+2024,HTI,VGB,Haiti,British Virgin Islands,5,36,41
+2024,HTI,BLZ,Haiti,Belize,0,9,9
+2024,HTI,CAN,Haiti,Canada,14351,19410,33761
+2024,HTI,CYM,Haiti,Cayman Islands,0,0,0
+2024,HTI,CHL,Haiti,Chile,0,103,103
+2024,HTI,COL,Haiti,Colombia,0,0,0
+2024,HTI,CRI,Haiti,Costa Rica,30,815,845
+2024,HTI,CUB,Haiti,Cuba,6,0,6
+2024,HTI,CYP,Haiti,Cyprus,0,16,16
+2024,HTI,DOM,Haiti,Dominican Republic,0,522,522
+2024,HTI,ECU,Haiti,Ecuador,14,5,19
+2024,HTI,FRA,Haiti,France,16362,3391,19753
+2024,HTI,GBR,Haiti,United Kingdom of Great Britain and Northern Ireland,6,6,12
+2024,HTI,DEU,Haiti,Germany,35,51,86
+2024,HTI,GRC,Haiti,Greece,56,15,71
+2024,HTI,GTM,Haiti,Guatemala,0,0,0
+2024,HTI,GUY,Haiti,Guyana,15,12,27
+2024,HTI,HTI,Haiti,Haiti,0,0,0
+2024,HTI,HND,Haiti,Honduras,0,0,0
+2024,HTI,ISR,Haiti,Israel,0,59,59
+2024,HTI,ITA,Haiti,Italy,5,7,12
+2024,HTI,KOR,Haiti,Rep. of Korea,119,30,149
+2024,HTI,LCA,Haiti,Saint Lucia,5,0,5
+2024,HTI,LUX,Haiti,Luxembourg,5,0,5
+2024,HTI,MEX,Haiti,Mexico,8820,78905,87725
+2024,HTI,MAR,Haiti,Morocco,0,5,5
+2024,HTI,NLD,Haiti,Netherlands (Kingdom of the),5,15,20
+2024,HTI,PAN,Haiti,Panama,10,5,15
+2024,HTI,PRY,Haiti,Paraguay,0,5,5
+2024,HTI,PER,Haiti,Peru,94,503,597
+2024,HTI,PHL,Haiti,Philippines,0,5,5
+2024,HTI,PRT,Haiti,Portugal,0,5,5
+2024,HTI,ROU,Haiti,Romania,0,5,5
+2024,HTI,RUS,Haiti,Russian Federation,5,5,10
+2024,HTI,SLV,Haiti,El Salvador,0,5,5
+2024,HTI,ESP,Haiti,Spain,135,75,210
+2024,HTI,SUR,Haiti,Suriname,0,5,5
+2024,HTI,SWE,Haiti,Sweden,5,0,5
+2024,HTI,CHE,Haiti,Switzerland,18,19,37
+2024,HTI,SXM,Haiti,Sint Maarten (Dutch part),5,0,5
+2024,HTI,TTO,Haiti,Trinidad and Tobago,0,19,19
+2024,HTI,URY,Haiti,Uruguay,5,24,29
+2024,HTI,USA,Haiti,United States of America,14241,170305,184546
+2024,HTI,VEN,Haiti,Venezuela,12,0,12
+2023,HTI,ARG,Haiti,Argentina,84,384,468
+2023,HTI,ARM,Haiti,Armenia,25,0,25
+2023,HTI,AUS,Haiti,Australia,0,5,5
+2023,HTI,BEL,Haiti,Belgium,10,0,10
+2023,HTI,BHS,Haiti,Bahamas,0,5,5
+2023,HTI,BRA,Haiti,Brazil,87371,903,88274
+2023,HTI,BGR,Haiti,Bulgaria,0,5,5
+2023,HTI,BLZ,Haiti,Belize,0,9,9
+2023,HTI,CAN,Haiti,Canada,4174,14647,18821
+2023,HTI,CYM,Haiti,Cayman Islands,0,0,0
+2023,HTI,CHL,Haiti,Chile,0,139,139
+2023,HTI,COL,Haiti,Colombia,0,11,11
+2023,HTI,CRI,Haiti,Costa Rica,16,871,887
+2023,HTI,CUB,Haiti,Cuba,6,0,6
+2023,HTI,CYP,Haiti,Cyprus,0,11,11
+2023,HTI,DOM,Haiti,Dominican Republic,530,1759,2289
+2023,HTI,ECU,Haiti,Ecuador,31,5,36
+2023,HTI,FRA,Haiti,France,8527,1561,10088
+2023,HTI,GBR,Haiti,United Kingdom of Great Britain and Northern Ireland,0,5,5
+2023,HTI,DEU,Haiti,Germany,22,47,69
+2023,HTI,GRC,Haiti,Greece,91,42,133
+2023,HTI,GTM,Haiti,Guatemala,0,0,0
+2023,HTI,GUY,Haiti,Guyana,15,11,26
+2023,HTI,HTI,Haiti,Haiti,0,0,0
+2023,HTI,HND,Haiti,Honduras,0,0,0
+2023,HTI,ISR,Haiti,Israel,0,14,14
+2023,HTI,ITA,Haiti,Italy,5,5,10
+2023,HTI,KOR,Haiti,Rep. of Korea,79,26,105
+2023,HTI,LCA,Haiti,Saint Lucia,0,5,5
+2023,HTI,MEX,Haiti,Mexico,6503,78181,84684
+2023,HTI,NLD,Haiti,Netherlands (Kingdom of the),5,15,20
+2023,HTI,PAN,Haiti,Panama,19,0,19
+2023,HTI,PRY,Haiti,Paraguay,0,5,5
+2023,HTI,PER,Haiti,Peru,93,477,570
+2023,HTI,RUS,Haiti,Russian Federation,5,0,5
+2023,HTI,ESP,Haiti,Spain,55,140,195
+2023,HTI,SUR,Haiti,Suriname,0,6,6
+2023,HTI,SWE,Haiti,Sweden,0,5,5
+2023,HTI,CHE,Haiti,Switzerland,9,18,27
+2023,HTI,TTO,Haiti,Trinidad and Tobago,0,25,25
+2023,HTI,URY,Haiti,Uruguay,5,26,31
+2023,HTI,USA,Haiti,United States of America,14447,129075,143522
+2023,HTI,VEN,Haiti,Venezuela,12,0,12
+2022,HTI,AIA,Haiti,Anguilla,0,0,0
+2022,HTI,ATG,Haiti,Antigua and Barbuda,0,0,0
+2022,HTI,ARG,Haiti,Argentina,79,609,688
+2022,HTI,ARM,Haiti,Armenia,0,5,5
+2022,HTI,BEL,Haiti,Belgium,7,20,27
+2022,HTI,BHS,Haiti,Bahamas,0,5,5
+2022,HTI,BRA,Haiti,Brazil,11,34571,34582
+2022,HTI,CAN,Haiti,Canada,2823,11975,14798
+2022,HTI,CYM,Haiti,Cayman Islands,0,0,0
+2022,HTI,CHL,Haiti,Chile,0,202,202
+2022,HTI,COL,Haiti,Colombia,0,7,7
+2022,HTI,CRI,Haiti,Costa Rica,13,886,899
+2022,HTI,CUB,Haiti,Cuba,5,0,5
+2022,HTI,CYP,Haiti,Cyprus,0,17,17
+2022,HTI,DOM,Haiti,Dominican Republic,344,607,951
+2022,HTI,ECU,Haiti,Ecuador,27,7,34
+2022,HTI,FRA,Haiti,France,7239,806,8045
+2022,HTI,GBR,Haiti,United Kingdom of Great Britain and Northern Ireland,0,11,11
+2022,HTI,DEU,Haiti,Germany,13,39,52
+2022,HTI,GRC,Haiti,Greece,60,19,79
+2022,HTI,GTM,Haiti,Guatemala,0,5,5
+2022,HTI,GUY,Haiti,Guyana,5,13,18
+2022,HTI,HND,Haiti,Honduras,0,0,0
+2022,HTI,JAM,Haiti,Jamaica,31,0,31
+2022,HTI,KOR,Haiti,Rep. of Korea,11,168,179
+2022,HTI,MEX,Haiti,Mexico,4964,53374,58338
+2022,HTI,NLD,Haiti,Netherlands (Kingdom of the),0,5,5
+2022,HTI,PAN,Haiti,Panama,19,0,19
+2022,HTI,PRY,Haiti,Paraguay,0,5,5
+2022,HTI,PER,Haiti,Peru,87,77,164
+2022,HTI,PRT,Haiti,Portugal,0,6,6
+2022,HTI,ESP,Haiti,Spain,9,185,194
+2022,HTI,SUR,Haiti,Suriname,0,6,6
+2022,HTI,SWE,Haiti,Sweden,0,5,5
+2022,HTI,CHE,Haiti,Switzerland,0,8,8
+2022,HTI,TTO,Haiti,Trinidad and Tobago,5,16,21
+2022,HTI,URY,Haiti,Uruguay,5,22,27
+2022,HTI,USA,Haiti,United States of America,14538,74297,88835
+2022,HTI,VEN,Haiti,Venezuela,12,0,12
+2019,HND,ARG,Honduras,Argentina,5,17,22
+2019,HND,AUS,Honduras,Australia,5,8,13
+2019,HND,BEL,Honduras,Belgium,17,0,17
+2019,HND,BRA,Honduras,Brazil,5,17,22
+2019,HND,BLZ,Honduras,Belize,5,448,453
+2019,HND,CAN,Honduras,Canada,864,476,1340
+2019,HND,CHL,Honduras,Chile,5,0,5
+2019,HND,COL,Honduras,Colombia,5,0,5
+2019,HND,CRI,Honduras,Costa Rica,189,715,904
+2019,HND,DOM,Honduras,Dominican Republic,0,5,5
+2019,HND,ECU,Honduras,Ecuador,0,5,5
+2019,HND,FIN,Honduras,Finland,13,26,39
+2019,HND,FRA,Honduras,France,20,5,25
+2019,HND,GBR,Honduras,United Kingdom of Great Britain and Northern Ireland,50,203,253
+2019,HND,DEU,Honduras,Germany,68,64,132
+2019,HND,GTM,Honduras,Guatemala,42,147,189
+2019,HND,HND,Honduras,Honduras,0,0,0
+2019,HND,ISL,Honduras,Iceland,0,5,5
+2019,HND,ITA,Honduras,Italy,286,172,458
+2019,HND,MEX,Honduras,Mexico,9257,29507,38764
+2019,HND,NLD,Honduras,Netherlands (Kingdom of the),7,10,17
+2019,HND,NIC,Honduras,Nicaragua,74,26,100
+2019,HND,NOR,Honduras,Norway,5,0,5
+2019,HND,PAN,Honduras,Panama,0,114,114
+2019,HND,PER,Honduras,Peru,0,5,5
+2019,HND,SLV,Honduras,El Salvador,19,8,27
+2019,HND,ESP,Honduras,Spain,281,9085,9366
+2019,HND,SWE,Honduras,Sweden,19,31,50
+2019,HND,CHE,Honduras,Switzerland,0,6,6
+2019,HND,USA,Honduras,United States of America,15110,81375,96485
+2020,HND,ARG,Honduras,Argentina,5,12,17
+2020,HND,AUS,Honduras,Australia,5,5,10
+2020,HND,BEL,Honduras,Belgium,18,20,38
+2020,HND,BRA,Honduras,Brazil,5,17,22
+2020,HND,BLZ,Honduras,Belize,5,485,490
+2020,HND,CAN,Honduras,Canada,905,421,1326
+2020,HND,CHL,Honduras,Chile,5,0,5
+2020,HND,COL,Honduras,Colombia,5,0,5
+2020,HND,CRI,Honduras,Costa Rica,205,702,907
+2020,HND,DOM,Honduras,Dominican Republic,0,5,5
+2020,HND,ECU,Honduras,Ecuador,0,5,5
+2020,HND,FIN,Honduras,Finland,28,6,34
+2020,HND,FRA,Honduras,France,30,5,35
+2020,HND,GBR,Honduras,United Kingdom of Great Britain and Northern Ireland,74,366,440
+2020,HND,DEU,Honduras,Germany,71,65,136
+2020,HND,GTM,Honduras,Guatemala,67,298,365
+2020,HND,HND,Honduras,Honduras,0,0,0
+2020,HND,ISL,Honduras,Iceland,12,0,12
+2020,HND,IRL,Honduras,Ireland,0,5,5
+2020,HND,ISR,Honduras,Israel,0,10,10
+2020,HND,ITA,Honduras,Italy,290,180,470
+2020,HND,MEX,Honduras,Mexico,15676,35871,51547
+2020,HND,NLD,Honduras,Netherlands (Kingdom of the),0,10,10
+2020,HND,NIC,Honduras,Nicaragua,74,26,100
+2020,HND,NOR,Honduras,Norway,5,0,5
+2020,HND,PAN,Honduras,Panama,6,88,94
+2020,HND,PER,Honduras,Peru,0,7,7
+2020,HND,SLV,Honduras,El Salvador,19,12,31
+2020,HND,ESP,Honduras,Spain,974,8685,9659
+2020,HND,SWE,Honduras,Sweden,27,12,39
+2020,HND,CHE,Honduras,Switzerland,5,0,5
+2020,HND,USA,Honduras,United States of America,15940,101617,117557
+2021,HND,ARG,Honduras,Argentina,6,10,16
+2021,HND,AUS,Honduras,Australia,5,6,11
+2021,HND,BEL,Honduras,Belgium,18,25,43
+2021,HND,BRA,Honduras,Brazil,5,15,20
+2021,HND,BLZ,Honduras,Belize,11,433,444
+2021,HND,CAN,Honduras,Canada,975,336,1311
+2021,HND,CHL,Honduras,Chile,5,0,5
+2021,HND,COL,Honduras,Colombia,5,0,5
+2021,HND,CRI,Honduras,Costa Rica,207,966,1173
+2021,HND,DOM,Honduras,Dominican Republic,0,5,5
+2021,HND,FIN,Honduras,Finland,28,17,45
+2021,HND,FRA,Honduras,France,48,6,54
+2021,HND,GBR,Honduras,United Kingdom of Great Britain and Northern Ireland,119,765,884
+2021,HND,DEU,Honduras,Germany,80,75,155
+2021,HND,GTM,Honduras,Guatemala,72,574,646
+2021,HND,HND,Honduras,Honduras,0,0,0
+2021,HND,ISL,Honduras,Iceland,12,0,12
+2021,HND,IRL,Honduras,Ireland,0,6,6
+2021,HND,ISR,Honduras,Israel,0,7,7
+2021,HND,ITA,Honduras,Italy,464,48,512
+2021,HND,MEX,Honduras,Mexico,30787,46081,76868
+2021,HND,NLD,Honduras,Netherlands (Kingdom of the),6,7,13
+2021,HND,NIC,Honduras,Nicaragua,74,26,100
+2021,HND,NOR,Honduras,Norway,5,0,5
+2021,HND,PAN,Honduras,Panama,6,88,94
+2021,HND,PER,Honduras,Peru,0,7,7
+2021,HND,SLV,Honduras,El Salvador,26,11,37
+2021,HND,ESP,Honduras,Spain,1540,6750,8290
+2021,HND,SWE,Honduras,Sweden,29,10,39
+2021,HND,CHE,Honduras,Switzerland,5,7,12
+2021,HND,USA,Honduras,United States of America,17149,113713,130862
+2024,HND,ARG,Honduras,Argentina,5,5,10
+2024,HND,AUS,Honduras,Australia,0,5,5
+2024,HND,BEL,Honduras,Belgium,18,55,73
+2024,HND,BRA,Honduras,Brazil,8,20,28
+2024,HND,BLZ,Honduras,Belize,95,438,533
+2024,HND,CAN,Honduras,Canada,608,462,1070
+2024,HND,CHL,Honduras,Chile,5,0,5
+2024,HND,COL,Honduras,Colombia,5,0,5
+2024,HND,CRI,Honduras,Costa Rica,226,1150,1376
+2024,HND,DOM,Honduras,Dominican Republic,0,5,5
+2024,HND,FIN,Honduras,Finland,47,11,58
+2024,HND,FRA,Honduras,France,69,5,74
+2024,HND,GBR,Honduras,United Kingdom of Great Britain and Northern Ireland,863,685,1548
+2024,HND,DEU,Honduras,Germany,94,115,209
+2024,HND,GTM,Honduras,Guatemala,319,1016,1335
+2024,HND,HND,Honduras,Honduras,0,0,0
+2024,HND,ISL,Honduras,Iceland,8,5,13
+2024,HND,IRL,Honduras,Ireland,17,24,41
+2024,HND,ITA,Honduras,Italy,542,536,1078
+2024,HND,MEX,Honduras,Mexico,72914,62840,135754
+2024,HND,NLD,Honduras,Netherlands (Kingdom of the),13,12,25
+2024,HND,NOR,Honduras,Norway,5,5,10
+2024,HND,PAN,Honduras,Panama,10,29,39
+2024,HND,PER,Honduras,Peru,0,12,12
+2024,HND,SLV,Honduras,El Salvador,34,44,78
+2024,HND,ESP,Honduras,Spain,2563,5425,7988
+2024,HND,SWE,Honduras,Sweden,17,0,17
+2024,HND,CHE,Honduras,Switzerland,5,8,13
+2024,HND,URY,Honduras,Uruguay,0,5,5
+2024,HND,USA,Honduras,United States of America,22479,164784,187263
+2023,HND,ARG,Honduras,Argentina,5,5,10
+2023,HND,BEL,Honduras,Belgium,18,0,18
+2023,HND,BRA,Honduras,Brazil,8,22,30
+2023,HND,BLZ,Honduras,Belize,56,414,470
+2023,HND,CAN,Honduras,Canada,461,359,820
+2023,HND,CHL,Honduras,Chile,5,0,5
+2023,HND,COL,Honduras,Colombia,5,0,5
+2023,HND,CRI,Honduras,Costa Rica,252,1172,1424
+2023,HND,DOM,Honduras,Dominican Republic,0,10,10
+2023,HND,FIN,Honduras,Finland,41,23,64
+2023,HND,FRA,Honduras,France,61,12,73
+2023,HND,GBR,Honduras,United Kingdom of Great Britain and Northern Ireland,519,1487,2006
+2023,HND,DEU,Honduras,Germany,106,83,189
+2023,HND,GTM,Honduras,Guatemala,226,677,903
+2023,HND,HND,Honduras,Honduras,0,0,0
+2023,HND,ISL,Honduras,Iceland,15,5,20
+2023,HND,IRL,Honduras,Ireland,10,17,27
+2023,HND,ISR,Honduras,Israel,0,5,5
+2023,HND,ITA,Honduras,Italy,529,274,803
+2023,HND,MEX,Honduras,Mexico,57661,62643,120304
+2023,HND,NLD,Honduras,Netherlands (Kingdom of the),13,9,22
+2023,HND,NIC,Honduras,Nicaragua,74,26,100
+2023,HND,NOR,Honduras,Norway,6,0,6
+2023,HND,PAN,Honduras,Panama,12,71,83
+2023,HND,PER,Honduras,Peru,0,11,11
+2023,HND,SLV,Honduras,El Salvador,31,20,51
+2023,HND,ESP,Honduras,Spain,2559,6085,8644
+2023,HND,SWE,Honduras,Sweden,26,5,31
+2023,HND,CHE,Honduras,Switzerland,5,8,13
+2023,HND,URY,Honduras,Uruguay,0,5,5
+2023,HND,USA,Honduras,United States of America,21659,143425,165084
+2022,HND,ARG,Honduras,Argentina,5,10,15
+2022,HND,AUS,Honduras,Australia,5,7,12
+2022,HND,BEL,Honduras,Belgium,21,20,41
+2022,HND,BRA,Honduras,Brazil,7,7,14
+2022,HND,BLZ,Honduras,Belize,26,425,451
+2022,HND,CAN,Honduras,Canada,384,352,736
+2022,HND,CHL,Honduras,Chile,5,0,5
+2022,HND,COL,Honduras,Colombia,5,0,5
+2022,HND,CRI,Honduras,Costa Rica,229,1199,1428
+2022,HND,DOM,Honduras,Dominican Republic,0,5,5
+2022,HND,ECU,Honduras,Ecuador,0,5,5
+2022,HND,FIN,Honduras,Finland,36,26,62
+2022,HND,FRA,Honduras,France,60,5,65
+2022,HND,GBR,Honduras,United Kingdom of Great Britain and Northern Ireland,148,1658,1806
+2022,HND,DEU,Honduras,Germany,74,62,136
+2022,HND,GTM,Honduras,Guatemala,145,539,684
+2022,HND,HND,Honduras,Honduras,0,0,0
+2022,HND,ISL,Honduras,Iceland,13,0,13
+2022,HND,IRL,Honduras,Ireland,5,12,17
+2022,HND,ISR,Honduras,Israel,0,5,5
+2022,HND,ITA,Honduras,Italy,493,163,656
+2022,HND,MEX,Honduras,Mexico,41671,56029,97700
+2022,HND,NLD,Honduras,Netherlands (Kingdom of the),14,5,19
+2022,HND,NIC,Honduras,Nicaragua,74,26,100
+2022,HND,NOR,Honduras,Norway,6,0,6
+2022,HND,PAN,Honduras,Panama,6,70,76
+2022,HND,PER,Honduras,Peru,0,8,8
+2022,HND,SLV,Honduras,El Salvador,31,5,36
+2022,HND,ESP,Honduras,Spain,1969,6120,8089
+2022,HND,SWE,Honduras,Sweden,29,33,62
+2022,HND,CHE,Honduras,Switzerland,5,8,13
+2022,HND,USA,Honduras,United States of America,19319,128780,148099
+2019,JAM,ARG,Jamaica,Argentina,11,5,16
+2019,JAM,AUS,Jamaica,Australia,5,0,5
+2019,JAM,BEL,Jamaica,Belgium,5,0,5
+2019,JAM,BRA,Jamaica,Brazil,0,11,11
+2019,JAM,CAN,Jamaica,Canada,879,342,1221
+2019,JAM,CRI,Jamaica,Costa Rica,0,8,8
+2019,JAM,FRA,Jamaica,France,20,0,20
+2019,JAM,GBR,Jamaica,United Kingdom of Great Britain and Northern Ireland,369,169,538
+2019,JAM,DEU,Jamaica,Germany,66,62,128
+2019,JAM,ITA,Jamaica,Italy,5,0,5
+2019,JAM,MEX,Jamaica,Mexico,6,5,11
+2019,JAM,NLD,Jamaica,Netherlands (Kingdom of the),190,10,200
+2019,JAM,PAN,Jamaica,Panama,0,8,8
+2019,JAM,ESP,Jamaica,Spain,32,25,57
+2019,JAM,SWE,Jamaica,Sweden,0,5,5
+2019,JAM,CHE,Jamaica,Switzerland,0,5,5
+2019,JAM,TTO,Jamaica,Trinidad and Tobago,15,94,109
+2019,JAM,USA,Jamaica,United States of America,926,1049,1975
+2020,JAM,ARG,Jamaica,Argentina,12,0,12
+2020,JAM,AUS,Jamaica,Australia,5,0,5
+2020,JAM,BEL,Jamaica,Belgium,5,0,5
+2020,JAM,BHS,Jamaica,Bahamas,5,0,5
+2020,JAM,BRA,Jamaica,Brazil,0,11,11
+2020,JAM,CAN,Jamaica,Canada,896,318,1214
+2020,JAM,CRI,Jamaica,Costa Rica,0,13,13
+2020,JAM,FRA,Jamaica,France,20,0,20
+2020,JAM,GBR,Jamaica,United Kingdom of Great Britain and Northern Ireland,324,212,536
+2020,JAM,DEU,Jamaica,Germany,68,40,108
+2020,JAM,MEX,Jamaica,Mexico,6,5,11
+2020,JAM,NLD,Jamaica,Netherlands (Kingdom of the),187,5,192
+2020,JAM,PAN,Jamaica,Panama,0,5,5
+2020,JAM,ESP,Jamaica,Spain,58,5,63
+2020,JAM,CHE,Jamaica,Switzerland,7,0,7
+2020,JAM,TTO,Jamaica,Trinidad and Tobago,37,124,161
+2020,JAM,USA,Jamaica,United States of America,896,1164,2060
+2021,JAM,ARG,Jamaica,Argentina,13,0,13
+2021,JAM,AUS,Jamaica,Australia,5,0,5
+2021,JAM,BEL,Jamaica,Belgium,5,0,5
+2021,JAM,BHS,Jamaica,Bahamas,5,0,5
+2021,JAM,BRA,Jamaica,Brazil,0,11,11
+2021,JAM,CAN,Jamaica,Canada,824,390,1214
+2021,JAM,CRI,Jamaica,Costa Rica,0,32,32
+2021,JAM,FRA,Jamaica,France,39,0,39
+2021,JAM,GBR,Jamaica,United Kingdom of Great Britain and Northern Ireland,264,201,465
+2021,JAM,DEU,Jamaica,Germany,72,42,114
+2021,JAM,MEX,Jamaica,Mexico,6,14,20
+2021,JAM,NLD,Jamaica,Netherlands (Kingdom of the),179,11,190
+2021,JAM,PAN,Jamaica,Panama,0,5,5
+2021,JAM,ESP,Jamaica,Spain,61,20,81
+2021,JAM,SWE,Jamaica,Sweden,5,0,5
+2021,JAM,CHE,Jamaica,Switzerland,7,0,7
+2021,JAM,TTO,Jamaica,Trinidad and Tobago,42,160,202
+2021,JAM,USA,Jamaica,United States of America,892,1419,2311
+2024,JAM,ARG,Jamaica,Argentina,15,0,15
+2024,JAM,BRB,Jamaica,Barbados,5,8,13
+2024,JAM,BEL,Jamaica,Belgium,10,8,18
+2024,JAM,BHS,Jamaica,Bahamas,0,8,8
+2024,JAM,BRA,Jamaica,Brazil,0,23,23
+2024,JAM,CAN,Jamaica,Canada,810,1042,1852
+2024,JAM,CRI,Jamaica,Costa Rica,0,58,58
+2024,JAM,FRA,Jamaica,France,47,0,47
+2024,JAM,GBR,Jamaica,United Kingdom of Great Britain and Northern Ireland,246,167,413
+2024,JAM,DEU,Jamaica,Germany,99,46,145
+2024,JAM,ISR,Jamaica,Israel,0,5,5
+2024,JAM,ITA,Jamaica,Italy,5,0,5
+2024,JAM,MEX,Jamaica,Mexico,10,56,66
+2024,JAM,NLD,Jamaica,Netherlands (Kingdom of the),114,35,149
+2024,JAM,PAN,Jamaica,Panama,5,7,12
+2024,JAM,PRT,Jamaica,Portugal,11,0,11
+2024,JAM,ESP,Jamaica,Spain,80,25,105
+2024,JAM,SWE,Jamaica,Sweden,5,0,5
+2024,JAM,CHE,Jamaica,Switzerland,7,5,12
+2024,JAM,TTO,Jamaica,Trinidad and Tobago,61,516,577
+2024,JAM,USA,Jamaica,United States of America,1022,7451,8473
+2023,JAM,ARG,Jamaica,Argentina,15,0,15
+2023,JAM,BRB,Jamaica,Barbados,0,5,5
+2023,JAM,BEL,Jamaica,Belgium,10,0,10
+2023,JAM,BRA,Jamaica,Brazil,0,12,12
+2023,JAM,CAN,Jamaica,Canada,439,556,995
+2023,JAM,CRI,Jamaica,Costa Rica,0,53,53
+2023,JAM,FRA,Jamaica,France,45,6,51
+2023,JAM,GBR,Jamaica,United Kingdom of Great Britain and Northern Ireland,261,175,436
+2023,JAM,DEU,Jamaica,Germany,90,32,122
+2023,JAM,ITA,Jamaica,Italy,5,0,5
+2023,JAM,MEX,Jamaica,Mexico,9,44,53
+2023,JAM,NLD,Jamaica,Netherlands (Kingdom of the),132,19,151
+2023,JAM,PAN,Jamaica,Panama,0,5,5
+2023,JAM,PRT,Jamaica,Portugal,10,0,10
+2023,JAM,ESP,Jamaica,Spain,67,30,97
+2023,JAM,SWE,Jamaica,Sweden,5,0,5
+2023,JAM,CHE,Jamaica,Switzerland,8,5,13
+2023,JAM,TTO,Jamaica,Trinidad and Tobago,57,481,538
+2023,JAM,USA,Jamaica,United States of America,975,5641,6616
+2022,JAM,ARG,Jamaica,Argentina,14,0,14
+2022,JAM,AUS,Jamaica,Australia,5,0,5
+2022,JAM,BEL,Jamaica,Belgium,6,5,11
+2022,JAM,BHS,Jamaica,Bahamas,5,0,5
+2022,JAM,BRA,Jamaica,Brazil,0,15,15
+2022,JAM,CAN,Jamaica,Canada,332,480,812
+2022,JAM,CRI,Jamaica,Costa Rica,0,53,53
+2022,JAM,FRA,Jamaica,France,41,0,41
+2022,JAM,GBR,Jamaica,United Kingdom of Great Britain and Northern Ireland,244,198,442
+2022,JAM,DEU,Jamaica,Germany,26,35,61
+2022,JAM,MEX,Jamaica,Mexico,7,37,44
+2022,JAM,NLD,Jamaica,Netherlands (Kingdom of the),152,14,166
+2022,JAM,PAN,Jamaica,Panama,0,5,5
+2022,JAM,PRT,Jamaica,Portugal,12,0,12
+2022,JAM,ESP,Jamaica,Spain,65,15,80
+2022,JAM,SWE,Jamaica,Sweden,5,0,5
+2022,JAM,CHE,Jamaica,Switzerland,8,0,8
+2022,JAM,TTO,Jamaica,Trinidad and Tobago,36,282,318
+2022,JAM,USA,Jamaica,United States of America,900,2206,3106
+2019,NIC,ARG,Nicaragua,Argentina,8,21,29
+2019,NIC,AUT,Nicaragua,Austria,5,0,5
+2019,NIC,BEL,Nicaragua,Belgium,9,17,26
+2019,NIC,BRA,Nicaragua,Brazil,0,37,37
+2019,NIC,BLZ,Nicaragua,Belize,0,5,5
+2019,NIC,CAN,Nicaragua,Canada,203,514,717
+2019,NIC,CHL,Nicaragua,Chile,0,5,5
+2019,NIC,COL,Nicaragua,Colombia,14,0,14
+2019,NIC,CRI,Nicaragua,Costa Rica,1402,43481,44883
+2019,NIC,DNK,Nicaragua,Denmark,0,20,20
+2019,NIC,DOM,Nicaragua,Dominican Republic,0,5,5
+2019,NIC,ECU,Nicaragua,Ecuador,5,6,11
+2019,NIC,FIN,Nicaragua,Finland,30,0,30
+2019,NIC,FRA,Nicaragua,France,31,0,31
+2019,NIC,GBR,Nicaragua,United Kingdom of Great Britain and Northern Ireland,12,86,98
+2019,NIC,DEU,Nicaragua,Germany,5,127,132
+2019,NIC,GTM,Nicaragua,Guatemala,100,203,303
+2019,NIC,HND,Nicaragua,Honduras,46,99,145
+2019,NIC,IRL,Nicaragua,Ireland,0,7,7
+2019,NIC,ITA,Nicaragua,Italy,47,25,72
+2019,NIC,MEX,Nicaragua,Mexico,545,2306,2851
+2019,NIC,NLD,Nicaragua,Netherlands (Kingdom of the),0,49,49
+2019,NIC,NOR,Nicaragua,Norway,0,19,19
+2019,NIC,PAN,Nicaragua,Panama,178,7550,7728
+2019,NIC,PER,Nicaragua,Peru,7,6,13
+2019,NIC,SLV,Nicaragua,El Salvador,9,10,19
+2019,NIC,ESP,Nicaragua,Spain,182,6145,6327
+2019,NIC,SWE,Nicaragua,Sweden,38,238,276
+2019,NIC,CHE,Nicaragua,Switzerland,5,14,19
+2019,NIC,TTO,Nicaragua,Trinidad and Tobago,0,5,5
+2019,NIC,URY,Nicaragua,Uruguay,6,8,14
+2019,NIC,USA,Nicaragua,United States of America,1489,5861,7350
+2020,NIC,ARG,Nicaragua,Argentina,11,19,30
+2020,NIC,AUT,Nicaragua,Austria,5,0,5
+2020,NIC,BEL,Nicaragua,Belgium,16,25,41
+2020,NIC,BRA,Nicaragua,Brazil,0,40,40
+2020,NIC,BLZ,Nicaragua,Belize,0,11,11
+2020,NIC,CAN,Nicaragua,Canada,338,464,802
+2020,NIC,CHL,Nicaragua,Chile,0,5,5
+2020,NIC,COL,Nicaragua,Colombia,9,0,9
+2020,NIC,CRI,Nicaragua,Costa Rica,3811,38700,42511
+2020,NIC,DNK,Nicaragua,Denmark,9,0,9
+2020,NIC,DOM,Nicaragua,Dominican Republic,0,5,5
+2020,NIC,ECU,Nicaragua,Ecuador,5,0,5
+2020,NIC,FIN,Nicaragua,Finland,53,22,75
+2020,NIC,FRA,Nicaragua,France,33,5,38
+2020,NIC,GBR,Nicaragua,United Kingdom of Great Britain and Northern Ireland,36,72,108
+2020,NIC,DEU,Nicaragua,Germany,5,180,185
+2020,NIC,GTM,Nicaragua,Guatemala,61,127,188
+2020,NIC,HND,Nicaragua,Honduras,56,92,148
+2020,NIC,IRL,Nicaragua,Ireland,9,5,14
+2020,NIC,ITA,Nicaragua,Italy,0,23,23
+2020,NIC,MEX,Nicaragua,Mexico,901,2461,3362
+2020,NIC,NLD,Nicaragua,Netherlands (Kingdom of the),14,33,47
+2020,NIC,NOR,Nicaragua,Norway,0,8,8
+2020,NIC,PAN,Nicaragua,Panama,179,5662,5841
+2020,NIC,PER,Nicaragua,Peru,7,8,15
+2020,NIC,SLV,Nicaragua,El Salvador,9,13,22
+2020,NIC,ESP,Nicaragua,Spain,1303,5640,6943
+2020,NIC,SWE,Nicaragua,Sweden,63,72,135
+2020,NIC,CHE,Nicaragua,Switzerland,5,15,20
+2020,NIC,TTO,Nicaragua,Trinidad and Tobago,0,5,5
+2020,NIC,URY,Nicaragua,Uruguay,9,0,9
+2020,NIC,USA,Nicaragua,United States of America,1754,8373,10127
+2021,NIC,ARG,Nicaragua,Argentina,16,15,31
+2021,NIC,AUT,Nicaragua,Austria,5,0,5
+2021,NIC,BEL,Nicaragua,Belgium,26,10,36
+2021,NIC,BRA,Nicaragua,Brazil,21,20,41
+2021,NIC,BLZ,Nicaragua,Belize,5,0,5
+2021,NIC,CAN,Nicaragua,Canada,684,191,875
+2021,NIC,CHL,Nicaragua,Chile,0,5,5
+2021,NIC,COL,Nicaragua,Colombia,10,0,10
+2021,NIC,CRI,Nicaragua,Costa Rica,4027,137274,141301
+2021,NIC,DNK,Nicaragua,Denmark,13,0,13
+2021,NIC,DOM,Nicaragua,Dominican Republic,0,5,5
+2021,NIC,ECU,Nicaragua,Ecuador,5,0,5
+2021,NIC,FIN,Nicaragua,Finland,63,36,99
+2021,NIC,FRA,Nicaragua,France,68,7,75
+2021,NIC,GBR,Nicaragua,United Kingdom of Great Britain and Northern Ireland,54,165,219
+2021,NIC,DEU,Nicaragua,Germany,5,202,207
+2021,NIC,GTM,Nicaragua,Guatemala,70,221,291
+2021,NIC,HND,Nicaragua,Honduras,113,68,181
+2021,NIC,IRL,Nicaragua,Ireland,11,15,26
+2021,NIC,ITA,Nicaragua,Italy,9,5,14
+2021,NIC,MEX,Nicaragua,Mexico,1619,3891,5510
+2021,NIC,NLD,Nicaragua,Netherlands (Kingdom of the),40,5,45
+2021,NIC,NOR,Nicaragua,Norway,10,0,10
+2021,NIC,PAN,Nicaragua,Panama,179,5230,5409
+2021,NIC,PER,Nicaragua,Peru,7,7,14
+2021,NIC,SLV,Nicaragua,El Salvador,22,27,49
+2021,NIC,ESP,Nicaragua,Spain,1797,4805,6602
+2021,NIC,SWE,Nicaragua,Sweden,63,40,103
+2021,NIC,CHE,Nicaragua,Switzerland,7,8,15
+2021,NIC,TTO,Nicaragua,Trinidad and Tobago,0,5,5
+2021,NIC,URY,Nicaragua,Uruguay,9,0,9
+2021,NIC,USA,Nicaragua,United States of America,2083,11762,13845
+2024,NIC,ARG,Nicaragua,Argentina,18,12,30
+2024,NIC,AUT,Nicaragua,Austria,5,5,10
+2024,NIC,BEL,Nicaragua,Belgium,43,34,77
+2024,NIC,BRA,Nicaragua,Brazil,35,22,57
+2024,NIC,BLZ,Nicaragua,Belize,16,6,22
+2024,NIC,CAN,Nicaragua,Canada,930,576,1506
+2024,NIC,CHL,Nicaragua,Chile,0,5,5
+2024,NIC,COL,Nicaragua,Colombia,10,0,10
+2024,NIC,CRI,Nicaragua,Costa Rica,15327,190037,205364
+2024,NIC,DNK,Nicaragua,Denmark,13,0,13
+2024,NIC,DOM,Nicaragua,Dominican Republic,0,5,5
+2024,NIC,ECU,Nicaragua,Ecuador,9,0,9
+2024,NIC,FIN,Nicaragua,Finland,167,33,200
+2024,NIC,FRA,Nicaragua,France,149,10,159
+2024,NIC,GBR,Nicaragua,United Kingdom of Great Britain and Northern Ireland,311,179,490
+2024,NIC,DEU,Nicaragua,Germany,84,387,471
+2024,NIC,GRC,Nicaragua,Greece,5,0,5
+2024,NIC,GTM,Nicaragua,Guatemala,226,519,745
+2024,NIC,HND,Nicaragua,Honduras,155,44,199
+2024,NIC,IRL,Nicaragua,Ireland,98,73,171
+2024,NIC,ITA,Nicaragua,Italy,73,63,136
+2024,NIC,MEX,Nicaragua,Mexico,2838,8817,11655
+2024,NIC,NLD,Nicaragua,Netherlands (Kingdom of the),82,48,130
+2024,NIC,NOR,Nicaragua,Norway,13,29,42
+2024,NIC,PAN,Nicaragua,Panama,61,4940,5001
+2024,NIC,PER,Nicaragua,Peru,6,41,47
+2024,NIC,SLV,Nicaragua,El Salvador,33,67,100
+2024,NIC,ESP,Nicaragua,Spain,3228,5420,8648
+2024,NIC,SWE,Nicaragua,Sweden,117,50,167
+2024,NIC,CHE,Nicaragua,Switzerland,18,7,25
+2024,NIC,URY,Nicaragua,Uruguay,8,5,13
+2024,NIC,USA,Nicaragua,United States of America,5942,144767,150709
+2023,NIC,ARG,Nicaragua,Argentina,18,19,37
+2023,NIC,AUT,Nicaragua,Austria,5,5,10
+2023,NIC,BEL,Nicaragua,Belgium,39,23,62
+2023,NIC,BRA,Nicaragua,Brazil,33,23,56
+2023,NIC,BLZ,Nicaragua,Belize,12,5,17
+2023,NIC,CAN,Nicaragua,Canada,687,676,1363
+2023,NIC,CHL,Nicaragua,Chile,0,5,5
+2023,NIC,COL,Nicaragua,Colombia,10,0,10
+2023,NIC,CRI,Nicaragua,Costa Rica,13326,171169,184495
+2023,NIC,DNK,Nicaragua,Denmark,13,0,13
+2023,NIC,DOM,Nicaragua,Dominican Republic,5,6,11
+2023,NIC,ECU,Nicaragua,Ecuador,7,0,7
+2023,NIC,FIN,Nicaragua,Finland,131,107,238
+2023,NIC,FRA,Nicaragua,France,132,12,144
+2023,NIC,GBR,Nicaragua,United Kingdom of Great Britain and Northern Ireland,191,289,480
+2023,NIC,DEU,Nicaragua,Germany,29,443,472
+2023,NIC,GTM,Nicaragua,Guatemala,167,344,511
+2023,NIC,HND,Nicaragua,Honduras,142,51,193
+2023,NIC,ISL,Nicaragua,Iceland,0,5,5
+2023,NIC,IRL,Nicaragua,Ireland,57,96,153
+2023,NIC,ITA,Nicaragua,Italy,69,44,113
+2023,NIC,MEX,Nicaragua,Mexico,2714,8743,11457
+2023,NIC,NLD,Nicaragua,Netherlands (Kingdom of the),86,48,134
+2023,NIC,NOR,Nicaragua,Norway,12,26,38
+2023,NIC,PAN,Nicaragua,Panama,203,4238,4441
+2023,NIC,PER,Nicaragua,Peru,11,37,48
+2023,NIC,SLV,Nicaragua,El Salvador,30,52,82
+2023,NIC,ESP,Nicaragua,Spain,2602,5545,8147
+2023,NIC,SWE,Nicaragua,Sweden,118,88,206
+2023,NIC,CHE,Nicaragua,Switzerland,19,11,30
+2023,NIC,URY,Nicaragua,Uruguay,8,5,13
+2023,NIC,USA,Nicaragua,United States of America,4607,115917,120524
+2022,NIC,ARG,Nicaragua,Argentina,17,17,34
+2022,NIC,AUT,Nicaragua,Austria,5,5,10
+2022,NIC,BEL,Nicaragua,Belgium,28,25,53
+2022,NIC,BRA,Nicaragua,Brazil,29,14,43
+2022,NIC,BLZ,Nicaragua,Belize,7,0,7
+2022,NIC,CAN,Nicaragua,Canada,451,702,1153
+2022,NIC,CHL,Nicaragua,Chile,0,5,5
+2022,NIC,COL,Nicaragua,Colombia,10,0,10
+2022,NIC,CRI,Nicaragua,Costa Rica,7083,217125,224208
+2022,NIC,DNK,Nicaragua,Denmark,13,0,13
+2022,NIC,DOM,Nicaragua,Dominican Republic,0,6,6
+2022,NIC,ECU,Nicaragua,Ecuador,7,0,7
+2022,NIC,FIN,Nicaragua,Finland,112,74,186
+2022,NIC,FRA,Nicaragua,France,96,30,126
+2022,NIC,GBR,Nicaragua,United Kingdom of Great Britain and Northern Ireland,73,315,388
+2022,NIC,DEU,Nicaragua,Germany,8,383,391
+2022,NIC,GTM,Nicaragua,Guatemala,104,248,352
+2022,NIC,HND,Nicaragua,Honduras,125,56,181
+2022,NIC,IRL,Nicaragua,Ireland,34,54,88
+2022,NIC,ITA,Nicaragua,Italy,15,30,45
+2022,NIC,MEX,Nicaragua,Mexico,2081,10297,12378
+2022,NIC,NLD,Nicaragua,Netherlands (Kingdom of the),58,55,113
+2022,NIC,NOR,Nicaragua,Norway,10,5,15
+2022,NIC,PAN,Nicaragua,Panama,184,4277,4461
+2022,NIC,PER,Nicaragua,Peru,10,0,10
+2022,NIC,SLV,Nicaragua,El Salvador,29,20,49
+2022,NIC,ESP,Nicaragua,Spain,2195,4860,7055
+2022,NIC,SWE,Nicaragua,Sweden,70,164,234
+2022,NIC,CHE,Nicaragua,Switzerland,9,9,18
+2022,NIC,URY,Nicaragua,Uruguay,9,5,14
+2022,NIC,USA,Nicaragua,United States of America,3215,38882,42097
+2019,PAN,BRA,Panama,Brazil,0,9,9
+2019,PAN,CAN,Panama,Canada,22,18,40
+2019,PAN,CRI,Panama,Costa Rica,5,13,18
+2019,PAN,ECU,Panama,Ecuador,0,5,5
+2019,PAN,MEX,Panama,Mexico,5,11,16
+2019,PAN,PER,Panama,Peru,0,9,9
+2019,PAN,ESP,Panama,Spain,0,70,70
+2019,PAN,USA,Panama,United States of America,13,105,118
+2020,PAN,BRA,Panama,Brazil,0,8,8
+2020,PAN,CAN,Panama,Canada,21,0,21
+2020,PAN,CRI,Panama,Costa Rica,5,17,22
+2020,PAN,MEX,Panama,Mexico,20,58,78
+2020,PAN,PER,Panama,Peru,0,11,11
+2020,PAN,ESP,Panama,Spain,12,95,107
+2020,PAN,USA,Panama,United States of America,12,126,138
+2021,PAN,BRA,Panama,Brazil,0,9,9
+2021,PAN,CAN,Panama,Canada,24,14,38
+2021,PAN,CRI,Panama,Costa Rica,6,56,62
+2021,PAN,ECU,Panama,Ecuador,5,0,5
+2021,PAN,DEU,Panama,Germany,0,5,5
+2021,PAN,GTM,Panama,Guatemala,0,5,5
+2021,PAN,MEX,Panama,Mexico,53,106,159
+2021,PAN,PAN,Panama,Panama,0,0,0
+2021,PAN,PER,Panama,Peru,0,11,11
+2021,PAN,ESP,Panama,Spain,19,120,139
+2021,PAN,USA,Panama,United States of America,11,186,197
+2024,PAN,BRA,Panama,Brazil,0,8,8
+2024,PAN,CAN,Panama,Canada,57,125,182
+2024,PAN,CRI,Panama,Costa Rica,15,126,141
+2024,PAN,ECU,Panama,Ecuador,5,0,5
+2024,PAN,GBR,Panama,United Kingdom of Great Britain and Northern Ireland,0,14,14
+2024,PAN,DEU,Panama,Germany,7,16,23
+2024,PAN,ISL,Panama,Iceland,5,0,5
+2024,PAN,IRL,Panama,Ireland,5,22,27
+2024,PAN,ITA,Panama,Italy,5,26,31
+2024,PAN,MEX,Panama,Mexico,81,192,273
+2024,PAN,NLD,Panama,Netherlands (Kingdom of the),0,6,6
+2024,PAN,PAN,Panama,Panama,0,0,0
+2024,PAN,PER,Panama,Peru,0,19,19
+2024,PAN,ESP,Panama,Spain,116,230,346
+2024,PAN,CHE,Panama,Switzerland,0,5,5
+2024,PAN,USA,Panama,United States of America,37,1838,1875
+2023,PAN,BRA,Panama,Brazil,0,6,6
+2023,PAN,CAN,Panama,Canada,12,106,118
+2023,PAN,CRI,Panama,Costa Rica,6,105,111
+2023,PAN,ECU,Panama,Ecuador,5,0,5
+2023,PAN,GBR,Panama,United Kingdom of Great Britain and Northern Ireland,0,10,10
+2023,PAN,DEU,Panama,Germany,5,18,23
+2023,PAN,ISL,Panama,Iceland,5,0,5
+2023,PAN,IRL,Panama,Ireland,0,11,11
+2023,PAN,ITA,Panama,Italy,5,9,14
+2023,PAN,MEX,Panama,Mexico,77,182,259
+2023,PAN,NOR,Panama,Norway,0,5,5
+2023,PAN,PAN,Panama,Panama,0,0,0
+2023,PAN,PER,Panama,Peru,0,18,18
+2023,PAN,ESP,Panama,Spain,90,195,285
+2023,PAN,USA,Panama,United States of America,28,1226,1254
+2022,PAN,BEL,Panama,Belgium,0,5,5
+2022,PAN,BRA,Panama,Brazil,0,7,7
+2022,PAN,CAN,Panama,Canada,5,53,58
+2022,PAN,CRI,Panama,Costa Rica,6,99,105
+2022,PAN,ECU,Panama,Ecuador,5,0,5
+2022,PAN,GBR,Panama,United Kingdom of Great Britain and Northern Ireland,0,6,6
+2022,PAN,DEU,Panama,Germany,0,15,15
+2022,PAN,ISL,Panama,Iceland,5,0,5
+2022,PAN,IRL,Panama,Ireland,0,7,7
+2022,PAN,ITA,Panama,Italy,0,6,6
+2022,PAN,MEX,Panama,Mexico,65,184,249
+2022,PAN,PAN,Panama,Panama,0,0,0
+2022,PAN,PER,Panama,Peru,0,11,11
+2022,PAN,ESP,Panama,Spain,35,120,155
+2022,PAN,USA,Panama,United States of America,19,504,523
+2024,PRI,MEX,Puerto Rico,Mexico,0,5,5
+2023,PRI,MEX,Puerto Rico,Mexico,0,5,5
+2019,SLV,ARG,El Salvador,Argentina,32,42,74
+2019,SLV,AUS,El Salvador,Australia,8,26,34
+2019,SLV,BEL,El Salvador,Belgium,389,162,551
+2019,SLV,BRA,El Salvador,Brazil,60,0,60
+2019,SLV,BLZ,El Salvador,Belize,24,1259,1283
+2019,SLV,CAN,El Salvador,Canada,1547,700,2247
+2019,SLV,CHL,El Salvador,Chile,9,27,36
+2019,SLV,COL,El Salvador,Colombia,11,0,11
+2019,SLV,CRI,El Salvador,Costa Rica,1155,854,2009
+2019,SLV,DNK,El Salvador,Denmark,5,6,11
+2019,SLV,ECU,El Salvador,Ecuador,33,10,43
+2019,SLV,FIN,El Salvador,Finland,10,5,15
+2019,SLV,FRA,El Salvador,France,66,6,72
+2019,SLV,GBR,El Salvador,United Kingdom of Great Britain and Northern Ireland,304,998,1302
+2019,SLV,DEU,El Salvador,Germany,85,41,126
+2019,SLV,GRC,El Salvador,Greece,12,0,12
+2019,SLV,GTM,El Salvador,Guatemala,230,175,405
+2019,SLV,HND,El Salvador,Honduras,22,5,27
+2019,SLV,ISL,El Salvador,Iceland,16,0,16
+2019,SLV,IRL,El Salvador,Ireland,5,18,23
+2019,SLV,ITA,El Salvador,Italy,3291,1136,4427
+2019,SLV,MEX,El Salvador,Mexico,7244,9563,16807
+2019,SLV,MLT,El Salvador,Malta,0,5,5
+2019,SLV,NLD,El Salvador,Netherlands (Kingdom of the),0,34,34
+2019,SLV,NIC,El Salvador,Nicaragua,219,100,319
+2019,SLV,NOR,El Salvador,Norway,10,0,10
+2019,SLV,NZL,El Salvador,New Zealand,5,0,5
+2019,SLV,PAN,El Salvador,Panama,344,1357,1701
+2019,SLV,PRY,El Salvador,Paraguay,13,0,13
+2019,SLV,PER,El Salvador,Peru,6,8,14
+2019,SLV,SLV,El Salvador,El Salvador,0,0,0
+2019,SLV,ESP,El Salvador,Spain,274,6095,6369
+2019,SLV,SWE,El Salvador,Sweden,127,215,342
+2019,SLV,CHE,El Salvador,Switzerland,7,8,15
+2019,SLV,URY,El Salvador,Uruguay,37,18,55
+2019,SLV,USA,El Salvador,United States of America,26216,113404,139620
+2020,SLV,ARG,El Salvador,Argentina,46,34,80
+2020,SLV,AUS,El Salvador,Australia,10,30,40
+2020,SLV,BEL,El Salvador,Belgium,442,1570,2012
+2020,SLV,BRA,El Salvador,Brazil,59,5,64
+2020,SLV,BLZ,El Salvador,Belize,24,1309,1333
+2020,SLV,CAN,El Salvador,Canada,1540,570,2110
+2020,SLV,CHL,El Salvador,Chile,9,27,36
+2020,SLV,COL,El Salvador,Colombia,11,0,11
+2020,SLV,CRI,El Salvador,Costa Rica,1384,141,1525
+2020,SLV,DNK,El Salvador,Denmark,5,0,5
+2020,SLV,ECU,El Salvador,Ecuador,23,8,31
+2020,SLV,FIN,El Salvador,Finland,10,5,15
+2020,SLV,FRA,El Salvador,France,75,7,82
+2020,SLV,GBR,El Salvador,United Kingdom of Great Britain and Northern Ireland,551,1598,2149
+2020,SLV,DEU,El Salvador,Germany,121,43,164
+2020,SLV,GRC,El Salvador,Greece,12,0,12
+2020,SLV,GTM,El Salvador,Guatemala,265,222,487
+2020,SLV,HND,El Salvador,Honduras,22,9,31
+2020,SLV,ISL,El Salvador,Iceland,18,0,18
+2020,SLV,IRL,El Salvador,Ireland,13,28,41
+2020,SLV,ITA,El Salvador,Italy,2826,1298,4124
+2020,SLV,MEX,El Salvador,Mexico,9231,10793,20024
+2020,SLV,MLT,El Salvador,Malta,0,5,5
+2020,SLV,NLD,El Salvador,Netherlands (Kingdom of the),5,48,53
+2020,SLV,NIC,El Salvador,Nicaragua,210,100,310
+2020,SLV,NOR,El Salvador,Norway,10,0,10
+2020,SLV,NZL,El Salvador,New Zealand,5,0,5
+2020,SLV,PAN,El Salvador,Panama,363,972,1335
+2020,SLV,PRY,El Salvador,Paraguay,13,5,18
+2020,SLV,PER,El Salvador,Peru,9,5,14
+2020,SLV,SLV,El Salvador,El Salvador,0,0,0
+2020,SLV,ESP,El Salvador,Spain,698,4370,5068
+2020,SLV,SWE,El Salvador,Sweden,146,74,220
+2020,SLV,CHE,El Salvador,Switzerland,8,5,13
+2020,SLV,URY,El Salvador,Uruguay,42,13,55
+2020,SLV,USA,El Salvador,United States of America,27434,126248,153682
+2021,SLV,ARG,El Salvador,Argentina,47,36,83
+2021,SLV,AUS,El Salvador,Australia,12,30,42
+2021,SLV,BEL,El Salvador,Belgium,542,595,1137
+2021,SLV,BRA,El Salvador,Brazil,59,6,65
+2021,SLV,BLZ,El Salvador,Belize,70,1156,1226
+2021,SLV,CAN,El Salvador,Canada,1604,431,2035
+2021,SLV,CHL,El Salvador,Chile,9,27,36
+2021,SLV,COL,El Salvador,Colombia,7,5,12
+2021,SLV,CRI,El Salvador,Costa Rica,1529,53,1582
+2021,SLV,DNK,El Salvador,Denmark,5,0,5
+2021,SLV,ECU,El Salvador,Ecuador,27,5,32
+2021,SLV,FIN,El Salvador,Finland,10,5,15
+2021,SLV,FRA,El Salvador,France,111,5,116
+2021,SLV,GBR,El Salvador,United Kingdom of Great Britain and Northern Ireland,820,2287,3107
+2021,SLV,DEU,El Salvador,Germany,143,65,208
+2021,SLV,GRC,El Salvador,Greece,12,0,12
+2021,SLV,GTM,El Salvador,Guatemala,278,485,763
+2021,SLV,HND,El Salvador,Honduras,22,0,22
+2021,SLV,ISL,El Salvador,Iceland,20,0,20
+2021,SLV,IRL,El Salvador,Ireland,34,42,76
+2021,SLV,ITA,El Salvador,Italy,3718,634,4352
+2021,SLV,MEX,El Salvador,Mexico,12265,11443,23708
+2021,SLV,MLT,El Salvador,Malta,0,5,5
+2021,SLV,NLD,El Salvador,Netherlands (Kingdom of the),38,30,68
+2021,SLV,NIC,El Salvador,Nicaragua,212,100,312
+2021,SLV,NOR,El Salvador,Norway,9,0,9
+2021,SLV,PAN,El Salvador,Panama,363,952,1315
+2021,SLV,PRY,El Salvador,Paraguay,12,5,17
+2021,SLV,PER,El Salvador,Peru,10,5,15
+2021,SLV,SLV,El Salvador,El Salvador,0,0,0
+2021,SLV,ESP,El Salvador,Spain,859,3540,4399
+2021,SLV,SWE,El Salvador,Sweden,142,43,185
+2021,SLV,CHE,El Salvador,Switzerland,8,5,13
+2021,SLV,URY,El Salvador,Uruguay,48,7,55
+2021,SLV,USA,El Salvador,United States of America,28996,131244,160240
+2024,SLV,ARG,El Salvador,Argentina,55,18,73
+2024,SLV,AUS,El Salvador,Australia,0,24,24
+2024,SLV,BEL,El Salvador,Belgium,445,410,855
+2024,SLV,BRA,El Salvador,Brazil,41,27,68
+2024,SLV,BLZ,El Salvador,Belize,156,1125,1281
+2024,SLV,CAN,El Salvador,Canada,831,298,1129
+2024,SLV,CHL,El Salvador,Chile,9,27,36
+2024,SLV,COL,El Salvador,Colombia,7,0,7
+2024,SLV,CRI,El Salvador,Costa Rica,1370,1153,2523
+2024,SLV,DNK,El Salvador,Denmark,5,0,5
+2024,SLV,ECU,El Salvador,Ecuador,38,0,38
+2024,SLV,FIN,El Salvador,Finland,5,5,10
+2024,SLV,FRA,El Salvador,France,172,5,177
+2024,SLV,GBR,El Salvador,United Kingdom of Great Britain and Northern Ireland,3690,237,3927
+2024,SLV,DEU,El Salvador,Germany,272,200,472
+2024,SLV,GRC,El Salvador,Greece,5,5,10
+2024,SLV,GTM,El Salvador,Guatemala,569,567,1136
+2024,SLV,HND,El Salvador,Honduras,27,0,27
+2024,SLV,ISL,El Salvador,Iceland,7,5,12
+2024,SLV,IRL,El Salvador,Ireland,210,273,483
+2024,SLV,ITA,El Salvador,Italy,4266,2326,6592
+2024,SLV,LUX,El Salvador,Luxembourg,0,5,5
+2024,SLV,MEX,El Salvador,Mexico,21016,12056,33072
+2024,SLV,NLD,El Salvador,Netherlands (Kingdom of the),81,45,126
+2024,SLV,NOR,El Salvador,Norway,18,14,32
+2024,SLV,PAN,El Salvador,Panama,733,178,911
+2024,SLV,PRY,El Salvador,Paraguay,12,0,12
+2024,SLV,PER,El Salvador,Peru,10,23,33
+2024,SLV,SLV,El Salvador,El Salvador,0,0,0
+2024,SLV,ESP,El Salvador,Spain,1723,2245,3968
+2024,SLV,SWE,El Salvador,Sweden,157,17,174
+2024,SLV,CHE,El Salvador,Switzerland,21,14,35
+2024,SLV,URY,El Salvador,Uruguay,48,12,60
+2024,SLV,USA,El Salvador,United States of America,35766,115460,151226
+2023,SLV,ARG,El Salvador,Argentina,50,32,82
+2023,SLV,AUS,El Salvador,Australia,0,22,22
+2023,SLV,BEL,El Salvador,Belgium,517,365,882
+2023,SLV,BRA,El Salvador,Brazil,34,27,61
+2023,SLV,BLZ,El Salvador,Belize,140,1131,1271
+2023,SLV,CAN,El Salvador,Canada,673,298,971
+2023,SLV,CHL,El Salvador,Chile,9,27,36
+2023,SLV,COL,El Salvador,Colombia,7,0,7
+2023,SLV,CRI,El Salvador,Costa Rica,1638,84,1722
+2023,SLV,DNK,El Salvador,Denmark,5,0,5
+2023,SLV,ECU,El Salvador,Ecuador,27,0,27
+2023,SLV,FIN,El Salvador,Finland,10,16,26
+2023,SLV,FRA,El Salvador,France,141,31,172
+2023,SLV,GBR,El Salvador,United Kingdom of Great Britain and Northern Ireland,3610,307,3917
+2023,SLV,DEU,El Salvador,Germany,266,249,515
+2023,SLV,GRC,El Salvador,Greece,11,5,16
+2023,SLV,GTM,El Salvador,Guatemala,469,455,924
+2023,SLV,HND,El Salvador,Honduras,26,5,31
+2023,SLV,ISL,El Salvador,Iceland,25,10,35
+2023,SLV,IRL,El Salvador,Ireland,150,238,388
+2023,SLV,ITA,El Salvador,Italy,4197,1418,5615
+2023,SLV,LUX,El Salvador,Luxembourg,0,5,5
+2023,SLV,MEX,El Salvador,Mexico,18996,11548,30544
+2023,SLV,NLD,El Salvador,Netherlands (Kingdom of the),94,66,160
+2023,SLV,NIC,El Salvador,Nicaragua,210,98,308
+2023,SLV,NOR,El Salvador,Norway,15,11,26
+2023,SLV,PAN,El Salvador,Panama,443,823,1266
+2023,SLV,PRY,El Salvador,Paraguay,12,0,12
+2023,SLV,PER,El Salvador,Peru,10,22,32
+2023,SLV,SLV,El Salvador,El Salvador,0,0,0
+2023,SLV,ESP,El Salvador,Spain,1576,3205,4781
+2023,SLV,SWE,El Salvador,Sweden,125,57,182
+2023,SLV,CHE,El Salvador,Switzerland,16,26,42
+2023,SLV,URY,El Salvador,Uruguay,48,13,61
+2023,SLV,USA,El Salvador,United States of America,35083,112448,147531
+2022,SLV,ARG,El Salvador,Argentina,50,35,85
+2022,SLV,AUS,El Salvador,Australia,14,29,43
+2022,SLV,BEL,El Salvador,Belgium,526,425,951
+2022,SLV,BRA,El Salvador,Brazil,62,5,67
+2022,SLV,BLZ,El Salvador,Belize,112,1137,1249
+2022,SLV,CAN,El Salvador,Canada,630,369,999
+2022,SLV,CHL,El Salvador,Chile,9,27,36
+2022,SLV,COL,El Salvador,Colombia,7,0,7
+2022,SLV,CRI,El Salvador,Costa Rica,1637,188,1825
+2022,SLV,DNK,El Salvador,Denmark,5,0,5
+2022,SLV,ECU,El Salvador,Ecuador,27,7,34
+2022,SLV,FIN,El Salvador,Finland,10,17,27
+2022,SLV,FRA,El Salvador,France,126,22,148
+2022,SLV,GBR,El Salvador,United Kingdom of Great Britain and Northern Ireland,1168,2709,3877
+2022,SLV,DEU,El Salvador,Germany,210,153,363
+2022,SLV,GRC,El Salvador,Greece,12,0,12
+2022,SLV,GTM,El Salvador,Guatemala,366,475,841
+2022,SLV,HND,El Salvador,Honduras,26,13,39
+2022,SLV,ISL,El Salvador,Iceland,25,5,30
+2022,SLV,IRL,El Salvador,Ireland,121,129,250
+2022,SLV,ITA,El Salvador,Italy,4084,1083,5167
+2022,SLV,LUX,El Salvador,Luxembourg,0,10,10
+2022,SLV,MEX,El Salvador,Mexico,15125,14206,29331
+2022,SLV,NLD,El Salvador,Netherlands (Kingdom of the),84,74,158
+2022,SLV,NIC,El Salvador,Nicaragua,211,98,309
+2022,SLV,NOR,El Salvador,Norway,10,10,20
+2022,SLV,PAN,El Salvador,Panama,393,860,1253
+2022,SLV,PRY,El Salvador,Paraguay,12,5,17
+2022,SLV,PER,El Salvador,Peru,10,0,10
+2022,SLV,SLV,El Salvador,El Salvador,0,0,0
+2022,SLV,ESP,El Salvador,Spain,1209,3765,4974
+2022,SLV,SWE,El Salvador,Sweden,138,108,246
+2022,SLV,CHE,El Salvador,Switzerland,11,13,24
+2022,SLV,URY,El Salvador,Uruguay,48,6,54
+2022,SLV,USA,El Salvador,United States of America,32143,122775,154918
+2019,SUR,BRA,Suriname,Brazil,0,17,17
+2019,SUR,CAN,Suriname,Canada,0,7,7
+2019,SUR,FRA,Suriname,France,5,6,11
+2019,SUR,NLD,Suriname,Netherlands (Kingdom of the),0,5,5
+2019,SUR,USA,Suriname,United States of America,12,37,49
+2020,SUR,BEL,Suriname,Belgium,0,60,60
+2020,SUR,BRA,Suriname,Brazil,0,22,22
+2020,SUR,FRA,Suriname,France,5,7,12
+2020,SUR,NLD,Suriname,Netherlands (Kingdom of the),0,13,13
+2020,SUR,USA,Suriname,United States of America,12,44,56
+2021,SUR,BEL,Suriname,Belgium,0,15,15
+2021,SUR,BRA,Suriname,Brazil,0,23,23
+2021,SUR,CAN,Suriname,Canada,0,5,5
+2021,SUR,FRA,Suriname,France,11,17,28
+2021,SUR,USA,Suriname,United States of America,11,58,69
+2024,SUR,BEL,Suriname,Belgium,0,36,36
+2024,SUR,BRA,Suriname,Brazil,0,46,46
+2024,SUR,CAN,Suriname,Canada,7,9,16
+2024,SUR,FRA,Suriname,France,24,15,39
+2024,SUR,MEX,Suriname,Mexico,0,21,21
+2024,SUR,NLD,Suriname,Netherlands (Kingdom of the),7,10,17
+2024,SUR,URY,Suriname,Uruguay,0,9,9
+2024,SUR,USA,Suriname,United States of America,12,105,117
+2023,SUR,BEL,Suriname,Belgium,0,35,35
+2023,SUR,BRA,Suriname,Brazil,0,27,27
+2023,SUR,CAN,Suriname,Canada,6,5,11
+2023,SUR,FRA,Suriname,France,17,7,24
+2023,SUR,MEX,Suriname,Mexico,0,22,22
+2023,SUR,NLD,Suriname,Netherlands (Kingdom of the),7,5,12
+2023,SUR,SUR,Suriname,Suriname,0,0,0
+2023,SUR,URY,Suriname,Uruguay,0,5,5
+2023,SUR,USA,Suriname,United States of America,12,73,85
+2022,SUR,BEL,Suriname,Belgium,0,20,20
+2022,SUR,BRA,Suriname,Brazil,0,30,30
+2022,SUR,CAN,Suriname,Canada,0,10,10
+2022,SUR,FRA,Suriname,France,14,10,24
+2022,SUR,MEX,Suriname,Mexico,0,12,12
+2022,SUR,NLD,Suriname,Netherlands (Kingdom of the),9,7,16
+2022,SUR,SUR,Suriname,Suriname,0,0,0
+2022,SUR,USA,Suriname,United States of America,12,58,70
+2019,TTO,BRB,Trinidad and Tobago,Barbados,0,5,5
+2019,TTO,BRA,Trinidad and Tobago,Brazil,0,7,7
+2019,TTO,CAN,Trinidad and Tobago,Canada,87,53,140
+2019,TTO,GBR,Trinidad and Tobago,United Kingdom of Great Britain and Northern Ireland,89,92,181
+2019,TTO,DEU,Trinidad and Tobago,Germany,5,5,10
+2019,TTO,IRL,Trinidad and Tobago,Ireland,0,5,5
+2019,TTO,NLD,Trinidad and Tobago,Netherlands (Kingdom of the),77,12,89
+2019,TTO,ESP,Trinidad and Tobago,Spain,0,5,5
+2019,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,0,0,0
+2019,TTO,USA,Trinidad and Tobago,United States of America,49,224,273
+2020,TTO,BRA,Trinidad and Tobago,Brazil,0,7,7
+2020,TTO,CAN,Trinidad and Tobago,Canada,66,47,113
+2020,TTO,GBR,Trinidad and Tobago,United Kingdom of Great Britain and Northern Ireland,97,106,203
+2020,TTO,DEU,Trinidad and Tobago,Germany,5,10,15
+2020,TTO,IRL,Trinidad and Tobago,Ireland,0,5,5
+2020,TTO,NLD,Trinidad and Tobago,Netherlands (Kingdom of the),80,5,85
+2020,TTO,ESP,Trinidad and Tobago,Spain,5,0,5
+2020,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,0,0,0
+2020,TTO,USA,Trinidad and Tobago,United States of America,42,234,276
+2021,TTO,BRA,Trinidad and Tobago,Brazil,0,7,7
+2021,TTO,CAN,Trinidad and Tobago,Canada,51,37,88
+2021,TTO,GBR,Trinidad and Tobago,United Kingdom of Great Britain and Northern Ireland,99,154,253
+2021,TTO,DEU,Trinidad and Tobago,Germany,7,5,12
+2021,TTO,NLD,Trinidad and Tobago,Netherlands (Kingdom of the),83,12,95
+2021,TTO,ESP,Trinidad and Tobago,Spain,5,5,10
+2021,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,0,0,0
+2021,TTO,USA,Trinidad and Tobago,United States of America,40,288,328
+2024,TTO,BEL,Trinidad and Tobago,Belgium,0,7,7
+2024,TTO,BRA,Trinidad and Tobago,Brazil,6,27,33
+2024,TTO,CAN,Trinidad and Tobago,Canada,123,201,324
+2024,TTO,GBR,Trinidad and Tobago,United Kingdom of Great Britain and Northern Ireland,206,469,675
+2024,TTO,DEU,Trinidad and Tobago,Germany,9,11,20
+2024,TTO,IRL,Trinidad and Tobago,Ireland,0,5,5
+2024,TTO,ITA,Trinidad and Tobago,Italy,0,5,5
+2024,TTO,MEX,Trinidad and Tobago,Mexico,5,12,17
+2024,TTO,NLD,Trinidad and Tobago,Netherlands (Kingdom of the),79,19,98
+2024,TTO,ESP,Trinidad and Tobago,Spain,9,10,19
+2024,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,0,0,0
+2024,TTO,USA,Trinidad and Tobago,United States of America,37,344,381
+2023,TTO,BRA,Trinidad and Tobago,Brazil,0,28,28
+2023,TTO,CAN,Trinidad and Tobago,Canada,55,96,151
+2023,TTO,GBR,Trinidad and Tobago,United Kingdom of Great Britain and Northern Ireland,146,368,514
+2023,TTO,DEU,Trinidad and Tobago,Germany,9,7,16
+2023,TTO,MEX,Trinidad and Tobago,Mexico,5,8,13
+2023,TTO,NLD,Trinidad and Tobago,Netherlands (Kingdom of the),88,13,101
+2023,TTO,ESP,Trinidad and Tobago,Spain,9,5,14
+2023,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,0,0,0
+2023,TTO,USA,Trinidad and Tobago,United States of America,39,294,333
+2022,TTO,BEL,Trinidad and Tobago,Belgium,0,10,10
+2022,TTO,BRA,Trinidad and Tobago,Brazil,0,13,13
+2022,TTO,CAN,Trinidad and Tobago,Canada,48,77,125
+2022,TTO,GBR,Trinidad and Tobago,United Kingdom of Great Britain and Northern Ireland,105,226,331
+2022,TTO,DEU,Trinidad and Tobago,Germany,5,0,5
+2022,TTO,IRL,Trinidad and Tobago,Ireland,0,5,5
+2022,TTO,MEX,Trinidad and Tobago,Mexico,5,5,10
+2022,TTO,NLD,Trinidad and Tobago,Netherlands (Kingdom of the),94,15,109
+2022,TTO,ESP,Trinidad and Tobago,Spain,5,10,15
+2022,TTO,TTO,Trinidad and Tobago,Trinidad and Tobago,0,0,0
+2022,TTO,USA,Trinidad and Tobago,United States of America,34,266,300
+2019,VEN,ABW,Venezuela,Aruba,0,398,398
+2019,VEN,AIA,Venezuela,Anguilla,0,0,0
+2019,VEN,ALB,Venezuela,Albania,5,0,5
+2019,VEN,ARG,Venezuela,Argentina,309,2717,3026
+2019,VEN,AUS,Venezuela,Australia,72,274,346
+2019,VEN,AUT,Venezuela,Austria,31,29,60
+2019,VEN,BRB,Venezuela,Barbados,0,5,5
+2019,VEN,BEL,Venezuela,Belgium,273,322,595
+2019,VEN,BOL,Venezuela,Bolivia (Plurinational State of),0,235,235
+2019,VEN,BRA,Venezuela,Brazil,20941,103657,124598
+2019,VEN,CAN,Venezuela,Canada,3067,1388,4455
+2019,VEN,CYM,Venezuela,Cayman Islands,0,0,0
+2019,VEN,CHL,Venezuela,Chile,14,2768,2782
+2019,VEN,COL,Venezuela,Colombia,425,8824,9249
+2019,VEN,CRI,Venezuela,Costa Rica,577,6809,7386
+2019,VEN,CUW,Venezuela,Curacao ,14,296,310
+2019,VEN,CYP,Venezuela,Cyprus,0,5,5
+2019,VEN,CZE,Venezuela,Czechia,0,35,35
+2019,VEN,DNK,Venezuela,Denmark,5,14,19
+2019,VEN,DOM,Venezuela,Dominican Republic,0,246,246
+2019,VEN,ECU,Venezuela,Ecuador,374,14442,14816
+2019,VEN,FIN,Venezuela,Finland,7,13,20
+2019,VEN,FRA,Venezuela,France,551,676,1227
+2019,VEN,GBR,Venezuela,United Kingdom of Great Britain and Northern Ireland,51,42,93
+2019,VEN,DEU,Venezuela,Germany,320,923,1243
+2019,VEN,GRC,Venezuela,Greece,6,34,40
+2019,VEN,GTM,Venezuela,Guatemala,23,49,72
+2019,VEN,GUY,Venezuela,Guyana,0,0,0
+2019,VEN,HND,Venezuela,Honduras,7,0,7
+2019,VEN,ISL,Venezuela,Iceland,164,32,196
+2019,VEN,IND,Venezuela,India,0,9,9
+2019,VEN,IRL,Venezuela,Ireland,46,104,150
+2019,VEN,ISR,Venezuela,Israel,0,5,5
+2019,VEN,ITA,Venezuela,Italy,1988,580,2568
+2019,VEN,JAM,Venezuela,Jamaica,0,0,0
+2019,VEN,JOR,Venezuela,Jordan,0,5,5
+2019,VEN,KOR,Venezuela,Rep. of Korea,0,14,14
+2019,VEN,LUX,Venezuela,Luxembourg,15,55,70
+2019,VEN,MEX,Venezuela,Mexico,8781,8614,17395
+2019,VEN,MLT,Venezuela,Malta,5,65,70
+2019,VEN,NLD,Venezuela,Netherlands (Kingdom of the),13,207,220
+2019,VEN,NOR,Venezuela,Norway,15,24,39
+2019,VEN,PAN,Venezuela,Panama,61,3724,3785
+2019,VEN,PRY,Venezuela,Paraguay,750,8,758
+2019,VEN,PER,Venezuela,Peru,1230,482571,483801
+2019,VEN,POL,Venezuela,Poland,0,5,5
+2019,VEN,PRT,Venezuela,Portugal,0,67,67
+2019,VEN,ESP,Venezuela,Spain,35243,33960,69203
+2019,VEN,SUR,Venezuela,Suriname,8,215,223
+2019,VEN,SWE,Venezuela,Sweden,13,220,233
+2019,VEN,CHE,Venezuela,Switzerland,15,49,64
+2019,VEN,TTO,Venezuela,Trinidad and Tobago,2040,14296,16336
+2019,VEN,URY,Venezuela,Uruguay,74,472,546
+2019,VEN,USA,Venezuela,United States of America,15706,104989,120695
+2019,VEN,VCT,Venezuela,Saint Vincent and the Grenadines,0,0,0
+2019,VEN,VEN,Venezuela,Venezuela,0,0,0
+2020,VEN,ABW,Venezuela,Aruba,0,0,0
+2020,VEN,AIA,Venezuela,Anguilla,0,0,0
+2020,VEN,ALB,Venezuela,Albania,5,0,5
+2020,VEN,ARG,Venezuela,Argentina,312,3826,4138
+2020,VEN,AUS,Venezuela,Australia,139,310,449
+2020,VEN,AUT,Venezuela,Austria,61,34,95
+2020,VEN,BRB,Venezuela,Barbados,0,5,5
+2020,VEN,BEL,Venezuela,Belgium,399,505,904
+2020,VEN,BOL,Venezuela,Bolivia (Plurinational State of),242,157,399
+2020,VEN,BRA,Venezuela,Brazil,46675,90934,137609
+2020,VEN,BGR,Venezuela,Bulgaria,0,5,5
+2020,VEN,CAN,Venezuela,Canada,3524,1000,4524
+2020,VEN,CYM,Venezuela,Cayman Islands,0,0,0
+2020,VEN,CHL,Venezuela,Chile,14,2763,2777
+2020,VEN,COL,Venezuela,Colombia,771,19587,20358
+2020,VEN,CRI,Venezuela,Costa Rica,1266,5422,6688
+2020,VEN,CUW,Venezuela,Curacao ,24,285,309
+2020,VEN,CZE,Venezuela,Czechia,5,13,18
+2020,VEN,DNK,Venezuela,Denmark,5,11,16
+2020,VEN,DOM,Venezuela,Dominican Republic,0,275,275
+2020,VEN,ECU,Venezuela,Ecuador,410,13648,14058
+2020,VEN,FIN,Venezuela,Finland,7,9,16
+2020,VEN,FRA,Venezuela,France,778,748,1526
+2020,VEN,GBR,Venezuela,United Kingdom of Great Britain and Northern Ireland,61,41,102
+2020,VEN,DEU,Venezuela,Germany,757,748,1505
+2020,VEN,GRC,Venezuela,Greece,13,20,33
+2020,VEN,GRD,Venezuela,Grenada,0,0,0
+2020,VEN,GTM,Venezuela,Guatemala,27,76,103
+2020,VEN,GUY,Venezuela,Guyana,0,0,0
+2020,VEN,HND,Venezuela,Honduras,7,5,12
+2020,VEN,ISL,Venezuela,Iceland,294,10,304
+2020,VEN,IND,Venezuela,India,5,6,11
+2020,VEN,IDN,Venezuela,Indonesia,0,5,5
+2020,VEN,IRL,Venezuela,Ireland,101,90,191
+2020,VEN,ISR,Venezuela,Israel,0,5,5
+2020,VEN,ITA,Venezuela,Italy,2119,780,2899
+2020,VEN,JAM,Venezuela,Jamaica,0,0,0
+2020,VEN,JOR,Venezuela,Jordan,0,5,5
+2020,VEN,KOR,Venezuela,Rep. of Korea,0,11,11
+2020,VEN,LBN,Venezuela,Lebanon,0,5,5
+2020,VEN,LUX,Venezuela,Luxembourg,5,74,79
+2020,VEN,MEX,Venezuela,Mexico,13014,7362,20376
+2020,VEN,MNE,Venezuela,Montenegro,0,5,5
+2020,VEN,MLT,Venezuela,Malta,6,68,74
+2020,VEN,NLD,Venezuela,Netherlands (Kingdom of the),30,197,227
+2020,VEN,NOR,Venezuela,Norway,15,0,15
+2020,VEN,PAN,Venezuela,Panama,65,2596,2661
+2020,VEN,PRY,Venezuela,Paraguay,1251,795,2046
+2020,VEN,PER,Venezuela,Peru,2628,532303,534931
+2020,VEN,POL,Venezuela,Poland,0,5,5
+2020,VEN,PRT,Venezuela,Portugal,0,76,76
+2020,VEN,SLV,Venezuela,El Salvador,0,16,16
+2020,VEN,ESP,Venezuela,Spain,75640,19065,94705
+2020,VEN,KNA,Venezuela,Saint Kitts and Nevis,0,0,0
+2020,VEN,SUR,Venezuela,Suriname,12,267,279
+2020,VEN,SWE,Venezuela,Sweden,28,94,122
+2020,VEN,CHE,Venezuela,Switzerland,39,23,62
+2020,VEN,SXM,Venezuela,Sint Maarten (Dutch part),0,8,8
+2020,VEN,TTO,Venezuela,Trinidad and Tobago,2841,16664,19505
+2020,VEN,URY,Venezuela,Uruguay,225,636,861
+2020,VEN,USA,Venezuela,United States of America,17292,129667,146959
+2020,VEN,VCT,Venezuela,Saint Vincent and the Grenadines,0,0,0
+2020,VEN,VEN,Venezuela,Venezuela,0,0,0
+2021,VEN,ABW,Venezuela,Aruba,0,0,0
+2021,VEN,AIA,Venezuela,Anguilla,0,0,0
+2021,VEN,ALB,Venezuela,Albania,5,0,5
+2021,VEN,ARG,Venezuela,Argentina,315,5580,5895
+2021,VEN,AUS,Venezuela,Australia,143,336,479
+2021,VEN,AUT,Venezuela,Austria,83,32,115
+2021,VEN,BRB,Venezuela,Barbados,0,5,5
+2021,VEN,BEL,Venezuela,Belgium,479,250,729
+2021,VEN,BOL,Venezuela,Bolivia (Plurinational State of),243,0,243
+2021,VEN,BRA,Venezuela,Brazil,48931,85738,134669
+2021,VEN,BGR,Venezuela,Bulgaria,0,5,5
+2021,VEN,CAN,Venezuela,Canada,4108,748,4856
+2021,VEN,CYM,Venezuela,Cayman Islands,0,0,0
+2021,VEN,CHL,Venezuela,Chile,22,4714,4736
+2021,VEN,COL,Venezuela,Colombia,1297,28785,30082
+2021,VEN,CRI,Venezuela,Costa Rica,1492,7288,8780
+2021,VEN,CUW,Venezuela,Curacao ,0,0,0
+2021,VEN,CZE,Venezuela,Czechia,7,8,15
+2021,VEN,DNK,Venezuela,Denmark,5,0,5
+2021,VEN,DOM,Venezuela,Dominican Republic,0,278,278
+2021,VEN,ECU,Venezuela,Ecuador,798,4255,5053
+2021,VEN,FIN,Venezuela,Finland,7,6,13
+2021,VEN,FRA,Venezuela,France,1232,425,1657
+2021,VEN,GBR,Venezuela,United Kingdom of Great Britain and Northern Ireland,67,31,98
+2021,VEN,DEU,Venezuela,Germany,1113,728,1841
+2021,VEN,GRC,Venezuela,Greece,14,5,19
+2021,VEN,GRD,Venezuela,Grenada,0,0,0
+2021,VEN,GTM,Venezuela,Guatemala,36,126,162
+2021,VEN,GUY,Venezuela,Guyana,0,0,0
+2021,VEN,HND,Venezuela,Honduras,9,16,25
+2021,VEN,ISL,Venezuela,Iceland,429,190,619
+2021,VEN,IND,Venezuela,India,5,6,11
+2021,VEN,IDN,Venezuela,Indonesia,0,5,5
+2021,VEN,IRL,Venezuela,Ireland,140,61,201
+2021,VEN,ISR,Venezuela,Israel,0,5,5
+2021,VEN,ITA,Venezuela,Italy,2906,391,3297
+2021,VEN,JAM,Venezuela,Jamaica,0,0,0
+2021,VEN,JOR,Venezuela,Jordan,0,5,5
+2021,VEN,KGZ,Venezuela,Kyrgyzstan,0,5,5
+2021,VEN,KOR,Venezuela,Rep. of Korea,0,12,12
+2021,VEN,LBN,Venezuela,Lebanon,0,5,5
+2021,VEN,LUX,Venezuela,Luxembourg,8,100,108
+2021,VEN,MEX,Venezuela,Mexico,16585,9212,25797
+2021,VEN,MNE,Venezuela,Montenegro,0,5,5
+2021,VEN,MLT,Venezuela,Malta,24,58,82
+2021,VEN,NLD,Venezuela,Netherlands (Kingdom of the),107,67,174
+2021,VEN,NOR,Venezuela,Norway,19,22,41
+2021,VEN,NZL,Venezuela,New Zealand,5,0,5
+2021,VEN,PAN,Venezuela,Panama,61,2453,2514
+2021,VEN,PRY,Venezuela,Paraguay,3412,440,3852
+2021,VEN,PER,Venezuela,Peru,4098,531822,535920
+2021,VEN,POL,Venezuela,Poland,17,0,17
+2021,VEN,PRT,Venezuela,Portugal,0,76,76
+2021,VEN,SLV,Venezuela,El Salvador,12,13,25
+2021,VEN,ESP,Venezuela,Spain,88492,19205,107697
+2021,VEN,KNA,Venezuela,Saint Kitts and Nevis,0,0,0
+2021,VEN,SUR,Venezuela,Suriname,12,331,343
+2021,VEN,SWE,Venezuela,Sweden,41,41,82
+2021,VEN,CHE,Venezuela,Switzerland,53,45,98
+2021,VEN,SXM,Venezuela,Sint Maarten (Dutch part),0,41,41
+2021,VEN,TTO,Venezuela,Trinidad and Tobago,3221,18322,21543
+2021,VEN,URY,Venezuela,Uruguay,414,2064,2478
+2021,VEN,USA,Venezuela,United States of America,18735,246745,265480
+2021,VEN,VCT,Venezuela,Saint Vincent and the Grenadines,0,0,0
+2021,VEN,VEN,Venezuela,Venezuela,0,0,0
+2024,VEN,ABW,Venezuela,Aruba,0,0,0
+2024,VEN,ALB,Venezuela,Albania,5,0,5
+2024,VEN,ARG,Venezuela,Argentina,333,667,1000
+2024,VEN,AUS,Venezuela,Australia,134,227,361
+2024,VEN,AUT,Venezuela,Austria,177,104,281
+2024,VEN,BEL,Venezuela,Belgium,497,879,1376
+2024,VEN,BOL,Venezuela,Bolivia (Plurinational State of),240,0,240
+2024,VEN,BRA,Venezuela,Brazil,141269,21194,162463
+2024,VEN,CAN,Venezuela,Canada,3578,3281,6859
+2024,VEN,CYM,Venezuela,Cayman Islands,0,0,0
+2024,VEN,CHL,Venezuela,Chile,93,8895,8988
+2024,VEN,COL,Venezuela,Colombia,1070,28294,29364
+2024,VEN,CRI,Venezuela,Costa Rica,5585,10476,16061
+2024,VEN,CUW,Venezuela,Curacao ,0,0,0
+2024,VEN,CZE,Venezuela,Czechia,12,16,28
+2024,VEN,DNK,Venezuela,Denmark,5,5,10
+2024,VEN,DOM,Venezuela,Dominican Republic,0,206,206
+2024,VEN,ECU,Venezuela,Ecuador,2493,3188,5681
+2024,VEN,FIN,Venezuela,Finland,11,50,61
+2024,VEN,FRA,Venezuela,France,2575,463,3038
+2024,VEN,GBR,Venezuela,United Kingdom of Great Britain and Northern Ireland,88,29,117
+2024,VEN,DEU,Venezuela,Germany,2741,5639,8380
+2024,VEN,GRC,Venezuela,Greece,11,18,29
+2024,VEN,GTM,Venezuela,Guatemala,142,702,844
+2024,VEN,GUY,Venezuela,Guyana,0,11,11
+2024,VEN,HND,Venezuela,Honduras,10,61,71
+2024,VEN,HRV,Venezuela,Croatia,0,6,6
+2024,VEN,HUN,Venezuela,Hungary,5,0,5
+2024,VEN,ISL,Venezuela,Iceland,1340,655,1995
+2024,VEN,IND,Venezuela,India,5,5,10
+2024,VEN,IRL,Venezuela,Ireland,160,35,195
+2024,VEN,ITA,Venezuela,Italy,4406,3276,7682
+2024,VEN,LUX,Venezuela,Luxembourg,5,330,335
+2024,VEN,MEX,Venezuela,Mexico,24384,17284,41668
+2024,VEN,MLT,Venezuela,Malta,7,65,72
+2024,VEN,NLD,Venezuela,Netherlands (Kingdom of the),294,387,681
+2024,VEN,NOR,Venezuela,Norway,66,171,237
+2024,VEN,NZL,Venezuela,New Zealand,5,5,10
+2024,VEN,PAN,Venezuela,Panama,93,965,1058
+2024,VEN,PRY,Venezuela,Paraguay,4730,850,5580
+2024,VEN,PER,Venezuela,Peru,4942,522732,527674
+2024,VEN,POL,Venezuela,Poland,20,11,31
+2024,VEN,PRT,Venezuela,Portugal,5,116,121
+2024,VEN,SLV,Venezuela,El Salvador,13,30,43
+2024,VEN,ESP,Venezuela,Spain,136485,84905,221390
+2024,VEN,SUR,Venezuela,Suriname,12,482,494
+2024,VEN,SWE,Venezuela,Sweden,62,38,100
+2024,VEN,CHE,Venezuela,Switzerland,99,136,235
+2024,VEN,SXM,Venezuela,Sint Maarten (Dutch part),0,124,124
+2024,VEN,TTO,Venezuela,Trinidad and Tobago,3035,18538,21573
+2024,VEN,URY,Venezuela,Uruguay,799,4416,5215
+2024,VEN,USA,Venezuela,United States of America,28128,620074,648202
+2024,VEN,VEN,Venezuela,Venezuela,0,0,0
+2023,VEN,ABW,Venezuela,Aruba,0,0,0
+2023,VEN,ALB,Venezuela,Albania,5,0,5
+2023,VEN,ARG,Venezuela,Argentina,316,1885,2201
+2023,VEN,AUS,Venezuela,Australia,470,190,660
+2023,VEN,AUT,Venezuela,Austria,131,82,213
+2023,VEN,BRB,Venezuela,Barbados,0,5,5
+2023,VEN,BEL,Venezuela,Belgium,511,640,1151
+2023,VEN,BOL,Venezuela,Bolivia (Plurinational State of),240,7,247
+2023,VEN,BRA,Venezuela,Brazil,128570,18848,147418
+2023,VEN,BGR,Venezuela,Bulgaria,0,5,5
+2023,VEN,CAN,Venezuela,Canada,1706,3226,4932
+2023,VEN,CYM,Venezuela,Cayman Islands,0,0,0
+2023,VEN,CHL,Venezuela,Chile,68,8627,8695
+2023,VEN,COL,Venezuela,Colombia,1134,23449,24583
+2023,VEN,CRI,Venezuela,Costa Rica,4752,8774,13526
+2023,VEN,CUW,Venezuela,Curacao ,0,0,0
+2023,VEN,CZE,Venezuela,Czechia,11,18,29
+2023,VEN,DNK,Venezuela,Denmark,5,0,5
+2023,VEN,DOM,Venezuela,Dominican Republic,184,2116,2300
+2023,VEN,ECU,Venezuela,Ecuador,1979,3525,5504
+2023,VEN,FIN,Venezuela,Finland,8,50,58
+2023,VEN,FRA,Venezuela,France,2126,530,2656
+2023,VEN,GBR,Venezuela,United Kingdom of Great Britain and Northern Ireland,94,21,115
+2023,VEN,DEU,Venezuela,Germany,1968,4710,6678
+2023,VEN,GRC,Venezuela,Greece,15,11,26
+2023,VEN,GTM,Venezuela,Guatemala,95,307,402
+2023,VEN,GUY,Venezuela,Guyana,0,7,7
+2023,VEN,HND,Venezuela,Honduras,9,24,33
+2023,VEN,ISL,Venezuela,Iceland,1221,2028,3249
+2023,VEN,IND,Venezuela,India,5,5,10
+2023,VEN,IDN,Venezuela,Indonesia,0,5,5
+2023,VEN,IRL,Venezuela,Ireland,182,33,215
+2023,VEN,ITA,Venezuela,Italy,4158,1615,5773
+2023,VEN,LUX,Venezuela,Luxembourg,8,270,278
+2023,VEN,MEX,Venezuela,Mexico,23745,15610,39355
+2023,VEN,MLT,Venezuela,Malta,22,16,38
+2023,VEN,NLD,Venezuela,Netherlands (Kingdom of the),267,253,520
+2023,VEN,NOR,Venezuela,Norway,58,166,224
+2023,VEN,NZL,Venezuela,New Zealand,5,0,5
+2023,VEN,PAN,Venezuela,Panama,94,791,885
+2023,VEN,PRY,Venezuela,Paraguay,4675,719,5394
+2023,VEN,PER,Venezuela,Peru,4906,493476,498382
+2023,VEN,POL,Venezuela,Poland,23,5,28
+2023,VEN,PRT,Venezuela,Portugal,5,41,46
+2023,VEN,SLV,Venezuela,El Salvador,13,95,108
+2023,VEN,ESP,Venezuela,Spain,133714,54495,188209
+2023,VEN,SUR,Venezuela,Suriname,12,441,453
+2023,VEN,SWE,Venezuela,Sweden,53,56,109
+2023,VEN,CHE,Venezuela,Switzerland,87,91,178
+2023,VEN,SXM,Venezuela,Sint Maarten (Dutch part),0,115,115
+2023,VEN,TTO,Venezuela,Trinidad and Tobago,2945,25367,28312
+2023,VEN,URY,Venezuela,Uruguay,774,3537,4311
+2023,VEN,USA,Venezuela,United States of America,26326,523843,550169
+2023,VEN,VEN,Venezuela,Venezuela,0,0,0
+2022,VEN,ABW,Venezuela,Aruba,0,0,0
+2022,VEN,AIA,Venezuela,Anguilla,0,0,0
+2022,VEN,ALB,Venezuela,Albania,5,0,5
+2022,VEN,ATG,Venezuela,Antigua and Barbuda,0,0,0
+2022,VEN,ARG,Venezuela,Argentina,316,5560,5876
+2022,VEN,AUS,Venezuela,Australia,240,264,504
+2022,VEN,AUT,Venezuela,Austria,104,57,161
+2022,VEN,BEL,Venezuela,Belgium,513,345,858
+2022,VEN,BOL,Venezuela,Bolivia (Plurinational State of),243,0,243
+2022,VEN,BRA,Venezuela,Brazil,53307,97155,150462
+2022,VEN,CAN,Venezuela,Canada,1497,2104,3601
+2022,VEN,CYM,Venezuela,Cayman Islands,0,0,0
+2022,VEN,CHL,Venezuela,Chile,30,7548,7578
+2022,VEN,COL,Venezuela,Colombia,1381,22345,23726
+2022,VEN,CRI,Venezuela,Costa Rica,1990,11519,13509
+2022,VEN,CUW,Venezuela,Curacao ,0,0,0
+2022,VEN,CZE,Venezuela,Czechia,11,0,11
+2022,VEN,DNK,Venezuela,Denmark,5,7,12
+2022,VEN,DOM,Venezuela,Dominican Republic,191,1370,1561
+2022,VEN,ECU,Venezuela,Ecuador,1540,5370,6910
+2022,VEN,FIN,Venezuela,Finland,5,17,22
+2022,VEN,FRA,Venezuela,France,1681,511,2192
+2022,VEN,GBR,Venezuela,United Kingdom of Great Britain and Northern Ireland,67,43,110
+2022,VEN,DEU,Venezuela,Germany,1221,1952,3173
+2022,VEN,GRC,Venezuela,Greece,15,0,15
+2022,VEN,GRD,Venezuela,Grenada,0,0,0
+2022,VEN,GTM,Venezuela,Guatemala,59,166,225
+2022,VEN,GUY,Venezuela,Guyana,0,7,7
+2022,VEN,HND,Venezuela,Honduras,9,29,38
+2022,VEN,ISL,Venezuela,Iceland,1156,612,1768
+2022,VEN,IND,Venezuela,India,5,6,11
+2022,VEN,IDN,Venezuela,Indonesia,0,5,5
+2022,VEN,IRL,Venezuela,Ireland,184,26,210
+2022,VEN,ITA,Venezuela,Italy,3426,1084,4510
+2022,VEN,JAM,Venezuela,Jamaica,0,0,0
+2022,VEN,JOR,Venezuela,Jordan,0,5,5
+2022,VEN,KGZ,Venezuela,Kyrgyzstan,0,5,5
+2022,VEN,LUX,Venezuela,Luxembourg,8,180,188
+2022,VEN,MEX,Venezuela,Mexico,20263,18069,38332
+2022,VEN,MLT,Venezuela,Malta,24,43,67
+2022,VEN,NLD,Venezuela,Netherlands (Kingdom of the),189,200,389
+2022,VEN,NOR,Venezuela,Norway,28,91,119
+2022,VEN,NZL,Venezuela,New Zealand,5,0,5
+2022,VEN,PAN,Venezuela,Panama,71,860,931
+2022,VEN,PRY,Venezuela,Paraguay,4315,450,4765
+2022,VEN,PER,Venezuela,Peru,4763,531788,536551
+2022,VEN,POL,Venezuela,Poland,22,0,22
+2022,VEN,PRT,Venezuela,Portugal,5,27,32
+2022,VEN,SLV,Venezuela,El Salvador,12,6,18
+2022,VEN,ESP,Venezuela,Spain,105054,34390,139444
+2022,VEN,KNA,Venezuela,Saint Kitts and Nevis,0,0,0
+2022,VEN,SUR,Venezuela,Suriname,13,430,443
+2022,VEN,SWE,Venezuela,Sweden,41,59,100
+2022,VEN,CHE,Venezuela,Switzerland,77,61,138
+2022,VEN,SXM,Venezuela,Sint Maarten (Dutch part),0,122,122
+2022,VEN,TTO,Venezuela,Trinidad and Tobago,3098,18038,21136
+2022,VEN,URY,Venezuela,Uruguay,621,2850,3471
+2022,VEN,USA,Venezuela,United States of America,22583,371386,393969
+2022,VEN,VCT,Venezuela,Saint Vincent and the Grenadines,0,0,0
+2022,VEN,VEN,Venezuela,Venezuela,0,0,0

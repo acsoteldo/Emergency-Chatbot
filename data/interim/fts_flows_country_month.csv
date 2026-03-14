@@ -1,0 +1,743 @@
+iso3,year,month,country_role,funding_usd,flow_count,has_cerf,has_echo,sector_mix
+BHS,2019,3,tier1,19800,1,0,0,Education
+BHS,2019,9,tier1,1202150,2,1,0,Protection | Unearmarked
+BHS,2019,10,tier1,1233277,5,1,0,Coordination and support services | Emergency Shelter and NFI | Food Security | Unearmarked
+BHS,2020,1,tier1,142679,1,0,0,Unearmarked
+BHS,2020,8,tier1,286286,1,0,0,Health
+BHS,2021,4,tier1,174091,1,0,0,Health
+BHS,2023,9,tier1,373731,1,0,0,Multi-sector
+BHS,2024,6,tier1,4627282,1,0,0,Other
+BHS,2024,11,tier1,515693,1,0,0,Multi-sector
+BLZ,2020,5,tier1,32635,1,0,0,Unearmarked
+BLZ,2020,7,tier1,300000,1,0,0,COVID-19
+BLZ,2020,8,tier1,286286,1,0,0,Health
+BLZ,2020,11,tier1,124500,2,0,0,Unearmarked
+BLZ,2022,2,tier1,11616379,2,0,0,Health | Protection
+BLZ,2022,5,tier1,1000000,1,0,0,Multi-sector
+BLZ,2022,6,tier1,1850000,2,0,0,Multi-sector | Protection - Gender-Based Violence
+BLZ,2022,11,tier1,23493,1,0,0,Emergency Shelter and NFI
+BLZ,2023,3,tier1,100000,1,0,0,Multi-sector
+BLZ,2023,4,tier1,3480525,1,0,0,Emergency Shelter and NFI
+BLZ,2023,5,tier1,1799297,4,0,1,Education | Multi-sector | Protection | Unearmarked
+BLZ,2023,6,tier1,50000,1,0,0,Protection - Gender-Based Violence
+BLZ,2023,7,tier1,2072062,6,0,0,Education | Health | Nutrition | Protection | Protection - Child Protection
+BLZ,2023,9,tier1,900000,1,0,0,Multi-sector
+BLZ,2023,12,tier1,431916,1,0,0,Multi-sector
+BLZ,2024,2,tier1,957396,1,0,0,Unearmarked
+BLZ,2024,3,tier1,1327471,2,0,0,Unearmarked
+BLZ,2024,5,tier1,899999,4,0,0,Education | Health | Multi-sector | Protection - Child Protection
+BLZ,2024,6,tier1,4677283,3,0,0,Other | Protection - Gender-Based Violence | Unearmarked
+BLZ,2024,8,tier1,1100000,1,0,0,Multi-sector
+BLZ,2024,9,tier1,399915,1,0,0,Multi-sector
+BLZ,2024,10,tier1,1129908,1,0,0,Unearmarked
+BLZ,2024,11,tier1,1750000,1,0,0,Multi-sector
+BRB,2019,3,tier1,19800,1,0,0,Education
+BRB,2020,4,tier1,858836,3,0,0,Education | Multi-sector | Water Sanitation Hygiene
+BRB,2020,8,tier1,550286,1,0,0,Health
+BRB,2020,11,tier1,366282,1,0,0,Unearmarked
+BRB,2022,2,tier1,10000000,1,0,0,Health
+BRB,2022,3,tier1,12250712,1,0,0,Food Security
+BRB,2022,6,tier1,894200,1,0,0,Health
+BRB,2022,7,tier1,150000,1,0,0,Food Security
+BRB,2023,4,tier1,200000,2,0,0,Early Recovery | Protection - Child Protection
+BRB,2023,6,tier1,302111,2,0,1,Education | Health
+BRB,2024,6,tier1,5113550,2,0,0,Coordination and support services | Other
+BRB,2024,9,tier1,30816,1,0,0,Multi-sector
+BRB,2024,10,tier1,149394,1,0,0,Education
+BRB,2024,11,tier1,150000,1,0,0,Multi-sector
+COL,2019,1,pressure,3415960,13,0,1,Multi-sector
+COL,2019,2,pressure,24851424,29,0,1,Coordination and support services | Health | Multi-sector | Unearmarked
+COL,2019,3,pressure,25202067,19,0,0,Coordination and support services | Food Security | Health | Multi-sector | Unearmarked
+COL,2019,4,pressure,36057512,36,1,1,Education | Food Security | Health | Multi-sector | Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2019,5,pressure,10337158,10,0,0,Multi-sector | Protection - Mine Action | Unearmarked
+COL,2019,6,pressure,36435545,40,1,1,Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2019,7,pressure,20977040,18,0,1,Education | Multi-sector | Protection - Mine Action | Unearmarked
+COL,2019,8,pressure,21920240,8,0,0,Multi-sector | Protection - Gender-Based Violence
+COL,2019,9,pressure,11029333,10,1,1,Agriculture | Coordination and support services | Education | Multi-sector | Protection | Unearmarked
+COL,2019,10,pressure,14623717,8,1,1,Coordination and support services | Health | Multi-sector | Protection
+COL,2019,11,pressure,900758,3,0,0,Health | Unearmarked
+COL,2019,12,pressure,680278,3,0,0,Coordination and support services | Multi-sector
+COL,2020,1,pressure,9377705,49,0,1,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Nutrition | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+COL,2020,2,pressure,6225478,24,0,1,Early Recovery | Emergency Shelter and NFI | Food Security | Health | Logistics | Multi-sector | Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2020,3,pressure,26691145,23,0,0,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Unearmarked | Water Sanitation Hygiene
+COL,2020,4,pressure,19855922,29,1,1,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Nutrition | Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2020,5,pressure,51035100,17,0,0,COVID-19 | Health | Multi-sector | Protection | Protection - Child Protection | Unearmarked
+COL,2020,6,pressure,87462527,66,0,1,COVID-19 | Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2020,7,pressure,48278689,20,0,1,Food Security | Health | Multi-sector | Other | Protection | Unearmarked
+COL,2020,8,pressure,16334008,9,0,0,Education | Health | Multi-sector | Protection
+COL,2020,9,pressure,15784933,18,0,1,Early Recovery | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Unearmarked | Water Sanitation Hygiene
+COL,2020,10,pressure,5785592,17,1,0,Education | Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2020,11,pressure,47005321,32,1,0,Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Mine Action | Unearmarked
+COL,2020,12,pressure,13012995,20,1,0,Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Unearmarked | Water Sanitation Hygiene
+COL,2021,1,pressure,42447416,50,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2021,2,pressure,13007278,24,0,1,Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2021,3,pressure,17092745,38,1,0,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Nutrition | Protection | Protection - Child Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2021,4,pressure,9910095,31,1,1,Coordination and support services | Early Recovery | Food Security | Health | Multi-sector | Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2021,5,pressure,2078202,15,0,1,Early Recovery | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Nutrition | Protection | Protection - Child Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2021,6,pressure,117532308,128,1,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Multi-sector | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2021,7,pressure,64971636,28,1,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Multi-sector | Protection | Protection - Child Protection | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2021,8,pressure,14284186,11,1,0,Coordination and support services | Early Recovery | Education | Health | Protection | Protection - Gender-Based Violence | Unearmarked
+COL,2021,9,pressure,31765447,17,0,0,Early Recovery | Education | Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked
+COL,2021,10,pressure,26044652,12,1,0,Coordination and support services | Early Recovery | Education | Food Security | Health | Multi-sector | Protection | Unearmarked | Water Sanitation Hygiene
+COL,2021,11,pressure,8415603,18,0,1,Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Protection | Unearmarked | Water Sanitation Hygiene
+COL,2021,12,pressure,10408791,9,0,0,Coordination and support services | Early Recovery | Multi-sector | Other | Protection - Mine Action | Unearmarked
+COL,2022,1,pressure,121090248,41,0,0,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Unearmarked | Water Sanitation Hygiene
+COL,2022,2,pressure,19480545,16,0,0,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Multipurpose Cash | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+COL,2022,3,pressure,13547439,20,0,0,Coordination and support services | Early Recovery | Food Security | Health | Multipurpose Cash | Nutrition | Protection | Protection - Child Protection | Unearmarked
+COL,2022,4,pressure,16238308,16,0,0,Early Recovery | Education | Food Security | Health | Multipurpose Cash | Protection | Unearmarked
+COL,2022,5,pressure,5507379,16,1,1,Education | Emergency Shelter and NFI | Food Security | Health | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+COL,2022,6,pressure,81349642,118,1,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Multipurpose Cash | Nutrition | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2022,7,pressure,15589867,10,0,0,Coordination and support services | Education | Food Security | Health | Protection | Protection - Gender-Based Violence | Unearmarked
+COL,2022,8,pressure,24510613,25,1,0,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Multipurpose Cash | Protection | Protection - Human Trafficking & Smuggling | Unearmarked | Water Sanitation Hygiene
+COL,2022,9,pressure,89487823,36,0,0,Early Recovery | Emergency Shelter and NFI | Health | Logistics | Multipurpose Cash | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+COL,2022,10,pressure,1850944,10,0,0,Coordination and support services | Early Recovery | Education | Food Security | Health | Nutrition | Protection | Protection - Gender-Based Violence
+COL,2022,11,pressure,11787291,13,0,0,Early Recovery | Emergency Shelter and NFI | Food Security | Health | Multipurpose Cash | Protection | Protection - Gender-Based Violence | Protection - Mine Action
+COL,2022,12,pressure,5200662,16,0,1,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Multipurpose Cash | Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+COL,2023,1,pressure,11288642,13,0,0,Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Protection | Unearmarked | Water Sanitation Hygiene
+COL,2023,2,pressure,25521320,7,0,0,Food Security | Health | Multi-sector | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Mine Action | Water Sanitation Hygiene
+COL,2023,3,pressure,3491818,13,0,0,Coordination and support services | Education | Logistics | Multipurpose Cash | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling
+COL,2023,4,pressure,13195533,20,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Multipurpose Cash | Nutrition | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2023,5,pressure,41353747,32,0,1,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Multipurpose Cash | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Mine Action | Water Sanitation Hygiene
+COL,2023,6,pressure,130568278,106,1,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Multipurpose Cash | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2023,7,pressure,26133899,27,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Multipurpose Cash | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Water Sanitation Hygiene
+COL,2023,8,pressure,10640478,14,0,0,Early Recovery | Emergency Shelter and NFI | Health | Protection | Protection - Child Protection | Protection - Mine Action
+COL,2023,9,pressure,64814220,47,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Multipurpose Cash | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Mine Action | Water Sanitation Hygiene
+COL,2023,10,pressure,1153971,4,0,0,Coordination and support services | Food Security | Protection - Gender-Based Violence
+COL,2023,11,pressure,8699474,17,0,0,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Multipurpose Cash | Protection | Protection - Child Protection | Water Sanitation Hygiene
+COL,2023,12,pressure,16593674,9,0,0,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Protection | Protection - Gender-Based Violence | Unearmarked
+COL,2024,1,pressure,75894526,23,0,0,Early Recovery | Education | Emergency Shelter and NFI | Emergency Telecommunications | Food Security | Health | Multipurpose Cash | Other | Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2024,2,pressure,1789036,12,0,0,Coordination and support services | Early Recovery | Logistics | Multi-sector | Multipurpose Cash | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+COL,2024,3,pressure,7947694,11,0,0,Early Recovery | Food Security | Health | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked
+COL,2024,4,pressure,7833814,14,0,0,Coordination and support services | Emergency Shelter and NFI | Food Security | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Mine Action | Water Sanitation Hygiene
+COL,2024,5,pressure,7160395,23,0,1,Early Recovery | Emergency Shelter and NFI | Food Security | Health | Logistics | Multipurpose Cash | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2024,6,pressure,108587016,121,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Multi-sector | Multipurpose Cash | Nutrition | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Protection - Mine Action | Unearmarked | Water Sanitation Hygiene
+COL,2024,7,pressure,38756382,13,0,0,Early Recovery | Education | Food Security | Health | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence
+COL,2024,8,pressure,5282454,9,0,0,Coordination and support services | Early Recovery | Multipurpose Cash | Other | Unearmarked
+COL,2024,9,pressure,22740017,14,0,0,Coordination and support services | Early Recovery | Food Security | Health | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+COL,2024,10,pressure,13201378,5,0,0,Early Recovery | Food Security | Health | Protection
+COL,2024,11,pressure,73656701,56,0,0,Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Multipurpose Cash | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked
+COL,2024,12,pressure,1370166,7,0,0,Early Recovery | Emergency Shelter and NFI | Food Security | Health | Protection | Unearmarked | Water Sanitation Hygiene
+CRI,2019,2,tier1,1560617,2,0,0,Multi-sector
+CRI,2019,3,tier1,7711244,5,0,0,Multi-sector
+CRI,2019,4,tier1,2058603,5,0,0,Multi-sector | Unearmarked
+CRI,2019,5,tier1,3128714,2,0,0,Multi-sector | Unearmarked
+CRI,2019,6,tier1,9459209,6,0,1,Health | Multi-sector | Unearmarked
+CRI,2019,7,tier1,1412374,2,0,0,Multi-sector | Unearmarked
+CRI,2019,9,tier1,1336248,1,0,0,Coordination and support services
+CRI,2019,10,tier1,3824916,4,0,1,Multi-sector | Protection
+CRI,2020,1,tier1,666473,1,0,0,Protection
+CRI,2020,2,tier1,2237787,9,0,0,Multi-sector
+CRI,2020,3,tier1,1142682,3,0,0,Multi-sector | Unearmarked
+CRI,2020,4,tier1,8375800,7,0,0,Coordination and support services | Health | Multi-sector | Unearmarked
+CRI,2020,5,tier1,3325407,7,0,0,Multi-sector | Protection | Protection - Child Protection | Unearmarked
+CRI,2020,6,tier1,12573431,10,0,0,COVID-19 | Health | Multi-sector | Unearmarked
+CRI,2020,7,tier1,8106077,6,0,1,Multi-sector | Protection | Unearmarked
+CRI,2020,9,tier1,23675,1,0,0,Multi-sector
+CRI,2020,10,tier1,1680000,1,0,0,Health
+CRI,2020,11,tier1,2285097,7,0,0,Multi-sector | Unearmarked
+CRI,2021,1,tier1,107699,6,0,0,Unearmarked
+CRI,2021,2,tier1,7728133,6,0,0,Unearmarked
+CRI,2021,3,tier1,1065888,7,0,0,Health | Unearmarked
+CRI,2021,4,tier1,878808,8,0,0,Health | Unearmarked
+CRI,2021,6,tier1,5568470,20,0,1,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Human Trafficking & Smuggling | Unearmarked | Water Sanitation Hygiene
+CRI,2021,7,tier1,2133109,9,0,0,Coordination and support services | Multi-sector | Unearmarked
+CRI,2021,8,tier1,7866,2,0,0,Multi-sector | Unearmarked
+CRI,2021,12,tier1,191441,1,0,1,Protection
+CRI,2022,1,tier1,4667586,9,0,0,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Protection | Unearmarked | Water Sanitation Hygiene
+CRI,2022,2,tier1,11643592,4,0,0,Health | Protection | Unearmarked
+CRI,2022,3,tier1,2721715,4,0,0,Coordination and support services | Education | Unearmarked | Water Sanitation Hygiene
+CRI,2022,4,tier1,3961880,5,0,0,Logistics | Protection | Unearmarked
+CRI,2022,5,tier1,2622543,3,0,0,Multi-sector | Unearmarked
+CRI,2022,6,tier1,5426376,13,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Logistics | Multi-sector | Other | Protection | Unearmarked
+CRI,2022,7,tier1,6971598,4,0,0,Logistics | Protection | Protection - Gender-Based Violence | Unearmarked
+CRI,2022,8,tier1,59302,1,0,0,Unearmarked
+CRI,2022,9,tier1,6917000,9,0,0,Early Recovery | Health | Logistics | Multi-sector | Protection | Protection - Gender-Based Violence
+CRI,2022,11,tier1,5018703,4,0,0,Early Recovery | Emergency Shelter and NFI | Protection | Protection - Gender-Based Violence
+CRI,2022,12,tier1,59730,2,0,0,Multipurpose Cash | Protection
+CRI,2023,1,tier1,96616,4,0,0,Coordination and support services | Emergency Shelter and NFI | Health | Water Sanitation Hygiene
+CRI,2023,2,tier1,535000,3,0,0,Education | Protection - Child Protection | Water Sanitation Hygiene
+CRI,2023,3,tier1,459168,2,0,0,Protection | Protection - Human Trafficking & Smuggling
+CRI,2023,4,tier1,142489,2,0,0,Health | Protection - Human Trafficking & Smuggling
+CRI,2023,5,tier1,3935564,3,0,0,Multipurpose Cash | Protection | Unearmarked
+CRI,2023,6,tier1,6206243,18,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Protection | Protection - Child Protection | Water Sanitation Hygiene
+CRI,2023,7,tier1,2065000,5,0,0,Education | Health | Protection | Protection - Child Protection | Unearmarked
+CRI,2023,8,tier1,104392,3,0,0,Health | Protection | Protection - Child Protection
+CRI,2023,9,tier1,11454093,3,0,0,Multi-sector | Protection | Unearmarked
+CRI,2023,11,tier1,548031,2,0,0,Protection
+CRI,2023,12,tier1,5249715,1,0,0,Multi-sector
+CRI,2024,2,tier1,957396,1,0,0,Unearmarked
+CRI,2024,3,tier1,1728704,4,0,0,Agriculture | Protection - Gender-Based Violence | Unearmarked
+CRI,2024,6,tier1,4030723,11,0,0,Coordination and support services | Early Recovery | Education | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+CRI,2024,8,tier1,3087272,4,0,0,Multi-sector | Unearmarked
+CRI,2024,9,tier1,4450251,5,0,0,Early Recovery | Emergency Shelter and NFI | Multi-sector | Protection | Protection - Gender-Based Violence
+CRI,2024,10,tier1,1129908,1,0,0,Unearmarked
+CRI,2024,11,tier1,15002500,1,0,0,Multi-sector
+CRI,2024,12,tier1,200000,1,0,0,Multi-sector
+CUB,2019,3,tier1,2015021,8,1,0,Education | Emergency Shelter and NFI | Food Security | Health | Water Sanitation Hygiene
+CUB,2020,1,tier1,706803,1,0,0,Health
+CUB,2020,4,tier1,2613,1,0,0,Multi-sector
+CUB,2020,6,tier1,1850403,2,0,0,COVID-19 | Health
+CUB,2020,10,tier1,1623542,3,0,1,Health | Unearmarked
+CUB,2021,4,tier1,290150,1,0,0,COVID-19
+CUB,2022,2,tier1,10000000,1,0,0,Health
+CUB,2022,8,tier1,328256,3,0,0,Health | Unearmarked
+CUB,2022,9,tier1,397685,1,0,0,Health
+CUB,2022,10,tier1,4809731,6,1,0,Education | Emergency Shelter and NFI | Food Security | Health | Water Sanitation Hygiene
+CUB,2022,11,tier1,2736766,2,1,0,Early Recovery | Health
+CUB,2022,12,tier1,514403,1,0,0,Food Security
+CUB,2023,2,tier1,48802,1,0,0,Education
+CUB,2023,4,tier1,3480525,1,0,0,Emergency Shelter and NFI
+CUB,2023,5,tier1,451849,1,0,1,Education
+CUB,2023,6,tier1,950085,4,1,0,Education | Food Security | Health | Multi-sector
+CUB,2023,7,tier1,300000,1,0,0,Health
+CUB,2023,8,tier1,3828813,6,0,0,Food Security
+CUB,2023,10,tier1,149358,1,0,0,Education
+CUB,2024,2,tier1,97596,1,0,0,Education
+CUB,2024,3,tier1,251233,1,0,0,Agriculture
+CUB,2024,4,tier1,121930,2,0,0,Health | Water Sanitation Hygiene
+CUB,2024,6,tier1,1921085,7,0,0,Coordination and support services | Food Security | Logistics | Multi-sector | Multipurpose Cash | Water Sanitation Hygiene
+CUB,2024,10,tier1,43457,1,0,0,Health
+CUB,2024,11,tier1,8199457,8,1,0,Education | Emergency Shelter and NFI | Food Security | Health | Water Sanitation Hygiene
+CUB,2024,12,tier1,1300000,1,1,0,Food Security
+DOM,2019,2,tier1,1537363,2,0,0,Multi-sector
+DOM,2019,3,tier1,6909782,6,0,0,Education | Multi-sector
+DOM,2019,4,tier1,2058603,5,0,0,Multi-sector | Unearmarked
+DOM,2019,5,tier1,3024976,2,0,0,Multi-sector | Unearmarked
+DOM,2019,6,tier1,4809822,5,0,1,Health | Multi-sector | Unearmarked
+DOM,2019,7,tier1,1412374,2,0,0,Multi-sector | Unearmarked
+DOM,2019,9,tier1,1361234,2,0,0,Coordination and support services | Unearmarked
+DOM,2019,10,tier1,2849915,5,0,1,Coordination and support services | Multi-sector | Protection
+DOM,2020,1,tier1,666473,1,0,0,Protection
+DOM,2020,2,tier1,2392414,10,0,0,Multi-sector
+DOM,2020,3,tier1,1207835,4,0,0,Multi-sector | Unearmarked
+DOM,2020,4,tier1,8241828,9,0,0,Coordination and support services | Emergency Shelter and NFI | Health | Multi-sector | Unearmarked
+DOM,2020,5,tier1,3578488,7,0,0,Multi-sector | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+DOM,2020,6,tier1,13001526,12,0,0,COVID-19 | Health | Multi-sector | Unearmarked
+DOM,2020,7,tier1,7511277,6,0,1,Multi-sector | Protection | Unearmarked
+DOM,2020,8,tier1,295372,2,0,0,Health | Unearmarked
+DOM,2020,9,tier1,116166,2,0,0,Early Recovery | Multi-sector
+DOM,2020,11,tier1,3160347,5,0,0,Multi-sector | Unearmarked
+DOM,2020,12,tier1,1124407,4,0,0,Multi-sector | Unearmarked
+DOM,2021,1,tier1,342602,7,0,0,Early Recovery | Unearmarked
+DOM,2021,2,tier1,7728133,6,0,0,Unearmarked
+DOM,2021,3,tier1,65888,6,0,0,Unearmarked
+DOM,2021,4,tier1,878808,8,0,0,COVID-19 | Unearmarked
+DOM,2021,6,tier1,6415750,21,0,1,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Nutrition | Protection | Protection - Child Protection | Protection - Human Trafficking & Smuggling | Unearmarked
+DOM,2021,7,tier1,2082772,7,0,0,Unearmarked
+DOM,2021,8,tier1,133103,2,0,0,Early Recovery | Unearmarked
+DOM,2021,9,tier1,39413,1,0,0,Early Recovery
+DOM,2022,1,tier1,5122120,7,0,0,Coordination and support services | Early Recovery | Protection | Protection - Child Protection | Unearmarked
+DOM,2022,2,tier1,12262213,4,0,0,Coordination and support services | Emergency Shelter and NFI | Health | Unearmarked
+DOM,2022,3,tier1,2150848,2,0,0,Coordination and support services | Unearmarked
+DOM,2022,4,tier1,2237880,5,0,0,Multipurpose Cash | Protection | Unearmarked
+DOM,2022,5,tier1,988520,8,0,1,Coordination and support services | Emergency Shelter and NFI | Food Security | Health | Multipurpose Cash | Protection - Child Protection | Unearmarked
+DOM,2022,6,tier1,3085508,10,0,0,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Protection - Child Protection | Unearmarked
+DOM,2022,7,tier1,71598,2,0,0,Protection - Gender-Based Violence | Unearmarked
+DOM,2022,8,tier1,59302,1,0,0,Unearmarked
+DOM,2022,9,tier1,424496,2,0,0,Food Security
+DOM,2022,10,tier1,340478,1,0,1,Multipurpose Cash
+DOM,2022,11,tier1,5070641,3,0,0,Early Recovery | Emergency Shelter and NFI | Protection - Gender-Based Violence
+DOM,2022,12,tier1,5303,1,0,0,Multipurpose Cash
+DOM,2023,3,tier1,1126834,4,0,1,Multi-sector | Protection | Protection - Child Protection | Protection - Human Trafficking & Smuggling
+DOM,2023,4,tier1,1028354,3,0,0,Health | Protection - Child Protection | Protection - Human Trafficking & Smuggling
+DOM,2023,5,tier1,2610905,3,0,0,Food Security | Multi-sector | Multipurpose Cash
+DOM,2023,6,tier1,11335599,17,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Multi-sector | Other | Protection
+DOM,2023,7,tier1,988000,7,0,0,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Multipurpose Cash | Protection
+DOM,2023,8,tier1,786006,2,0,0,Health | Unearmarked
+DOM,2023,9,tier1,3253917,8,0,0,Food Security | Health | Multi-sector | Multipurpose Cash | Nutrition | Unearmarked | Water Sanitation Hygiene
+DOM,2023,11,tier1,2245065,2,0,0,Early Recovery | Unearmarked
+DOM,2023,12,tier1,755339,1,0,0,Multi-sector
+DOM,2024,3,tier1,251233,1,0,0,Agriculture
+DOM,2024,4,tier1,100000,2,0,0,Nutrition | Protection - Child Protection
+DOM,2024,5,tier1,498122,2,0,1,Food Security | Protection - Child Protection
+DOM,2024,6,tier1,3693132,8,0,0,Coordination and support services | Early Recovery | Food Security | Health | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked
+DOM,2024,8,tier1,3252490,4,0,0,Multi-sector | Unearmarked
+DOM,2024,9,tier1,755570,1,0,0,Multi-sector
+DOM,2024,11,tier1,4490000,2,0,0,Multi-sector | Protection
+GTM,2019,3,tier1,140809,1,0,0,Unearmarked
+GTM,2019,4,tier1,400000,1,0,0,Agriculture
+GTM,2019,6,tier1,40800,1,0,0,Unearmarked
+GTM,2019,7,tier1,1986599,4,1,0,Food Security | Health
+GTM,2019,11,tier1,462050,1,0,0,Coordination and support services
+GTM,2020,3,tier1,1049997,3,1,0,Food Security | Health | Water Sanitation Hygiene
+GTM,2020,4,tier1,4294924,6,1,0,Food Security | Health | Multi-sector | Nutrition | Protection
+GTM,2020,5,tier1,300000,2,0,0,COVID-19 | Unearmarked
+GTM,2020,6,tier1,1155624,1,0,0,Food Security
+GTM,2020,7,tier1,1800000,1,0,0,COVID-19
+GTM,2020,11,tier1,1439607,4,0,0,Multi-sector | Unearmarked
+GTM,2020,12,tier1,2522190,4,1,0,Food Security | Health | Nutrition | Water Sanitation Hygiene
+GTM,2021,1,tier1,4484235,4,0,0,Education | Food Security | Multi-sector | Unearmarked
+GTM,2021,2,tier1,112500,1,0,0,Unearmarked
+GTM,2021,3,tier1,4006410,1,0,0,Multi-sector
+GTM,2021,4,tier1,52894,1,0,0,Food Security
+GTM,2021,7,tier1,241219,1,0,0,Unearmarked
+GTM,2021,8,tier1,1248514,1,0,0,Food Security
+GTM,2021,10,tier1,157233,1,0,0,Food Security
+GTM,2021,11,tier1,1082614,4,0,0,Food Security | Multi-sector | Nutrition | Unearmarked
+GTM,2021,12,tier1,637839,3,0,1,Food Security | Other | Unearmarked
+GTM,2022,2,tier1,17149629,7,0,0,Education | Food Security | Health | Other | Protection | Unearmarked
+GTM,2022,3,tier1,938491,3,0,0,Agriculture | Food Security | Protection
+GTM,2022,4,tier1,2654348,2,0,0,Protection
+GTM,2022,6,tier1,14963208,19,0,1,Coordination and support services | Early Recovery | Multi-sector | Other | Protection | Protection - Gender-Based Violence | Unearmarked
+GTM,2022,7,tier1,11500000,1,0,0,Protection
+GTM,2022,9,tier1,6235837,4,0,0,Education | Food Security | Protection
+GTM,2022,10,tier1,1478261,2,0,0,Food Security | Protection
+GTM,2022,12,tier1,337649,2,0,0,Health | Protection
+GTM,2023,1,tier1,1843658,1,0,0,Food Security
+GTM,2023,3,tier1,5445113,8,0,0,Food Security | Multi-sector | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+GTM,2023,4,tier1,4760904,3,0,0,Emergency Shelter and NFI | Food Security | Protection - Child Protection
+GTM,2023,5,tier1,10978997,4,0,1,Emergency Shelter and NFI | Protection | Unearmarked
+GTM,2023,6,tier1,18865567,19,0,1,Agriculture | Coordination and support services | Education | Food Security | Health | Multi-sector | Nutrition | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+GTM,2023,7,tier1,3600665,5,0,0,Health | Nutrition | Protection - Child Protection | Water Sanitation Hygiene
+GTM,2023,8,tier1,109409,1,0,0,Nutrition
+GTM,2023,9,tier1,17563550,8,0,0,Emergency Shelter and NFI | Protection | Protection - Child Protection | Unearmarked
+GTM,2023,11,tier1,3412970,7,0,0,Food Security | Protection | Protection - Gender-Based Violence
+GTM,2023,12,tier1,1403784,1,0,0,Multi-sector
+GTM,2024,2,tier1,1992221,1,0,0,Food Security
+GTM,2024,3,tier1,4217078,7,0,0,Agriculture | Food Security | Protection | Protection - Child Protection | Unearmarked
+GTM,2024,4,tier1,1459227,1,0,1,Protection - Child Protection
+GTM,2024,5,tier1,309222,2,0,1,Camp Coordination / Management | Protection - Child Protection
+GTM,2024,6,tier1,4540576,8,0,1,Coordination and support services | Education | Food Security | Protection | Protection - Gender-Based Violence
+GTM,2024,7,tier1,1309911,3,0,0,Food Security | Protection | Unearmarked
+GTM,2024,8,tier1,2258926,2,0,0,Food Security | Multi-sector
+GTM,2024,9,tier1,7757249,13,0,0,Camp Coordination / Management | Education | Food Security | Nutrition | Protection | Protection - Gender-Based Violence
+GTM,2024,10,tier1,8992187,2,0,0,Camp Coordination / Management | Unearmarked
+GTM,2024,11,tier1,2079760,8,0,0,Camp Coordination / Management | Food Security | Protection | Protection - Gender-Based Violence | Unearmarked
+GUY,2019,2,tier1,1568169,2,0,0,Multi-sector
+GUY,2019,3,tier1,6939815,5,0,0,Multi-sector
+GUY,2019,4,tier1,2158603,5,0,0,Multi-sector | Unearmarked
+GUY,2019,5,tier1,3025142,2,0,0,Multi-sector | Unearmarked
+GUY,2019,6,tier1,5234233,7,0,1,Health | Multi-sector | Unearmarked
+GUY,2019,7,tier1,1412374,2,0,0,Multi-sector | Unearmarked
+GUY,2019,9,tier1,1336248,1,0,0,Coordination and support services
+GUY,2019,10,tier1,2849915,3,0,1,Multi-sector
+GUY,2020,1,tier1,666473,1,0,0,Protection
+GUY,2020,2,tier1,2237787,9,0,0,Multi-sector
+GUY,2020,3,tier1,1142682,3,0,0,Multi-sector | Unearmarked
+GUY,2020,4,tier1,8288088,9,0,0,Coordination and support services | Health | Multi-sector | Unearmarked | Water Sanitation Hygiene
+GUY,2020,5,tier1,3224564,13,0,0,Multi-sector | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+GUY,2020,6,tier1,10917349,16,0,0,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked
+GUY,2020,7,tier1,7306077,5,0,1,Multi-sector | Protection | Unearmarked
+GUY,2020,8,tier1,346286,1,0,0,Health
+GUY,2020,9,tier1,615707,6,0,0,Health | Multi-sector | Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+GUY,2020,10,tier1,52500,1,0,0,Unearmarked
+GUY,2020,11,tier1,1860347,5,0,0,Multi-sector | Unearmarked
+GUY,2021,1,tier1,176699,7,0,0,Emergency Shelter and NFI | Unearmarked
+GUY,2021,2,tier1,7728133,6,0,0,Unearmarked
+GUY,2021,3,tier1,105888,8,0,0,Multi-sector | Protection - Child Protection | Unearmarked
+GUY,2021,4,tier1,588658,7,0,0,Unearmarked
+GUY,2021,6,tier1,6058894,19,0,1,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Unearmarked
+GUY,2021,7,tier1,2082772,7,0,0,Unearmarked
+GUY,2021,8,tier1,4,1,0,0,Unearmarked
+GUY,2022,1,tier1,4616374,6,0,0,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Multipurpose Cash | Unearmarked
+GUY,2022,2,tier1,10492213,4,0,0,Coordination and support services | Health | Protection | Unearmarked
+GUY,2022,3,tier1,2900159,3,0,0,Coordination and support services | Health | Unearmarked
+GUY,2022,4,tier1,1537880,4,0,0,Protection | Unearmarked
+GUY,2022,5,tier1,674385,7,0,0,Coordination and support services | Education | Food Security | Logistics | Unearmarked | Water Sanitation Hygiene
+GUY,2022,6,tier1,3543626,9,0,0,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Health | Multi-sector | Unearmarked
+GUY,2022,7,tier1,571598,3,0,0,Protection | Protection - Gender-Based Violence | Unearmarked
+GUY,2022,8,tier1,59302,1,0,0,Unearmarked
+GUY,2022,9,tier1,2573173,5,0,0,Early Recovery | Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+GUY,2022,11,tier1,5021057,4,0,0,Early Recovery | Emergency Shelter and NFI | Protection | Protection - Gender-Based Violence
+GUY,2022,12,tier1,5303,1,0,0,Multipurpose Cash
+GUY,2023,3,tier1,459168,2,0,0,Protection | Protection - Human Trafficking & Smuggling
+GUY,2023,4,tier1,542489,3,0,0,Health | Protection - Human Trafficking & Smuggling
+GUY,2023,5,tier1,30905,2,0,0,Multipurpose Cash | Protection
+GUY,2023,6,tier1,6428455,18,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Multipurpose Cash | Protection | Protection - Child Protection | Water Sanitation Hygiene
+GUY,2023,7,tier1,219000,10,0,0,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Multipurpose Cash | Protection - Human Trafficking & Smuggling | Water Sanitation Hygiene
+GUY,2023,9,tier1,2101718,10,0,0,Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Protection | Water Sanitation Hygiene
+GUY,2024,6,tier1,6367935,15,0,0,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Multipurpose Cash | Other | Unearmarked | Water Sanitation Hygiene
+GUY,2024,8,tier1,3691508,8,0,0,Early Recovery | Education | Health | Protection | Protection - Gender-Based Violence | Unearmarked
+GUY,2024,9,tier1,1036145,3,0,0,Early Recovery | Protection | Protection - Gender-Based Violence
+GUY,2024,12,tier1,340776,3,0,0,Early Recovery | Protection - Gender-Based Violence
+HND,2019,1,tier1,622687,1,0,0,Food Security
+HND,2019,4,tier1,2999924,3,1,0,Food Security | Water Sanitation Hygiene
+HND,2019,8,tier1,33034,1,0,0,Unearmarked
+HND,2019,11,tier1,462050,1,0,0,Coordination and support services
+HND,2020,1,tier1,1137615,1,0,0,Food Security
+HND,2020,3,tier1,3749999,4,1,0,Food Security | Health | Protection
+HND,2020,4,tier1,1461540,4,1,0,Multi-sector | Protection | Protection - Child Protection | Water Sanitation Hygiene
+HND,2020,5,tier1,77622,2,0,0,Multi-sector | Unearmarked
+HND,2020,6,tier1,1455630,2,0,0,Food Security | Unearmarked
+HND,2020,7,tier1,1400000,2,0,0,COVID-19
+HND,2020,9,tier1,36299,1,0,0,Food Security
+HND,2020,10,tier1,39347,1,0,0,Food Security
+HND,2020,11,tier1,676452,5,0,0,Education | Multi-sector | Protection - Child Protection | Unearmarked
+HND,2020,12,tier1,4181045,2,0,0,Food Security | Health
+HND,2021,1,tier1,9306294,7,0,0,Camp Coordination / Management | Coordination and support services | Education | Food Security
+HND,2021,2,tier1,1728045,4,0,1,Food Security | Unearmarked
+HND,2021,3,tier1,395512,7,0,1,Education | Emergency Shelter and NFI | Food Security | Health | Protection | Unearmarked | Water Sanitation Hygiene
+HND,2021,4,tier1,100000,1,0,0,Water Sanitation Hygiene
+HND,2021,5,tier1,2160,1,0,0,Unearmarked
+HND,2021,6,tier1,11157488,15,1,0,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Nutrition | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+HND,2021,7,tier1,238339,3,0,0,Camp Coordination / Management | Food Security | Unearmarked
+HND,2021,8,tier1,12546843,3,0,0,Food Security
+HND,2021,10,tier1,2194976,1,0,0,Water Sanitation Hygiene
+HND,2021,11,tier1,2605967,3,0,0,Multi-sector | Unearmarked
+HND,2021,12,tier1,1200724,5,0,1,Food Security | Nutrition | Other | Unearmarked
+HND,2022,1,tier1,1307724,3,0,0,Education | Nutrition | Protection - Gender-Based Violence
+HND,2022,2,tier1,11844150,4,0,0,Education | Health | Protection
+HND,2022,3,tier1,5699987,7,1,0,Food Security | Health | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence
+HND,2022,4,tier1,17902405,8,0,0,Agriculture | Food Security | Protection - Child Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+HND,2022,5,tier1,130435,2,0,0,Food Security | Unearmarked
+HND,2022,6,tier1,53816049,37,0,1,Camp Coordination / Management | Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Nutrition | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+HND,2022,7,tier1,10411821,4,0,0,Other | Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+HND,2022,9,tier1,258121,2,0,0,Food Security | Protection - Gender-Based Violence
+HND,2022,10,tier1,2331524,4,0,0,Food Security | Health | Water Sanitation Hygiene
+HND,2023,1,tier1,5274926,8,0,0,Education | Food Security | Health | Nutrition | Protection | Protection - Child Protection | Water Sanitation Hygiene
+HND,2023,2,tier1,12048300,1,0,0,Food Security
+HND,2023,3,tier1,890227,4,0,0,Protection | Protection - Child Protection | Protection - Gender-Based Violence
+HND,2023,4,tier1,4299302,2,0,0,Emergency Shelter and NFI | Nutrition
+HND,2023,5,tier1,14597470,15,1,1,Camp Coordination / Management | Early Recovery | Food Security | Health | Multi-sector | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+HND,2023,6,tier1,51529705,29,1,1,Camp Coordination / Management | Coordination and support services | Education | Food Security | Health | Nutrition | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+HND,2023,7,tier1,7122906,12,0,0,Early Recovery | Education | Food Security | Health | Nutrition | Protection - Child Protection | Water Sanitation Hygiene
+HND,2023,8,tier1,1830954,4,0,0,Camp Coordination / Management | Emergency Shelter and NFI | Multi-sector | Water Sanitation Hygiene
+HND,2023,9,tier1,6325141,4,0,0,Food Security | Nutrition | Unearmarked
+HND,2023,10,tier1,425080,1,0,0,Food Security
+HND,2023,11,tier1,1996415,5,0,0,Education | Emergency Shelter and NFI | Protection - Gender-Based Violence | Unearmarked
+HND,2024,1,tier1,4192,1,0,0,Food Security
+HND,2024,2,tier1,7480503,4,0,0,Food Security | Unearmarked
+HND,2024,3,tier1,7054673,13,0,0,Agriculture | Education | Food Security | Nutrition | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+HND,2024,4,tier1,1459227,1,0,1,Protection - Child Protection
+HND,2024,5,tier1,6078232,11,1,1,Camp Coordination / Management | Emergency Shelter and NFI | Food Security | Health | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+HND,2024,6,tier1,53075665,17,0,1,Coordination and support services | Education | Food Security | Health | Multi-sector | Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+HND,2024,7,tier1,365497,1,0,0,Protection
+HND,2024,8,tier1,1600000,2,1,0,Multi-sector | Protection - Child Protection
+HND,2024,9,tier1,1376284,1,0,0,Camp Coordination / Management
+HND,2024,10,tier1,5039908,2,0,0,Protection | Unearmarked
+HND,2024,11,tier1,1379610,2,0,0,Food Security | Protection
+HND,2024,12,tier1,2605209,4,0,0,Food Security | Nutrition | Unearmarked
+HTI,2019,1,tier1,4981697,4,0,0,Emergency Shelter and NFI | Food Security | Unearmarked | Water Sanitation Hygiene
+HTI,2019,2,tier1,3112571,4,0,0,Health | Unearmarked | Water Sanitation Hygiene
+HTI,2019,3,tier1,1127703,3,0,0,Education | Food Security
+HTI,2019,4,tier1,4571806,5,1,1,Emergency Shelter and NFI | Health | Unearmarked
+HTI,2019,5,tier1,9326444,15,1,1,Camp Coordination / Management | Coordination and support services | Education | Food Security | Health | Nutrition | Unearmarked | Water Sanitation Hygiene
+HTI,2019,6,tier1,14114172,2,0,1,Food Security | Unearmarked
+HTI,2019,8,tier1,5081432,3,1,0,Food Security | Nutrition
+HTI,2019,9,tier1,2039648,3,0,0,Coordination and support services | Emergency Shelter and NFI | Water Sanitation Hygiene
+HTI,2019,10,tier1,5243361,6,0,0,Health | Nutrition | Water Sanitation Hygiene
+HTI,2019,11,tier1,1054807,1,1,0,Coordination and support services
+HTI,2020,1,tier1,8644130,9,0,0,Food Security | Logistics | Multi-sector | Unearmarked
+HTI,2020,2,tier1,1067632,2,0,0,Coordination and support services | Food Security
+HTI,2020,3,tier1,19937468,16,1,1,Education | Food Security | Health | Logistics | Multi-sector | Protection | Unearmarked | Water Sanitation Hygiene
+HTI,2020,4,tier1,5024665,10,1,0,Food Security | Health | Logistics | Multi-sector | Protection - Gender-Based Violence | Unearmarked
+HTI,2020,5,tier1,12550802,5,0,1,Coordination and support services | Food Security | Multi-sector | Unearmarked | Water Sanitation Hygiene
+HTI,2020,6,tier1,19374436,15,0,1,COVID-19 | Coordination and support services | Emergency Shelter and NFI | Food Security | Logistics | Multi-sector | Unearmarked
+HTI,2020,7,tier1,12852343,10,0,1,Health | Logistics | Multi-sector | Nutrition | Unearmarked | Water Sanitation Hygiene
+HTI,2020,8,tier1,853357,2,0,0,Food Security | Logistics
+HTI,2020,9,tier1,40679200,2,0,0,Food Security | Unearmarked
+HTI,2020,10,tier1,22845451,7,0,1,Coordination and support services | Food Security | Unearmarked
+HTI,2020,11,tier1,3133578,8,1,1,Education | Health | Nutrition | Protection | Water Sanitation Hygiene
+HTI,2020,12,tier1,1270286,4,0,0,Coordination and support services | Food Security | Health | Logistics
+HTI,2021,1,tier1,6968661,5,0,0,Coordination and support services | Food Security | Logistics | Unearmarked
+HTI,2021,2,tier1,1827137,3,0,0,Health | Logistics | Unearmarked
+HTI,2021,3,tier1,4824303,8,0,0,Agriculture | Coordination and support services | Food Security | Logistics | Unearmarked
+HTI,2021,4,tier1,7953886,4,0,1,Food Security | Health | Unearmarked
+HTI,2021,6,tier1,19876192,13,1,0,Coordination and support services | Food Security | Health | Nutrition | Protection | Protection - Gender-Based Violence | Unearmarked
+HTI,2021,7,tier1,3104093,10,1,0,Coordination and support services | Emergency Shelter and NFI | Logistics | Nutrition | Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+HTI,2021,8,tier1,26339002,8,0,0,Food Security | Other | Unearmarked
+HTI,2021,9,tier1,22128841,17,1,0,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Multi-sector | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+HTI,2021,10,tier1,9861488,16,1,0,Coordination and support services | Emergency Shelter and NFI | Food Security | Health | Logistics | Multi-sector | Unearmarked | Water Sanitation Hygiene
+HTI,2021,11,tier1,9643298,25,0,0,Education | Food Security | Health | Protection - Gender-Based Violence | Unearmarked
+HTI,2021,12,tier1,2048122,5,0,0,Coordination and support services | Education | Health | Unearmarked | Water Sanitation Hygiene
+HTI,2022,1,tier1,1208006,6,0,0,Education | Food Security | Multi-sector | Water Sanitation Hygiene
+HTI,2022,2,tier1,13031907,6,0,0,Coordination and support services | Health | Multi-sector | Protection | Unearmarked
+HTI,2022,3,tier1,19876958,27,1,0,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Multi-sector | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+HTI,2022,4,tier1,18566147,11,0,1,Coordination and support services | Emergency Shelter and NFI | Food Security | Logistics | Multi-sector | Nutrition | Protection | Unearmarked
+HTI,2022,5,tier1,941848,4,0,0,Coordination and support services | Logistics | Multi-sector | Unearmarked
+HTI,2022,6,tier1,28924357,27,1,1,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Multi-sector | Nutrition | Protection | Protection - Gender-Based Violence | Unearmarked
+HTI,2022,7,tier1,43737390,9,0,0,Early Recovery | Education | Emergency Shelter and NFI | Food Security | Protection | Unearmarked
+HTI,2022,8,tier1,33910217,12,0,0,Coordination and support services | Food Security | Health | Logistics | Nutrition | Other | Unearmarked
+HTI,2022,9,tier1,5593305,7,1,0,Education | Food Security | Nutrition | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+HTI,2022,10,tier1,18569198,12,1,0,Education | Food Security | Health | Logistics | Other | Unearmarked | Water Sanitation Hygiene
+HTI,2022,11,tier1,16589497,10,0,0,Education | Health | Logistics | Unearmarked | Water Sanitation Hygiene
+HTI,2022,12,tier1,8853240,11,0,1,Food Security | Health | Logistics | Nutrition | Unearmarked
+HTI,2023,1,tier1,26006892,19,0,0,Emergency Shelter and NFI | Food Security | Health | Logistics | Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+HTI,2023,2,tier1,4624168,9,0,0,Coordination and support services | Food Security | Health | Logistics | Multi-sector | Protection | Unearmarked | Water Sanitation Hygiene
+HTI,2023,3,tier1,4660933,8,0,1,Education | Food Security | Protection | Protection - Child Protection | Water Sanitation Hygiene
+HTI,2023,4,tier1,9599742,6,0,0,Coordination and support services | Emergency Shelter and NFI | Food Security | Unearmarked
+HTI,2023,5,tier1,25413425,13,1,0,Coordination and support services | Food Security | Health | Multi-sector | Nutrition | Unearmarked
+HTI,2023,6,tier1,64627074,61,1,1,Camp Coordination / Management | Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Logistics | Nutrition | Other | Protection | Protection - Child Protection | Protection - Human Trafficking & Smuggling | Unearmarked | Water Sanitation Hygiene
+HTI,2023,7,tier1,9209405,8,1,0,Coordination and support services | Health | Nutrition | Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+HTI,2023,8,tier1,3210934,8,0,0,Food Security | Logistics | Protection | Protection - Gender-Based Violence | Unearmarked
+HTI,2023,9,tier1,124380190,23,0,1,Coordination and support services | Food Security | Logistics | Nutrition | Unearmarked
+HTI,2023,10,tier1,136602,2,0,0,Food Security | Unearmarked
+HTI,2023,11,tier1,8297677,7,0,0,Coordination and support services | Food Security | Logistics | Protection | Protection - Child Protection | Unearmarked
+HTI,2023,12,tier1,2184825,5,1,0,Education | Food Security | Unearmarked
+HTI,2024,1,tier1,19994477,10,0,0,Coordination and support services | Food Security | Health | Logistics | Other | Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+HTI,2024,2,tier1,5384757,7,0,0,Coordination and support services | Early Recovery | Education | Food Security | Health | Other | Water Sanitation Hygiene
+HTI,2024,3,tier1,1575813,4,0,0,Agriculture | Education | Food Security | Protection - Child Protection
+HTI,2024,4,tier1,41684298,15,0,0,Coordination and support services | Education | Food Security | Health | Logistics | Multipurpose Cash | Nutrition | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+HTI,2024,5,tier1,29115301,35,1,1,Camp Coordination / Management | Coordination and support services | Education | Emergency Shelter and NFI | Health | Nutrition | Other | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Unearmarked | Water Sanitation Hygiene
+HTI,2024,6,tier1,52628758,62,1,1,Camp Coordination / Management | Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Logistics | Multi-sector | Multipurpose Cash | Nutrition | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Unearmarked | Water Sanitation Hygiene
+HTI,2024,7,tier1,14173617,6,0,1,Food Security | Unearmarked
+HTI,2024,8,tier1,31786501,12,0,0,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Multipurpose Cash | Nutrition | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+HTI,2024,9,tier1,663256,2,0,0,Food Security | Unearmarked
+HTI,2024,10,tier1,3317629,2,0,0,Nutrition | Unearmarked
+HTI,2024,11,tier1,6729043,10,0,1,Education | Multi-sector | Multipurpose Cash | Nutrition | Unearmarked | Water Sanitation Hygiene
+HTI,2024,12,tier1,7308745,9,1,0,Coordination and support services | Education | Food Security | Nutrition | Protection - Human Trafficking & Smuggling | Unearmarked
+JAM,2020,5,tier1,411066,2,0,0,COVID-19 | Unearmarked
+JAM,2020,8,tier1,514286,1,0,0,Health
+JAM,2020,10,tier1,126000,1,0,0,Unearmarked
+JAM,2020,11,tier1,16023,1,0,0,Unearmarked
+JAM,2021,3,tier1,1000000,1,0,0,Health
+JAM,2022,2,tier1,10000000,1,0,0,Health
+JAM,2024,6,tier1,5113550,2,0,0,Coordination and support services | Other
+JAM,2024,7,tier1,2498399,6,1,0,Emergency Shelter and NFI | Food Security | Nutrition | Protection | Protection - Child Protection | Water Sanitation Hygiene
+NIC,2019,1,tier1,647595,1,0,0,Food Security
+NIC,2019,4,tier1,400000,1,0,0,Agriculture
+NIC,2019,6,tier1,1175869,1,0,0,Coordination and support services
+NIC,2019,11,tier1,462050,1,0,0,Coordination and support services
+NIC,2020,1,tier1,761686,1,0,0,Food Security
+NIC,2020,5,tier1,267500,1,0,0,COVID-19
+NIC,2020,6,tier1,3075370,4,1,0,COVID-19 | Coordination and support services | Early Recovery
+NIC,2020,10,tier1,1055467,3,0,1,Health | Unearmarked
+NIC,2020,11,tier1,391384,2,0,0,Multi-sector | Unearmarked
+NIC,2020,12,tier1,1100000,3,1,0,Health | Protection - Child Protection | Water Sanitation Hygiene
+NIC,2021,1,tier1,5344358,4,1,0,Early Recovery | Education | Food Security | Multi-sector
+NIC,2021,4,tier1,116062,1,0,0,COVID-19
+NIC,2021,6,tier1,761951,5,0,0,Coordination and support services | Education | Health | Nutrition | Protection - Child Protection
+NIC,2022,2,tier1,11997902,3,0,0,Health | Other | Protection
+NIC,2022,3,tier1,391543,1,0,0,Multi-sector
+NIC,2022,4,tier1,3907630,2,0,0,Agriculture | Food Security
+NIC,2022,6,tier1,5782184,13,0,1,Coordination and support services | Food Security | Multi-sector | Other | Protection
+NIC,2022,12,tier1,984912,4,0,0,Education | Health | Nutrition | Protection - Child Protection
+NIC,2023,5,tier1,678997,2,0,1,Protection | Unearmarked
+NIC,2023,6,tier1,3123352,15,0,0,Coordination and support services | Education | Food Security | Other | Protection | Protection - Child Protection
+NIC,2023,11,tier1,548031,2,0,0,Protection
+NIC,2024,3,tier1,1663364,2,0,0,Agriculture | Unearmarked
+NIC,2024,4,tier1,1459227,1,0,1,Protection - Child Protection
+NIC,2024,5,tier1,1530000,3,0,0,Food Security | Protection | Protection - Child Protection
+NIC,2024,6,tier1,462205,5,0,0,Coordination and support services | Other | Protection
+NIC,2024,8,tier1,100000,1,0,0,Protection - Child Protection
+NIC,2024,10,tier1,1129908,1,0,0,Unearmarked
+PAN,2019,2,tier1,1746083,3,0,0,Multi-sector | Protection - Child Protection
+PAN,2019,3,tier1,7419347,6,0,0,Multi-sector | Unearmarked
+PAN,2019,4,tier1,2158603,5,0,0,Multi-sector | Unearmarked
+PAN,2019,5,tier1,3126631,2,0,0,Multi-sector | Unearmarked
+PAN,2019,6,tier1,5428838,6,0,1,Health | Multi-sector | Unearmarked
+PAN,2019,7,tier1,1431374,3,0,0,Multi-sector | Unearmarked
+PAN,2019,9,tier1,1556560,3,0,0,Coordination and support services | Multi-sector | Unearmarked
+PAN,2019,10,tier1,2824915,3,0,1,Multi-sector
+PAN,2020,1,tier1,666473,1,0,0,Protection
+PAN,2020,2,tier1,2237787,9,0,0,Multi-sector
+PAN,2020,3,tier1,1500458,5,0,0,Coordination and support services | Multi-sector | Unearmarked
+PAN,2020,4,tier1,8747618,8,0,0,Coordination and support services | Health | Multi-sector | Unearmarked
+PAN,2020,5,tier1,2960980,6,0,0,Multi-sector | Protection | Protection - Child Protection | Unearmarked
+PAN,2020,6,tier1,14230876,18,0,0,COVID-19 | Coordination and support services | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Protection - Gender-Based Violence | Unearmarked
+PAN,2020,7,tier1,8628863,6,0,1,Multi-sector | Protection | Unearmarked
+PAN,2020,9,tier1,129063,2,0,0,Early Recovery | Multi-sector
+PAN,2020,10,tier1,940370,3,0,0,Unearmarked | Water Sanitation Hygiene
+PAN,2020,11,tier1,3670994,7,0,0,Multi-sector | Protection - Child Protection | Unearmarked
+PAN,2020,12,tier1,602758,3,0,0,Health | Multi-sector
+PAN,2021,1,tier1,375618,8,0,0,Coordination and support services | Early Recovery | Unearmarked
+PAN,2021,2,tier1,7728133,6,0,0,Unearmarked
+PAN,2021,3,tier1,1943163,14,0,0,Coordination and support services | Health | Multi-sector | Nutrition | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+PAN,2021,4,tier1,588658,7,0,0,Unearmarked
+PAN,2021,6,tier1,7259987,20,0,1,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Human Trafficking & Smuggling | Unearmarked
+PAN,2021,7,tier1,3582772,8,0,0,Coordination and support services | Unearmarked
+PAN,2021,8,tier1,904923,3,0,0,Coordination and support services | Multi-sector | Unearmarked
+PAN,2021,12,tier1,932505,3,0,1,Other | Protection | Unearmarked
+PAN,2022,1,tier1,4771383,10,0,0,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Health | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Unearmarked | Water Sanitation Hygiene
+PAN,2022,2,tier1,12821922,7,0,0,Coordination and support services | Health | Other | Protection | Unearmarked
+PAN,2022,3,tier1,4950418,7,0,0,Coordination and support services | Multipurpose Cash | Protection | Unearmarked
+PAN,2022,4,tier1,5984493,9,0,0,Coordination and support services | Early Recovery | Multi-sector | Multipurpose Cash | Protection | Unearmarked
+PAN,2022,5,tier1,4418859,4,0,0,Coordination and support services | Multi-sector | Unearmarked
+PAN,2022,6,tier1,16370162,16,0,1,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Multi-sector | Other | Protection | Unearmarked
+PAN,2022,7,tier1,7390935,5,0,0,Early Recovery | Logistics | Protection | Protection - Gender-Based Violence | Unearmarked
+PAN,2022,8,tier1,159302,2,0,0,Coordination and support services | Unearmarked
+PAN,2022,9,tier1,1000000,5,0,0,Early Recovery | Emergency Shelter and NFI | Health | Protection | Water Sanitation Hygiene
+PAN,2022,11,tier1,4989291,3,0,0,Early Recovery | Emergency Shelter and NFI | Protection - Gender-Based Violence
+PAN,2022,12,tier1,323385,4,0,0,Coordination and support services | Multipurpose Cash | Protection
+PAN,2023,2,tier1,2005107,4,0,0,Coordination and support services | Early Recovery | Protection - Gender-Based Violence
+PAN,2023,3,tier1,1059168,3,0,0,Multi-sector | Protection | Protection - Human Trafficking & Smuggling
+PAN,2023,4,tier1,244489,3,0,0,Health | Protection - Child Protection | Protection - Human Trafficking & Smuggling
+PAN,2023,5,tier1,7870882,5,0,1,Coordination and support services | Multi-sector | Multipurpose Cash | Protection
+PAN,2023,6,tier1,8600973,16,0,1,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Other | Protection | Protection - Human Trafficking & Smuggling
+PAN,2023,7,tier1,10933038,18,1,0,Coordination and support services | Emergency Shelter and NFI | Food Security | Health | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Water Sanitation Hygiene
+PAN,2023,8,tier1,165198,1,0,0,Other
+PAN,2023,9,tier1,7024399,3,0,0,Emergency Shelter and NFI | Multi-sector | Protection
+PAN,2023,11,tier1,1153452,4,0,0,Early Recovery | Protection
+PAN,2023,12,tier1,932913,1,0,0,Multi-sector
+PAN,2024,2,tier1,957396,1,0,0,Unearmarked
+PAN,2024,3,tier1,2271688,4,0,0,Agriculture | Protection - Gender-Based Violence | Unearmarked
+PAN,2024,4,tier1,1702827,2,0,1,Protection - Child Protection | Water Sanitation Hygiene
+PAN,2024,6,tier1,3513618,13,0,1,Coordination and support services | Early Recovery | Education | Health | Multi-sector | Protection | Protection - Child Protection | Unearmarked
+PAN,2024,8,tier1,2462272,3,0,0,Unearmarked
+PAN,2024,10,tier1,1129908,1,0,0,Unearmarked
+PAN,2024,11,tier1,11594448,8,0,1,Coordination and support services | Health | Logistics | Multi-sector | Protection | Protection - Gender-Based Violence | Unearmarked
+PRI,2019,3,tier1,19800,1,0,0,Education
+SLV,2019,7,tier1,2262859,6,1,0,Food Security | Health | Nutrition | Water Sanitation Hygiene
+SLV,2019,11,tier1,477282,2,0,0,Coordination and support services | Early Recovery
+SLV,2020,1,tier1,297702,1,0,0,Health
+SLV,2020,4,tier1,210962,1,0,0,Multi-sector
+SLV,2020,5,tier1,324000,1,0,0,COVID-19
+SLV,2020,6,tier1,2173533,4,0,0,Emergency Shelter and NFI | Food Security | Health
+SLV,2020,7,tier1,3199884,4,1,0,COVID-19 | Food Security | Water Sanitation Hygiene
+SLV,2020,9,tier1,45477,1,0,0,Unearmarked
+SLV,2020,10,tier1,549295,2,0,0,Health | Unearmarked
+SLV,2020,11,tier1,480000,1,0,0,Protection - Child Protection
+SLV,2020,12,tier1,19908,1,0,0,Health
+SLV,2021,1,tier1,365048,2,0,0,Food Security | Unearmarked
+SLV,2021,2,tier1,712500,2,0,0,Food Security | Unearmarked
+SLV,2021,3,tier1,154142,2,0,1,Food Security | Protection
+SLV,2021,4,tier1,1191422,1,0,0,Food Security
+SLV,2021,5,tier1,7000000,1,0,0,Food Security
+SLV,2021,6,tier1,1250060,4,1,0,Emergency Shelter and NFI | Food Security | Protection - Child Protection | Unearmarked
+SLV,2021,10,tier1,157233,1,0,0,Food Security
+SLV,2021,11,tier1,970734,4,0,0,Food Security | Unearmarked
+SLV,2021,12,tier1,337839,2,0,1,Other | Unearmarked
+SLV,2022,1,tier1,311886,2,0,0,Protection - Child Protection | Unearmarked
+SLV,2022,2,tier1,11997902,3,0,0,Health | Other | Protection
+SLV,2022,3,tier1,391543,1,0,0,Food Security
+SLV,2022,4,tier1,15484205,8,0,0,Agriculture | Food Security | Protection | Protection - Child Protection | Protection - Gender-Based Violence
+SLV,2022,5,tier1,380000,1,0,0,Other
+SLV,2022,6,tier1,9326473,26,0,1,Coordination and support services | Food Security | Multi-sector | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked
+SLV,2022,7,tier1,7032500,6,0,0,Protection | Protection - Child Protection | Protection - Gender-Based Violence
+SLV,2022,8,tier1,448057,2,0,0,Food Security | Unearmarked
+SLV,2022,9,tier1,1500000,3,0,0,Protection | Protection - Child Protection | Protection - Gender-Based Violence
+SLV,2022,11,tier1,754412,2,0,0,Unearmarked | Water Sanitation Hygiene
+SLV,2022,12,tier1,232678,3,0,0,Protection | Protection - Child Protection | Protection - Gender-Based Violence
+SLV,2023,1,tier1,275000,1,0,0,Food Security
+SLV,2023,2,tier1,1399999,3,0,0,Protection | Protection - Child Protection | Protection - Gender-Based Violence
+SLV,2023,4,tier1,557414,1,0,0,Food Security
+SLV,2023,5,tier1,8456472,10,0,1,Education | Multi-sector | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked
+SLV,2023,6,tier1,5494302,18,0,1,Camp Coordination / Management | Coordination and support services | Education | Food Security | Health | Multi-sector | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+SLV,2023,7,tier1,930665,1,0,0,Health
+SLV,2023,9,tier1,5900001,7,0,0,Education | Health | Nutrition | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+SLV,2023,10,tier1,425080,1,0,0,Food Security
+SLV,2023,11,tier1,1302802,2,0,0,Protection - Gender-Based Violence
+SLV,2023,12,tier1,353483,1,0,0,Protection
+SLV,2024,2,tier1,957396,1,0,0,Unearmarked
+SLV,2024,3,tier1,3705265,7,0,0,Agriculture | Emergency Shelter and NFI | Food Security | Protection | Protection - Child Protection | Unearmarked
+SLV,2024,4,tier1,1459227,1,0,1,Protection - Child Protection
+SLV,2024,6,tier1,2068627,11,0,1,Coordination and support services | Emergency Shelter and NFI | Food Security | Multi-sector | Multipurpose Cash | Protection | Unearmarked
+SLV,2024,7,tier1,3600000,1,0,0,Emergency Shelter and NFI
+SLV,2024,8,tier1,70000,1,0,0,Multi-sector
+SLV,2024,9,tier1,1276347,1,0,0,Emergency Shelter and NFI
+SLV,2024,10,tier1,1769341,3,0,0,Health | Protection | Unearmarked
+SLV,2024,11,tier1,251678,2,0,0,Emergency Shelter and NFI | Protection
+SLV,2024,12,tier1,470000,1,0,0,Protection
+SUR,2020,8,tier1,346286,1,0,0,Health
+SUR,2020,12,tier1,18114,1,0,0,Health
+SUR,2021,6,tier1,15723,1,0,0,Multi-sector
+SUR,2022,8,tier1,219780,1,0,0,Unearmarked
+SUR,2023,12,tier1,92234,1,0,0,Multi-sector
+SUR,2024,6,tier1,4627282,1,0,0,Other
+SUR,2024,11,tier1,65227,1,0,0,Multi-sector
+TTO,2019,2,tier1,1490313,1,0,0,Multi-sector
+TTO,2019,3,tier1,6982110,5,0,0,Multi-sector
+TTO,2019,4,tier1,2258603,5,0,0,Multi-sector | Unearmarked
+TTO,2019,5,tier1,3182883,3,0,0,Multi-sector | Unearmarked
+TTO,2019,6,tier1,3806222,7,0,1,Coordination and support services | Health | Multi-sector | Unearmarked
+TTO,2019,7,tier1,3344192,3,0,1,Multi-sector | Unearmarked
+TTO,2019,9,tier1,1336248,1,0,0,Coordination and support services
+TTO,2019,10,tier1,3674916,3,0,1,Emergency Shelter and NFI | Multi-sector
+TTO,2020,1,tier1,666473,1,0,0,Protection
+TTO,2020,2,tier1,2237787,9,0,0,Multi-sector
+TTO,2020,3,tier1,1142682,3,0,0,Multi-sector | Unearmarked
+TTO,2020,4,tier1,8200100,7,0,0,Coordination and support services | Health | Multi-sector | Unearmarked
+TTO,2020,5,tier1,3713721,7,0,0,Education | Multi-sector | Protection | Protection - Child Protection | Unearmarked
+TTO,2020,6,tier1,12462035,9,0,0,Food Security | Multi-sector | Unearmarked
+TTO,2020,7,tier1,7585819,5,0,1,Multi-sector | Protection | Unearmarked
+TTO,2020,8,tier1,382286,1,0,0,Health
+TTO,2020,9,tier1,123601,2,0,0,Early Recovery | Multi-sector
+TTO,2020,11,tier1,3060347,5,0,0,Multi-sector | Unearmarked
+TTO,2020,12,tier1,480486,2,0,0,Multi-sector | Unearmarked
+TTO,2021,1,tier1,361486,7,0,0,Early Recovery | Unearmarked
+TTO,2021,2,tier1,7728133,6,0,0,Unearmarked
+TTO,2021,3,tier1,463373,9,0,0,Education | Multi-sector | Unearmarked
+TTO,2021,4,tier1,588658,7,0,0,Unearmarked
+TTO,2021,6,tier1,7622200,18,0,1,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Health | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Protection - Human Trafficking & Smuggling | Unearmarked
+TTO,2021,7,tier1,2082772,7,0,0,Unearmarked
+TTO,2021,8,tier1,4,1,0,0,Unearmarked
+TTO,2021,9,tier1,39412,1,0,0,Early Recovery
+TTO,2022,1,tier1,5134230,7,0,0,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Food Security | Protection - Gender-Based Violence | Unearmarked
+TTO,2022,2,tier1,801213,3,0,0,Coordination and support services | Multipurpose Cash | Unearmarked
+TTO,2022,3,tier1,15150871,4,0,0,Coordination and support services | Food Security | Health | Unearmarked
+TTO,2022,4,tier1,1937880,5,0,0,Early Recovery | Protection | Unearmarked
+TTO,2022,5,tier1,683496,4,0,0,Coordination and support services | Education | Unearmarked
+TTO,2022,6,tier1,2910630,8,0,0,Coordination and support services | Early Recovery | Emergency Shelter and NFI | Unearmarked
+TTO,2022,7,tier1,1171598,3,0,0,Multipurpose Cash | Protection - Gender-Based Violence | Unearmarked
+TTO,2022,8,tier1,59302,1,0,0,Unearmarked
+TTO,2022,9,tier1,1461279,5,0,0,Early Recovery | Education | Multipurpose Cash | Protection | Protection - Gender-Based Violence
+TTO,2022,10,tier1,340478,1,0,1,Multipurpose Cash
+TTO,2022,11,tier1,4989291,3,0,0,Early Recovery | Emergency Shelter and NFI | Protection - Gender-Based Violence
+TTO,2022,12,tier1,5303,1,0,0,Multipurpose Cash
+TTO,2023,3,tier1,598777,3,0,0,Protection | Protection - Human Trafficking & Smuggling | Unearmarked
+TTO,2023,4,tier1,404489,3,0,0,Health | Protection - Child Protection | Protection - Human Trafficking & Smuggling
+TTO,2023,5,tier1,356291,2,0,1,Multipurpose Cash | Protection - Child Protection
+TTO,2023,6,tier1,7600248,15,0,1,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Protection | Protection - Gender-Based Violence
+TTO,2023,7,tier1,822245,5,0,0,Coordination and support services | Early Recovery | Education | Emergency Shelter and NFI | Food Security
+TTO,2023,9,tier1,1330999,8,0,0,Early Recovery | Education | Emergency Shelter and NFI | Food Security | Health | Protection | Water Sanitation Hygiene
+TTO,2023,11,tier1,171830,1,0,0,Early Recovery
+TTO,2024,6,tier1,7146738,7,0,0,Early Recovery | Health | Other | Unearmarked
+TTO,2024,8,tier1,3054854,4,0,0,Multi-sector | Unearmarked
+TTO,2024,11,tier1,1000000,5,0,0,Early Recovery | Education | Health | Protection | Protection - Gender-Based Violence
+VEN,2019,1,pressure,440000,2,0,0,Coordination and support services | Protection
+VEN,2019,3,pressure,144788,1,0,0,Multi-sector
+VEN,2019,4,pressure,3062585,5,0,0,Health | Nutrition | Protection | Unearmarked | Water Sanitation Hygiene
+VEN,2019,5,pressure,2309493,3,0,1,Multi-sector | Unearmarked
+VEN,2019,6,pressure,13349765,11,1,0,Emergency Shelter and NFI | Health | Multi-sector | Protection | Unearmarked
+VEN,2019,7,pressure,2985743,6,0,1,Nutrition | Protection | Unearmarked
+VEN,2019,8,pressure,3619437,4,0,1,Food Security | Unearmarked
+VEN,2019,9,pressure,17400768,12,0,1,Education | Health | Nutrition | Protection | Water Sanitation Hygiene
+VEN,2019,10,pressure,32323752,14,1,0,Education | Food Security | Health | Nutrition | Protection | Water Sanitation Hygiene
+VEN,2019,11,pressure,108319,1,0,0,Unearmarked
+VEN,2020,1,pressure,25534,1,0,0,Health
+VEN,2020,2,pressure,599250,1,0,0,Water Sanitation Hygiene
+VEN,2020,3,pressure,2631242,6,0,0,Coordination and support services | Education | Health | Protection - Child Protection | Unearmarked
+VEN,2020,4,pressure,5824335,12,1,0,Emergency Shelter and NFI | Health | Multi-sector | Nutrition | Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2020,5,pressure,18998387,18,0,0,COVID-19 | Coordination and support services | Education | Health | Nutrition | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2020,6,pressure,26625907,16,0,1,Coordination and support services | Food Security | Health | Protection | Unearmarked | Water Sanitation Hygiene
+VEN,2020,7,pressure,9797211,7,0,0,Education | Protection | Unearmarked
+VEN,2020,9,pressure,4978922,3,0,1,Multi-sector | Protection | Water Sanitation Hygiene
+VEN,2020,10,pressure,3425069,10,0,0,Coordination and support services | Health | Unearmarked | Water Sanitation Hygiene
+VEN,2020,11,pressure,29448828,31,0,1,Coordination and support services | Education | Health | Multi-sector | Nutrition | Protection | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+VEN,2020,12,pressure,5411885,7,0,0,Coordination and support services | Food Security | Health | Unearmarked
+VEN,2021,1,pressure,28917571,8,0,0,Education | Health | Multi-sector | Nutrition | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+VEN,2021,2,pressure,5600962,2,0,0,Health | Multi-sector
+VEN,2021,3,pressure,13773203,13,0,0,Coordination and support services | Food Security | Multi-sector | Nutrition | Protection | Unearmarked | Water Sanitation Hygiene
+VEN,2021,4,pressure,16798333,31,0,0,COVID-19 | Coordination and support services | Education | Health | Multi-sector | Nutrition | Protection - Child Protection | Unearmarked | Water Sanitation Hygiene
+VEN,2021,5,pressure,1638369,2,0,0,Food Security | Unearmarked
+VEN,2021,6,pressure,23661610,22,0,1,Coordination and support services | Food Security | Health | Multi-sector | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2021,7,pressure,2816571,4,0,0,Food Security | Protection - Gender-Based Violence | Unearmarked
+VEN,2021,8,pressure,9210582,12,1,1,Coordination and support services | Emergency Shelter and NFI | Food Security | Health | Protection
+VEN,2021,9,pressure,11792810,9,1,0,Education | Food Security | Health | Multi-sector | Nutrition | Protection - Child Protection
+VEN,2021,11,pressure,5742094,9,1,0,Health | Multi-sector | Protection - Child Protection | Protection - Gender-Based Violence
+VEN,2021,12,pressure,1833671,3,0,0,Unearmarked
+VEN,2022,1,pressure,1212833,1,0,0,Food Security
+VEN,2022,2,pressure,4678211,11,0,0,Coordination and support services | Emergency Shelter and NFI | Food Security | Health | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+VEN,2022,3,pressure,7938202,9,0,0,Coordination and support services | Education | Food Security | Health | Multi-sector | Unearmarked
+VEN,2022,4,pressure,3165858,8,0,0,Education | Emergency Shelter and NFI | Health | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+VEN,2022,5,pressure,4374504,5,0,1,Education | Food Security | Unearmarked
+VEN,2022,6,pressure,19996407,37,1,1,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Nutrition | Other | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2022,7,pressure,20457758,15,0,0,Coordination and support services | Emergency Shelter and NFI | Food Security | Health | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2022,8,pressure,45500000,11,0,0,Coordination and support services | Food Security | Health | Nutrition | Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+VEN,2022,9,pressure,25277480,19,0,1,Early Recovery | Education | Food Security | Health | Nutrition | Protection | Protection - Child Protection | Water Sanitation Hygiene
+VEN,2022,10,pressure,5103410,4,0,0,Food Security | Unearmarked | Water Sanitation Hygiene
+VEN,2022,11,pressure,1902971,4,0,0,Education | Food Security | Nutrition | Unearmarked
+VEN,2022,12,pressure,30667120,14,1,0,Emergency Shelter and NFI | Food Security | Health | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2023,1,pressure,5754958,14,1,1,Coordination and support services | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Protection - Gender-Based Violence | Unearmarked
+VEN,2023,2,pressure,2929954,4,0,0,Coordination and support services | Unearmarked
+VEN,2023,3,pressure,1434192,1,0,0,Unearmarked
+VEN,2023,4,pressure,3168088,5,0,0,Coordination and support services | Food Security | Unearmarked
+VEN,2023,5,pressure,19658959,17,0,1,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2023,6,pressure,75811213,113,1,1,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2023,7,pressure,10345736,18,0,1,Coordination and support services | Education | Emergency Shelter and NFI | Multi-sector | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2023,8,pressure,5990381,4,0,1,Food Security | Nutrition | Protection - Gender-Based Violence | Unearmarked
+VEN,2023,9,pressure,34321343,10,0,0,Coordination and support services | Education | Food Security | Multi-sector | Protection | Unearmarked | Water Sanitation Hygiene
+VEN,2023,10,pressure,5021850,5,0,0,Food Security | Nutrition | Unearmarked
+VEN,2023,11,pressure,7563599,21,0,0,Education | Emergency Shelter and NFI | Health | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2023,12,pressure,3357877,10,1,0,Emergency Shelter and NFI | Health | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked
+VEN,2024,1,pressure,549305,7,0,0,Education | Emergency Shelter and NFI | Food Security | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Water Sanitation Hygiene
+VEN,2024,2,pressure,22555123,6,0,0,Coordination and support services | Food Security | Unearmarked
+VEN,2024,3,pressure,2233375,12,0,0,Education | Emergency Shelter and NFI | Food Security | Health | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked
+VEN,2024,4,pressure,2021655,3,0,0,Coordination and support services | Unearmarked
+VEN,2024,5,pressure,5983939,12,0,1,Education | Emergency Shelter and NFI | Food Security | Health | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2024,6,pressure,24061265,42,0,1,Coordination and support services | Education | Emergency Shelter and NFI | Food Security | Health | Multi-sector | Nutrition | Protection | Protection - Child Protection | Protection - Gender-Based Violence | Unearmarked | Water Sanitation Hygiene
+VEN,2024,8,pressure,4154734,3,0,0,Coordination and support services | Food Security | Unearmarked
+VEN,2024,9,pressure,53471618,4,0,0,Coordination and support services | Food Security | Unearmarked
+VEN,2024,10,pressure,4277046,6,0,0,Emergency Shelter and NFI | Health | Protection | Unearmarked
+VEN,2024,11,pressure,11466783,6,0,1,Education | Food Security | Multi-sector | Protection - Child Protection | Water Sanitation Hygiene
+VEN,2024,12,pressure,2000000,1,0,0,Unearmarked

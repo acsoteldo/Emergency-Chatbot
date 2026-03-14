@@ -16,7 +16,7 @@ Python, FastAPI, pandas, scipy (HiGHS solver), Chart.js, Leaflet.js, HTML/CSS/JS
 ### Data Sources:
 This project integrates four humanitarian and climate datasets, standardized at the country-month level across 17 Caribbean and Central American countries:
 * EM-DAT International Disaster Database [^1] — disaster events, deaths, and people affected by hazard type
-* Data Source: NOAA IBTrACS — Hurricane Tracks [^2]
+* NOAA IBTrACS — Hurricane Tracks [^2]
 * UNHCR Refugee Data Finder [^3] — bilateral displacement flows, refugee populations, and asylum seekers
 * R4V — Venezuelan Flow Data by Destination Country [^4]
 * INFORM Risk Index [^5] — composite country-level risk scores covering hazard exposure, vulnerability, and coping capacity

@@ -1,6 +1,8 @@
 # Resource Allocation Optimization Under Climate Stress Scenarios
 Data-driven dashboard and NLP chatbot for humanitarian funding gaps and climate risk optimization across the Caribbean & Central America (2019–2024).
 
+> Disclaimer: This project is an independent academic analysis intended for portfolio and research purposes only. Funding figures, optimal allocations, and gap estimates are derived from publicly available datasets and a linear programming model. They do not represent official positions of OCHA, UNHCR, EM-DAT, INFORM, or any humanitarian organization. Data limitations are documented in the Data Notes section. This model should not be used as a basis for operational funding decisions.
+
 ## Getting Started: 
 1. Report and presentation
 2. data/: Contains cleaned datasets used for the analysis and model development (LP optimization)

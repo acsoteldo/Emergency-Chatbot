@@ -115,9 +115,9 @@ https://user-images.githubusercontent.com/76544489/205655200-820dcf9b-dd2b-41b9-
 
 ## Next Steps
 * Expand the dataset beyond 2024 as new FTS and EM-DAT records become available, and automate the ingestion pipeline to keep the optimization model current with each funding cycle.
-* Incorporate additional vulnerability dimensions into the LP model (including food insecurity indices, healthcare access, and climate projections) to produce a more granular need-weighted allocation baseline.
+* Extend the model to 20 countries by incorporating Colombia, Venezuela, and Mexico using UNHCR internal displacement stock data, reframing the budget constraint to reflect the full humanitarian envelope of the displacement corridor from Caracas through the Caribbean and Central America.
+* Replace Ávila's rule-based regex intent detection with a trained text classifier (spaCy or fine-tuned BERT) to improve robustness on typos, mixed-language inputs, and phrasing variations across all 24 intents and 4 languages.
 * Engage humanitarian practitioners and donor organizations to validate the optimization outputs against field-level knowledge, and surface any structural constraints the model does not currently capture.
-* Extend the analysis to sub-national levels for the highest-need countries, particularly Haiti, where country-level aggregation masks significant internal disparities in risk and resource access.
 * Publish the dataset, model, and methodology as an open resource for researchers, NGOs, and policy analysts working on climate-humanitarian linkages in the Caribbean and Central America.
 
 ## Data Notes & Limitations

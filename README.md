@@ -127,7 +127,9 @@ https://user-images.githubusercontent.com/76544489/205655200-820dcf9b-dd2b-41b9-
 * INFORM Risk Index: Forward-filled from 2021 through 2024. Does not reflect post-2021 structural changes. A meaningful gap for Haiti after the Moise assassination and the Bahamas post-Dorian.
 * EM-DAT: Records without a start month are assigned to June by convention. Monthly shock precision is reduced but the annual signal is preserved. Smaller events below reporting thresholds are undercounted.
 * NOAA IBTrACS: Used for peak wind scores and landfall counts. Inland wind decay is not modeled. Storm impact may be understated for Haiti and Guatemala.
+* Country Selection: The 17-country scope follows OCHA's Latin America and Caribbean humanitarian response cluster. Guyana and Suriname are included despite their South American geography because both appear consistently in FTS flows and absorb significant Venezuelan displacement tracked under R4V. 
 * Puerto Rico: Excluded from UNHCR and FTS as a US territory. Federal disaster spending doesn't appear in international humanitarian tracking. FEMA disaster declarations are used as a proxy. Estimated $32.6M in unmet need over six years.
+* Colombia and Venezuela: Excluded by design. Origin and transit countries whose conflict-driven funding profiles would distort the need score weighting applied to destination-country recipients.
 * Mexico: Excluded by design. A transit and destination country with lower INFORM scores and FTS flows skewed toward development rather than emergency response. Corridor pressure is captured upstream through Colombia and Venezuela.
 * LP Model: The need score is a weighted combination of proxy variables. Weights reflect analytical judgment, not empirically validated parameters. The optimal allocation is what the data implies, not a prescription for donor behavior.
 

@@ -13,7 +13,7 @@ Data-driven dashboard and NLP chatbot for humanitarian funding gaps and climate 
 8. webscrape/: for FTS country-level data
 
 ### Tools:
-Python, FastAPI, pandas, scipy (HiGHS solver), Chart.js, Leaflet.js, HTML/CSS/JS
+Python, FastAPI, pandas, scipy (HiGHS solver), HTML/CSS/JS
 
 ### Data Sources:
 This project integrates four humanitarian and climate datasets, standardized at the country-month level across 17 Caribbean and Central American countries:

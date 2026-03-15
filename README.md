@@ -109,6 +109,7 @@ Rule-based NLP chatbot with 24 intents across 4 languages (English, Spanish, Fre
 <img width="2844" height="1550" alt="Image" src="https://github.com/user-attachments/assets/0b7c6428-b9e2-4b6d-8350-d9b40e7eb9cf" />
 
 ### Demo
+https://github.com/user-attachments/assets/01e756da-3822-4d77-af2c-1d560b7e60bb
 
 ### Demo (2022, good ol'times)
 https://user-images.githubusercontent.com/76544489/205655200-820dcf9b-dd2b-41b9-ad94-3646f190b370.mov
